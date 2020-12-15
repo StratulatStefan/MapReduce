@@ -1,0 +1,89 @@
+<uffa , {input\big4.txt : 1}>
+<umbrella , {input\big4.txt : 2}>
+<unable , {input\big4.txt : 1}{input\big5.txt : 2}{input\big.txt : 1}>
+<unbreakable , {input\big4.txt : 1}>
+<uncle , {input\big4.txt : 7}>
+<uncles , {input\big4.txt : 2}>
+<under , {input\big4.txt : 7}{input\big5.txt : 5}{input\big1.txt : 6}{input\big3.txt : 10}{input\big.txt : 11}>
+<understand , {input\big4.txt : 6}{input\big5.txt : 3}{input\big2.txt : 4}{input\big1.txt : 6}{input\big3.txt : 7}>
+<undertake , {input\big4.txt : 1}>
+<undertaking , {input\big4.txt : 1}>
+<unfenced , {input\big4.txt : 1}>
+<unfinished , {input\big4.txt : 1}>
+<unforeseen , {input\big4.txt : 1}>
+<unfortunate , {input\big4.txt : 1}{input\big5.txt : 2}{input\big3.txt : 1}>
+<ungovernable , {input\big4.txt : 1}>
+<unhappy , {input\big4.txt : 1}>
+<unheeded , {input\big4.txt : 1}>
+<union , {input\big4.txt : 1}>
+<unknown , {input\big4.txt : 1}{input\big5.txt : 2}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<unless , {input\big4.txt : 2}{input\big5.txt : 3}>
+<untamed , {input\big4.txt : 1}>
+<until , {input\big4.txt : 9}{input\big5.txt : 6}{input\big1.txt : 2}{input\big3.txt : 10}{input\big.txt : 3}>
+<unusual , {input\big4.txt : 2}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<up , {input\big4.txt : 31}{input\big5.txt : 40}{input\big2.txt : 9}{input\big1.txt : 28}{input\big3.txt : 42}{input\big.txt : 2}>
+<upbraided , {input\big4.txt : 1}>
+<upon , {input\big4.txt : 57}{input\big5.txt : 56}{input\big1.txt : 19}{input\big3.txt : 41}>
+<uppermost , {input\big4.txt : 1}>
+<urging , {input\big4.txt : 1}>
+<us , {input\big4.txt : 24}{input\big5.txt : 20}{input\big2.txt : 4}{input\big1.txt : 5}{input\big3.txt : 12}>
+<use , {input\big4.txt : 3}{input\big5.txt : 2}{input\big1.txt : 2}{input\big3.txt : 6}>
+<used , {input\big4.txt : 3}{input\big5.txt : 2}{input\big2.txt : 1}{input\big3.txt : 2}{input\big.txt : 2}>
+<uses , {input\big4.txt : 1}{input\big5.txt : 1}>
+<ushering , {input\big4.txt : 1}>
+<usual , {input\big4.txt : 3}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<utter , {input\big4.txt : 1}>
+<uttered , {input\big4.txt : 2}{input\big2.txt : 3}>
+<utterly , {input\big4.txt : 2}>
+<ugliness , {input\big5.txt : 1}>
+<ulsters , {input\big5.txt : 1}>
+<ultimate , {input\big5.txt : 1}>
+<un , {input\big5.txt : 1}>
+<uncertain , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<unclaspings , {input\big5.txt : 1}>
+<unconscious , {input\big5.txt : 1}>
+<uncontrollable , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<underneath , {input\big5.txt : 1}>
+<undoubtedly , {input\big5.txt : 2}>
+<ungrateful , {input\big5.txt : 1}>
+<uniform , {input\big5.txt : 1}>
+<unimpeachable , {input\big5.txt : 1}>
+<unique , {input\big5.txt : 1}{input\big3.txt : 2}>
+<unlocked , {input\big5.txt : 2}>
+<unlocking , {input\big5.txt : 1}>
+<unnecessary , {input\big5.txt : 1}>
+<unobserved , {input\big5.txt : 1}>
+<unravelled , {input\big5.txt : 1}>
+<untimely , {input\big5.txt : 1}>
+<upper , {input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 1}>
+<upset , {input\big5.txt : 1}>
+<upstairs , {input\big5.txt : 1}{input\big3.txt : 1}>
+<usage , {input\big5.txt : 1}>
+<useful , {input\big5.txt : 1}{input\big3.txt : 1}{input\big.txt : 2}>
+<understood , {input\big2.txt : 2}{input\big.txt : 1}>
+<uneasily , {input\big2.txt : 1}>
+<unharness , {input\big2.txt : 2}>
+<uncourteous , {input\big1.txt : 1}{input\big3.txt : 1}>
+<undated , {input\big1.txt : 1}{input\big3.txt : 1}>
+<unexpected , {input\big1.txt : 1}{input\big3.txt : 1}>
+<unlikely , {input\big1.txt : 1}{input\big3.txt : 1}>
+<unpleasantness , {input\big1.txt : 1}{input\big3.txt : 1}>
+<ulster , {input\big3.txt : 2}>
+<unbuttoned , {input\big3.txt : 1}>
+<unmarried , {input\big3.txt : 1}>
+<uproar , {input\big3.txt : 1}>
+<us; , {input\big3.txt : 1}>
+<utmost , {input\big3.txt : 1}>
+<uncommon , {input\big.txt : 3}>
+<unhealthy , {input\big.txt : 1}>
+<unobliterated , {input\big.txt : 1}>
+<untreated , {input\big.txt : 1}>
+<upwards , {input\big.txt : 1}>
+<urachus , {input\big.txt : 1}>
+<urates , {input\big.txt : 2}>
+<urethra , {input\big.txt : 1}>
+<urine , {input\big.txt : 2}>
+<usefulness , {input\big.txt : 2}>
+<ushered , {input\big.txt : 1}>
+<usually , {input\big.txt : 18}>
+<uterus , {input\big.txt : 1}>

@@ -1,0 +1,44 @@
+<keen , {input\big4.txt : 2}{input\big1.txt : 3}{input\big3.txt : 3}>
+<keenest , {input\big4.txt : 1}>
+<keep , {input\big4.txt : 2}{input\big5.txt : 3}{input\big2.txt : 2}{input\big3.txt : 5}>
+<keeper , {input\big4.txt : 4}{input\big5.txt : 1}>
+<keeping , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<keeps , {input\big4.txt : 1}{input\big3.txt : 1}>
+<kept , {input\big4.txt : 1}{input\big5.txt : 1}{input\big2.txt : 1}{input\big.txt : 1}>
+<key , {input\big4.txt : 1}{input\big5.txt : 2}{input\big3.txt : 1}>
+<keyhole , {input\big4.txt : 1}>
+<keys , {input\big4.txt : 1}{input\big2.txt : 2}>
+<killed , {input\big4.txt : 1}{input\big5.txt : 1}>
+<kind , {input\big4.txt : 2}{input\big5.txt : 1}{input\big2.txt : 1}{input\big3.txt : 1}>
+<kindly , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<kindness , {input\big4.txt : 1}{input\big3.txt : 1}>
+<kneeling , {input\big4.txt : 1}>
+<knelt , {input\big4.txt : 1}>
+<knew , {input\big4.txt : 8}{input\big5.txt : 15}{input\big2.txt : 1}{input\big1.txt : 5}{input\big3.txt : 6}>
+<knife , {input\big4.txt : 2}{input\big5.txt : 1}>
+<know , {input\big4.txt : 20}{input\big5.txt : 29}{input\big2.txt : 2}{input\big1.txt : 12}{input\big3.txt : 26}>
+<knowing , {input\big4.txt : 2}{input\big5.txt : 3}{input\big3.txt : 1}>
+<knowledge , {input\big4.txt : 1}>
+<known , {input\big4.txt : 6}{input\big5.txt : 2}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<knows , {input\big4.txt : 3}{input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<keener , {input\big5.txt : 1}>
+<kent , {input\big5.txt : 1}>
+<kilburn , {input\big5.txt : 3}>
+<kill , {input\big5.txt : 1}>
+<king , {input\big5.txt : 1}{input\big1.txt : 6}{input\big3.txt : 16}>
+<kitchen , {input\big5.txt : 1}>
+<knees , {input\big5.txt : 2}>
+<knock , {input\big5.txt : 2}>
+<knocked , {input\big5.txt : 2}{input\big.txt : 1}>
+<knot , {input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<knots , {input\big5.txt : 1}>
+<karp , {input\big2.txt : 1}>
+<kempt , {input\big1.txt : 1}{input\big3.txt : 1}>
+<kingdom , {input\big1.txt : 1}{input\big3.txt : 2}>
+<kings , {input\big1.txt : 1}{input\big3.txt : 1}>
+<kramm , {input\big1.txt : 2}{input\big3.txt : 2}>
+<kindliness , {input\big3.txt : 1}>
+<king; , {input\big3.txt : 1}>
+<knee , {input\big3.txt : 1}{input\big.txt : 2}>
+<kidneys , {input\big.txt : 2}>
+<klapps , {input\big.txt : 1}>

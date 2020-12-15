@@ -1,0 +1,215 @@
+<label , {input\big4.txt : 1}>
+<lad , {input\big4.txt : 4}>
+<lady , {input\big4.txt : 2}{input\big5.txt : 4}{input\big1.txt : 3}{input\big3.txt : 8}>
+<laid , {input\big4.txt : 2}{input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 3}>
+<lain , {input\big4.txt : 1}{input\big2.txt : 1}>
+<lake , {input\big4.txt : 1}>
+<lame , {input\big4.txt : 1}>
+<lameness , {input\big4.txt : 1}>
+<lamp , {input\big4.txt : 2}{input\big5.txt : 4}>
+<land , {input\big4.txt : 3}{input\big5.txt : 1}>
+<landladys , {input\big4.txt : 1}>
+<landowners , {input\big4.txt : 1}>
+<largest , {input\big4.txt : 1}{input\big5.txt : 1}>
+<last , {input\big4.txt : 12}{input\big5.txt : 16}{input\big2.txt : 5}{input\big1.txt : 1}{input\big3.txt : 2}>
+<late , {input\big4.txt : 1}{input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 4}>
+<later , {input\big4.txt : 1}{input\big5.txt : 3}{input\big2.txt : 1}{input\big3.txt : 2}>
+<latter , {input\big4.txt : 2}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<laugh , {input\big4.txt : 2}{input\big5.txt : 2}>
+<laughed , {input\big4.txt : 5}{input\big5.txt : 3}{input\big2.txt : 1}{input\big1.txt : 3}{input\big3.txt : 4}>
+<laughing , {input\big4.txt : 2}{input\big5.txt : 1}{input\big2.txt : 1}{input\big1.txt : 3}{input\big3.txt : 4}>
+<law , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<lawyer , {input\big4.txt : 3}{input\big1.txt : 2}{input\big3.txt : 3}>
+<lay , {input\big4.txt : 9}{input\big5.txt : 2}{input\big2.txt : 2}{input\big1.txt : 1}{input\big3.txt : 4}>
+<lead , {input\big4.txt : 3}{input\big1.txt : 1}{input\big3.txt : 2}{input\big.txt : 2}>
+<leaf , {input\big4.txt : 1}>
+<lean , {input\big4.txt : 1}>
+<learn , {input\big4.txt : 1}{input\big3.txt : 1}>
+<learned , {input\big4.txt : 1}{input\big5.txt : 2}>
+<leather , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<leave , {input\big4.txt : 8}{input\big5.txt : 6}{input\big2.txt : 4}{input\big1.txt : 1}{input\big3.txt : 4}>
+<leaves , {input\big4.txt : 1}{input\big.txt : 1}>
+<leaving , {input\big4.txt : 2}{input\big2.txt : 1}{input\big3.txt : 1}>
+<led , {input\big4.txt : 4}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}{input\big.txt : 1}>
+<lee , {input\big4.txt : 1}{input\big5.txt : 2}>
+<left , {input\big4.txt : 17}{input\big5.txt : 13}{input\big2.txt : 3}{input\big1.txt : 5}{input\big3.txt : 14}>
+<leg , {input\big4.txt : 2}{input\big5.txt : 2}>
+<leggings , {input\big4.txt : 1}>
+<length , {input\big4.txt : 1}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<lengthen , {input\big4.txt : 1}>
+<lens , {input\big4.txt : 2}{input\big5.txt : 3}>
+<less , {input\big4.txt : 6}{input\big5.txt : 9}{input\big1.txt : 4}{input\big3.txt : 5}{input\big.txt : 3}>
+<lestrade , {input\big4.txt : 19}>
+<lestrades , {input\big4.txt : 1}>
+<let , {input\big4.txt : 9}{input\big5.txt : 4}{input\big2.txt : 8}{input\big1.txt : 4}{input\big3.txt : 5}{input\big.txt : 1}>
+<letter , {input\big4.txt : 5}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 4}>
+<letters , {input\big4.txt : 3}{input\big5.txt : 1}{input\big2.txt : 1}{input\big1.txt : 3}{input\big3.txt : 3}>
+<lichen , {input\big4.txt : 1}>
+<lid , {input\big4.txt : 1}>
+<lies , {input\big4.txt : 1}{input\big5.txt : 3}>
+<life , {input\big4.txt : 12}{input\big5.txt : 6}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 6}{input\big.txt : 1}>
+<light , {input\big4.txt : 3}{input\big5.txt : 8}{input\big1.txt : 1}{input\big3.txt : 2}{input\big.txt : 1}>
+<like , {input\big4.txt : 12}{input\big5.txt : 13}{input\big2.txt : 2}{input\big1.txt : 5}{input\big3.txt : 9}>
+<liked , {input\big4.txt : 2}>
+<likely , {input\big4.txt : 3}{input\big5.txt : 3}{input\big1.txt : 2}{input\big3.txt : 3}{input\big.txt : 4}>
+<limb , {input\big4.txt : 1}{input\big.txt : 2}>
+<limbs , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 2}>
+<limped , {input\big4.txt : 1}>
+<limping , {input\big4.txt : 1}>
+<limps , {input\big4.txt : 1}>
+<line , {input\big4.txt : 1}{input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 3}>
+<lined , {input\big4.txt : 3}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<lines , {input\big4.txt : 1}{input\big.txt : 3}>
+<lip , {input\big4.txt : 1}{input\big5.txt : 4}{input\big1.txt : 1}{input\big3.txt : 1}>
+<lips , {input\big4.txt : 4}{input\big5.txt : 1}{input\big3.txt : 1}>
+<listened , {input\big4.txt : 3}{input\big2.txt : 3}{input\big1.txt : 1}{input\big3.txt : 3}>
+<listening , {input\big4.txt : 1}>
+<little , {input\big4.txt : 23}{input\big5.txt : 31}{input\big2.txt : 3}{input\big1.txt : 12}{input\big3.txt : 26}{input\big.txt : 3}>
+<live , {input\big4.txt : 5}{input\big5.txt : 1}{input\big3.txt : 1}>
+<lived , {input\big4.txt : 4}{input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 1}>
+<lives , {input\big4.txt : 1}{input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<local , {input\big4.txt : 1}{input\big5.txt : 1}{input\big.txt : 8}>
+<lock , {input\big4.txt : 1}{input\big5.txt : 4}{input\big1.txt : 1}{input\big3.txt : 1}>
+<locked , {input\big4.txt : 3}{input\big5.txt : 1}{input\big3.txt : 2}>
+<lodge , {input\big4.txt : 4}{input\big5.txt : 1}{input\big1.txt : 8}{input\big3.txt : 11}>
+<lodgings , {input\big4.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<logical , {input\big4.txt : 1}{input\big5.txt : 1}>
+<logician , {input\big4.txt : 1}>
+<london , {input\big4.txt : 2}{input\big5.txt : 3}{input\big1.txt : 3}{input\big3.txt : 4}>
+<long , {input\big4.txt : 12}{input\big5.txt : 6}{input\big2.txt : 1}{input\big1.txt : 5}{input\big3.txt : 6}{input\big.txt : 4}>
+<longer , {input\big4.txt : 1}>
+<look , {input\big4.txt : 4}{input\big5.txt : 6}{input\big2.txt : 2}{input\big1.txt : 7}{input\big3.txt : 11}>
+<looked , {input\big4.txt : 7}{input\big5.txt : 3}{input\big2.txt : 6}{input\big1.txt : 8}{input\big3.txt : 9}>
+<looking , {input\big4.txt : 5}{input\big5.txt : 4}{input\big2.txt : 3}{input\big1.txt : 3}{input\big3.txt : 5}>
+<loophole , {input\big4.txt : 1}>
+<lord , {input\big4.txt : 1}{input\big5.txt : 1}{input\big3.txt : 1}>
+<lose , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<losing , {input\big4.txt : 1}>
+<loss , {input\big4.txt : 1}{input\big5.txt : 3}{input\big3.txt : 1}>
+<lost , {input\big4.txt : 2}{input\big5.txt : 5}{input\big2.txt : 1}{input\big1.txt : 3}{input\big3.txt : 4}{input\big.txt : 1}>
+<louder , {input\big4.txt : 1}>
+<love , {input\big4.txt : 1}{input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 6}>
+<loved , {input\big4.txt : 1}{input\big3.txt : 1}>
+<lovely , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<lower , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 2}>
+<luck , {input\big4.txt : 1}>
+<lumber , {input\big4.txt : 1}>
+<lunch , {input\big4.txt : 2}>
+<luncheon , {input\big4.txt : 1}>
+<lust , {input\big4.txt : 1}>
+<luxurious , {input\big4.txt : 1}>
+<lying , {input\big4.txt : 2}{input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<labyrinth , {input\big5.txt : 1}>
+<ladies , {input\big5.txt : 1}>
+<ladys , {input\big5.txt : 3}{input\big3.txt : 1}>
+<ladyships , {input\big5.txt : 1}>
+<landlord , {input\big5.txt : 3}{input\big2.txt : 1}>
+<lane , {input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<lank , {input\big5.txt : 1}>
+<large , {input\big5.txt : 6}{input\big2.txt : 5}{input\big1.txt : 4}{input\big3.txt : 5}{input\big.txt : 2}>
+<larger , {input\big5.txt : 1}{input\big3.txt : 2}>
+<lascar , {input\big5.txt : 4}>
+<lately , {input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 3}>
+<laughing; , {input\big5.txt : 1}>
+<lawn , {input\big5.txt : 3}>
+<laying , {input\big5.txt : 2}>
+<leading , {input\big5.txt : 1}{input\big2.txt : 1}{input\big.txt : 1}>
+<leads , {input\big5.txt : 1}{input\big.txt : 1}>
+<leaning , {input\big5.txt : 2}{input\big2.txt : 1}>
+<learning , {input\big5.txt : 1}>
+<least , {input\big5.txt : 4}{input\big1.txt : 2}{input\big3.txt : 3}{input\big.txt : 2}>
+<leatherhead , {input\big5.txt : 1}>
+<ledger , {input\big5.txt : 3}>
+<legal , {input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<legible , {input\big5.txt : 1}>
+<legs , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<lets , {input\big5.txt : 1}>
+<liberty , {input\big5.txt : 2}{input\big3.txt : 1}>
+<lids , {input\big5.txt : 1}>
+<lie , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 2}>
+<lime , {input\big5.txt : 3}{input\big2.txt : 1}>
+<lining , {input\big5.txt : 4}{input\big.txt : 1}>
+<link , {input\big5.txt : 1}>
+<linked , {input\big5.txt : 1}>
+<links , {input\big5.txt : 1}>
+<list , {input\big5.txt : 2}>
+<living , {input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 2}>
+<longed , {input\big5.txt : 1}{input\big2.txt : 1}>
+<longer; , {input\big5.txt : 1}>
+<looks , {input\big5.txt : 4}>
+<loop , {input\big5.txt : 1}>
+<loose , {input\big5.txt : 2}{input\big.txt : 1}>
+<lot , {input\big5.txt : 2}>
+<loud , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<loudly , {input\big5.txt : 2}{input\big2.txt : 1}>
+<lounged , {input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<lounging , {input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<low , {input\big5.txt : 5}{input\big2.txt : 1}{input\big3.txt : 1}{input\big.txt : 3}>
+<landlords , {input\big2.txt : 3}>
+<lavrushka , {input\big2.txt : 5}>
+<le , {input\big2.txt : 1}>
+<lingered , {input\big2.txt : 1}>
+<lise , {input\big2.txt : 1}>
+<listen , {input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<lodging , {input\big2.txt : 1}>
+<lowered , {input\big2.txt : 1}>
+<la , {input\big1.txt : 1}{input\big3.txt : 1}>
+<lady; , {input\big1.txt : 1}{input\big3.txt : 1}>
+<lamps , {input\big1.txt : 1}{input\big3.txt : 2}>
+<landau , {input\big1.txt : 4}{input\big3.txt : 4}>
+<landlady , {input\big1.txt : 2}{input\big3.txt : 2}>
+<langham , {input\big1.txt : 1}{input\big3.txt : 1}>
+<languid , {input\big1.txt : 1}{input\big3.txt : 1}>
+<lengths , {input\big1.txt : 1}{input\big3.txt : 1}>
+<lengthy , {input\big1.txt : 1}{input\big3.txt : 1}>
+<lenses , {input\big1.txt : 1}{input\big3.txt : 1}>
+<lent , {input\big1.txt : 1}{input\big3.txt : 1}>
+<license , {input\big1.txt : 1}{input\big3.txt : 1}>
+<lighted , {input\big1.txt : 1}{input\big3.txt : 1}>
+<lighting , {input\big1.txt : 2}{input\big3.txt : 2}>
+<lights , {input\big1.txt : 1}{input\big3.txt : 1}>
+<limp , {input\big1.txt : 1}{input\big3.txt : 1}>
+<lit , {input\big1.txt : 1}{input\big3.txt : 3}>
+<loafer , {input\big1.txt : 1}{input\big3.txt : 1}>
+<loafing , {input\big1.txt : 1}{input\big3.txt : 1}>
+<loathed , {input\big1.txt : 1}{input\big3.txt : 1}>
+<locality , {input\big1.txt : 1}{input\big3.txt : 1}>
+<lothman , {input\big1.txt : 1}{input\big3.txt : 1}>
+<loungers , {input\big1.txt : 2}{input\big3.txt : 2}>
+<lover , {input\big1.txt : 1}{input\big3.txt : 1}>
+<lucky , {input\big1.txt : 1}{input\big3.txt : 1}>
+<luggage , {input\big1.txt : 1}{input\big3.txt : 1}>
+<labour , {input\big3.txt : 2}>
+<league , {input\big3.txt : 8}>
+<league: , {input\big3.txt : 1}>
+<lebanon , {input\big3.txt : 1}>
+<lemon , {input\big3.txt : 1}>
+<lengthened , {input\big3.txt : 1}>
+<level , {input\big3.txt : 2}{input\big.txt : 1}>
+<literature , {input\big3.txt : 1}>
+<liver , {input\big3.txt : 1}{input\big.txt : 2}>
+<londoners , {input\big3.txt : 1}>
+<loves , {input\big3.txt : 1}>
+<laboured , {input\big.txt : 1}>
+<labouring , {input\big.txt : 1}>
+<lacrymal , {input\big.txt : 1}>
+<lasts , {input\big.txt : 1}>
+<lateral , {input\big.txt : 1}>
+<lesion , {input\big.txt : 2}>
+<lest , {input\big.txt : 1}>
+<leucocytes , {input\big.txt : 1}>
+<leucocytosis , {input\big.txt : 2}>
+<ligament , {input\big.txt : 2}>
+<ligaments , {input\big.txt : 1}>
+<ligature , {input\big.txt : 1}>
+<limited , {input\big.txt : 1}>
+<livid , {input\big.txt : 1}>
+<loaded , {input\big.txt : 1}>
+<lotion , {input\big.txt : 2}>
+<lotions , {input\big.txt : 1}>
+<lungs , {input\big.txt : 1}>
+<lymph , {input\big.txt : 4}>
+<lymphadenitis , {input\big.txt : 1}>
+<lymphangitis , {input\big.txt : 2}>
+<lymphatic , {input\big.txt : 1}>
+<lymphatics , {input\big.txt : 3}>

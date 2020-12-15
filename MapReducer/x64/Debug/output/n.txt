@@ -1,0 +1,99 @@
+<name , {input\big4.txt : 3}{input\big5.txt : 12}{input\big2.txt : 3}{input\big1.txt : 5}{input\big3.txt : 10}{input\big.txt : 1}>
+<narrative , {input\big4.txt : 1}{input\big3.txt : 2}>
+<narratives , {input\big4.txt : 1}>
+<narrow , {input\big4.txt : 1}>
+<narrowed , {input\big4.txt : 1}>
+<natural , {input\big4.txt : 2}{input\big.txt : 1}>
+<naturally , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<nature , {input\big4.txt : 4}{input\big5.txt : 1}{input\big1.txt : 4}{input\big3.txt : 6}{input\big.txt : 3}>
+<near , {input\big4.txt : 2}{input\big5.txt : 4}{input\big2.txt : 4}{input\big1.txt : 2}{input\big3.txt : 4}{input\big.txt : 3}>
+<nearest , {input\big4.txt : 1}>
+<nearly , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<neck , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 4}>
+<need , {input\big4.txt : 3}{input\big5.txt : 3}{input\big2.txt : 1}{input\big3.txt : 2}>
+<needed , {input\big4.txt : 1}{input\big5.txt : 2}>
+<negroes , {input\big4.txt : 1}>
+<neighbourhood , {input\big4.txt : 3}{input\big1.txt : 2}{input\big3.txt : 2}>
+<nervous , {input\big4.txt : 1}{input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<net , {input\big4.txt : 1}>
+<never , {input\big4.txt : 13}{input\big5.txt : 12}{input\big2.txt : 7}{input\big1.txt : 4}{input\big3.txt : 14}>
+<new , {input\big4.txt : 3}{input\big5.txt : 2}{input\big2.txt : 3}{input\big1.txt : 3}{input\big3.txt : 5}>
+<newcomer , {input\big4.txt : 1}>
+<newly , {input\big4.txt : 1}{input\big5.txt : 2}{input\big2.txt : 1}>
+<news , {input\big4.txt : 3}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<newspapers , {input\big4.txt : 1}{input\big5.txt : 1}>
+<nez , {input\big4.txt : 1}>
+<nice , {input\big4.txt : 2}{input\big1.txt : 1}{input\big3.txt : 2}>
+<nigh , {input\big4.txt : 1}>
+<night , {input\big4.txt : 6}{input\big5.txt : 13}{input\big2.txt : 5}{input\big1.txt : 4}{input\big3.txt : 8}{input\big.txt : 2}>
+<nine , {input\big4.txt : 3}>
+<no , {input\big4.txt : 49}{input\big5.txt : 54}{input\big2.txt : 13}{input\big1.txt : 10}{input\big3.txt : 21}{input\big.txt : 4}>
+<none , {input\big4.txt : 5}{input\big5.txt : 2}{input\big2.txt : 1}{input\big1.txt : 6}{input\big3.txt : 7}>
+<nonsense , {input\big4.txt : 2}>
+<north , {input\big4.txt : 1}{input\big5.txt : 1}{input\big3.txt : 1}>
+<nostrils , {input\big4.txt : 2}>
+<not , {input\big4.txt : 71}{input\big5.txt : 59}{input\big2.txt : 37}{input\big1.txt : 42}{input\big3.txt : 91}{input\big.txt : 12}>
+<note , {input\big4.txt : 3}{input\big5.txt : 1}{input\big1.txt : 8}{input\big3.txt : 9}>
+<notes , {input\big4.txt : 1}{input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 1}>
+<nothing , {input\big4.txt : 14}{input\big5.txt : 10}{input\big2.txt : 6}{input\big1.txt : 7}{input\big3.txt : 16}>
+<notice , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<noticed , {input\big4.txt : 1}{input\big3.txt : 1}>
+<nous , {input\big4.txt : 1}>
+<novel , {input\big4.txt : 1}>
+<now , {input\big4.txt : 17}{input\big5.txt : 41}{input\big2.txt : 16}{input\big1.txt : 11}{input\big3.txt : 26}>
+<number , {input\big4.txt : 2}{input\big5.txt : 2}{input\big1.txt : 2}{input\big3.txt : 2}>
+<name; , {input\big5.txt : 1}{input\big2.txt : 1}>
+<named , {input\big5.txt : 2}{input\big3.txt : 1}>
+<names , {input\big5.txt : 1}>
+<narrowly , {input\big5.txt : 1}{input\big3.txt : 1}>
+<native , {input\big5.txt : 1}>
+<nay , {input\big5.txt : 1}>
+<nearing , {input\big5.txt : 1}>
+<needs , {input\big5.txt : 1}{input\big2.txt : 1}>
+<neighbours , {input\big5.txt : 1}>
+<neither , {input\big5.txt : 1}{input\big2.txt : 3}{input\big1.txt : 1}{input\big3.txt : 3}>
+<neville , {input\big5.txt : 5}>
+<next , {input\big5.txt : 2}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 3}>
+<nights , {input\big5.txt : 1}{input\big2.txt : 1}>
+<nipper , {input\big5.txt : 1}>
+<no; , {input\big5.txt : 3}>
+<nodded , {input\big5.txt : 2}>
+<nodding , {input\big5.txt : 1}>
+<noiseless , {input\big5.txt : 1}>
+<nor , {input\big5.txt : 1}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 4}>
+<nose , {input\big5.txt : 2}{input\big.txt : 1}>
+<nucleus , {input\big5.txt : 1}>
+<numbers , {input\big5.txt : 1}{input\big.txt : 1}>
+<napoleon , {input\big2.txt : 2}>
+<need; , {input\big2.txt : 1}>
+<nicholas , {input\big2.txt : 2}>
+<nobility , {input\big2.txt : 1}>
+<nobody , {input\big2.txt : 1}>
+<nurse , {input\big2.txt : 5}{input\big1.txt : 1}{input\big3.txt : 1}>
+<nurses , {input\big2.txt : 1}>
+<ny , {input\big2.txt : 1}>
+<neat , {input\big1.txt : 1}{input\big3.txt : 1}>
+<necessitate , {input\big1.txt : 1}{input\big3.txt : 1}>
+<neutral , {input\big1.txt : 2}{input\big3.txt : 2}>
+<nitrate , {input\big1.txt : 1}{input\big3.txt : 1}>
+<nobleman , {input\big1.txt : 1}{input\big3.txt : 1}>
+<nod , {input\big1.txt : 1}{input\big3.txt : 1}>
+<nonconformist , {input\big1.txt : 1}{input\big3.txt : 1}>
+<norton , {input\big1.txt : 5}{input\big3.txt : 7}>
+<notepaper , {input\big1.txt : 1}{input\big3.txt : 1}>
+<noting , {input\big1.txt : 1}{input\big3.txt : 1}>
+<numerous , {input\big1.txt : 1}{input\big3.txt : 1}>
+<nee , {input\big3.txt : 1}>
+<nerves , {input\big3.txt : 1}{input\big.txt : 2}>
+<nest , {input\big3.txt : 1}>
+<newspaper , {input\big3.txt : 1}>
+<nicely , {input\big3.txt : 1}>
+<noble , {input\big3.txt : 1}>
+<nominal , {input\big3.txt : 3}>
+<nail , {input\big.txt : 13}>
+<necessary , {input\big.txt : 7}>
+<necrosed , {input\big.txt : 1}>
+<necrosis , {input\big.txt : 1}>
+<neutralising , {input\big.txt : 1}>
+<normal , {input\big.txt : 1}>
+<notably , {input\big.txt : 1}>

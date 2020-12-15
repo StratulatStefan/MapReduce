@@ -1,0 +1,296 @@
+<table , {input\big4.txt : 7}{input\big5.txt : 3}{input\big1.txt : 2}{input\big3.txt : 5}>
+<tackle , {input\big4.txt : 2}>
+<take , {input\big4.txt : 8}{input\big5.txt : 15}{input\big2.txt : 5}{input\big1.txt : 5}{input\big3.txt : 7}{input\big.txt : 4}>
+<taken , {input\big4.txt : 4}{input\big5.txt : 2}{input\big2.txt : 3}{input\big1.txt : 2}{input\big3.txt : 3}{input\big.txt : 1}>
+<tale , {input\big4.txt : 1}{input\big2.txt : 1}>
+<talk , {input\big4.txt : 5}{input\big5.txt : 3}{input\big2.txt : 4}>
+<talking , {input\big4.txt : 2}{input\big2.txt : 3}{input\big1.txt : 1}{input\big3.txt : 1}>
+<tall , {input\big4.txt : 1}{input\big5.txt : 2}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<tangled , {input\big4.txt : 1}{input\big5.txt : 2}>
+<tankerville , {input\big4.txt : 1}>
+<tapping , {input\big4.txt : 1}{input\big5.txt : 1}>
+<taste , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<tea , {input\big4.txt : 1}>
+<tear , {input\big4.txt : 1}>
+<telegram , {input\big4.txt : 1}>
+<tell , {input\big4.txt : 10}{input\big5.txt : 19}{input\big2.txt : 10}{input\big1.txt : 6}{input\big3.txt : 11}>
+<temper , {input\big4.txt : 1}{input\big5.txt : 1}>
+<tempered , {input\big4.txt : 1}>
+<temptation , {input\big4.txt : 1}{input\big5.txt : 1}>
+<tempted , {input\big4.txt : 1}>
+<ten , {input\big4.txt : 1}{input\big5.txt : 1}{input\big2.txt : 1}{input\big1.txt : 2}{input\big3.txt : 6}>
+<tender , {input\big4.txt : 2}{input\big.txt : 3}>
+<terrible , {input\big4.txt : 1}{input\big5.txt : 5}>
+<terribly , {input\big4.txt : 1}{input\big5.txt : 2}>
+<terror , {input\big4.txt : 2}{input\big5.txt : 3}>
+<text , {input\big4.txt : 1}>
+<than , {input\big4.txt : 14}{input\big5.txt : 20}{input\big1.txt : 6}{input\big3.txt : 18}{input\big.txt : 1}>
+<thank , {input\big4.txt : 3}{input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 2}>
+<that , {input\big4.txt : 176}{input\big5.txt : 201}{input\big2.txt : 60}{input\big1.txt : 78}{input\big3.txt : 182}{input\big.txt : 10}>
+<the , {input\big4.txt : 606}{input\big5.txt : 733}{input\big2.txt : 218}{input\big1.txt : 329}{input\big3.txt : 625}{input\big.txt : 473}>
+<their , {input\big4.txt : 5}{input\big5.txt : 11}{input\big2.txt : 9}{input\big1.txt : 9}{input\big3.txt : 11}{input\big.txt : 5}>
+<them , {input\big4.txt : 12}{input\big5.txt : 17}{input\big2.txt : 27}{input\big1.txt : 6}{input\big3.txt : 12}{input\big.txt : 1}>
+<then , {input\big4.txt : 32}{input\big5.txt : 52}{input\big2.txt : 6}{input\big1.txt : 28}{input\big3.txt : 46}>
+<theories , {input\big4.txt : 3}{input\big1.txt : 2}{input\big3.txt : 2}>
+<there , {input\big4.txt : 52}{input\big5.txt : 53}{input\big2.txt : 15}{input\big1.txt : 27}{input\big3.txt : 51}{input\big.txt : 12}>
+<thereby , {input\big4.txt : 1}{input\big.txt : 1}>
+<therefore , {input\big4.txt : 2}{input\big5.txt : 4}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 3}>
+<theres , {input\big4.txt : 2}{input\big5.txt : 1}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 3}>
+<these , {input\big4.txt : 9}{input\big5.txt : 9}{input\big2.txt : 3}{input\big1.txt : 3}{input\big3.txt : 3}{input\big.txt : 6}>
+<they , {input\big4.txt : 16}{input\big5.txt : 15}{input\big2.txt : 23}{input\big1.txt : 10}{input\big3.txt : 19}{input\big.txt : 9}>
+<thick , {input\big4.txt : 2}{input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 4}{input\big.txt : 1}>
+<thin , {input\big4.txt : 1}{input\big5.txt : 2}{input\big.txt : 1}>
+<thing , {input\big4.txt : 10}{input\big5.txt : 5}{input\big2.txt : 2}{input\big1.txt : 2}{input\big3.txt : 5}>
+<things , {input\big4.txt : 2}{input\big5.txt : 2}{input\big1.txt : 3}{input\big3.txt : 4}>
+<think , {input\big4.txt : 13}{input\big5.txt : 17}{input\big2.txt : 5}{input\big1.txt : 8}{input\big3.txt : 14}>
+<thinker , {input\big4.txt : 1}>
+<thinking , {input\big4.txt : 1}{input\big2.txt : 4}{input\big3.txt : 1}>
+<third , {input\big4.txt : 3}{input\big5.txt : 3}>
+<this , {input\big4.txt : 50}{input\big5.txt : 77}{input\big2.txt : 14}{input\big1.txt : 26}{input\big3.txt : 50}{input\big.txt : 22}>
+<those , {input\big4.txt : 9}{input\big5.txt : 7}{input\big1.txt : 4}{input\big3.txt : 4}{input\big.txt : 2}>
+<though , {input\big4.txt : 15}{input\big5.txt : 4}{input\big2.txt : 2}{input\big1.txt : 2}{input\big3.txt : 3}>
+<thought , {input\big4.txt : 7}{input\big5.txt : 8}{input\big2.txt : 11}{input\big1.txt : 2}{input\big3.txt : 9}>
+<threatened , {input\big4.txt : 1}{input\big3.txt : 1}>
+<three , {input\big4.txt : 8}{input\big5.txt : 8}{input\big2.txt : 3}{input\big1.txt : 8}{input\big3.txt : 11}>
+<through , {input\big4.txt : 9}{input\big5.txt : 9}{input\big2.txt : 3}{input\big1.txt : 2}{input\big3.txt : 6}{input\big.txt : 2}>
+<throw , {input\big4.txt : 2}{input\big5.txt : 1}{input\big1.txt : 4}{input\big3.txt : 4}>
+<throwing , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<thrown , {input\big4.txt : 2}{input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<tie , {input\big4.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<time , {input\big4.txt : 21}{input\big5.txt : 18}{input\big2.txt : 2}{input\big1.txt : 6}{input\big3.txt : 15}{input\big.txt : 5}>
+<times , {input\big4.txt : 4}{input\big5.txt : 1}{input\big1.txt : 4}{input\big3.txt : 4}>
+<tinged , {input\big4.txt : 1}>
+<tip , {input\big4.txt : 1}{input\big.txt : 1}>
+<tiptoes , {input\big4.txt : 2}>
+<tire , {input\big4.txt : 1}>
+<tissue , {input\big4.txt : 1}{input\big.txt : 12}>
+<to , {input\big4.txt : 283}{input\big5.txt : 315}{input\big2.txt : 152}{input\big1.txt : 187}{input\big3.txt : 348}{input\big.txt : 104}>
+<tobacco , {input\big4.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<toe , {input\big4.txt : 1}>
+<together , {input\big4.txt : 2}{input\big5.txt : 5}{input\big2.txt : 2}{input\big1.txt : 1}{input\big3.txt : 4}>
+<told , {input\big4.txt : 4}{input\big5.txt : 5}{input\big2.txt : 8}{input\big1.txt : 2}{input\big3.txt : 5}>
+<tomfoolery , {input\big4.txt : 1}>
+<tongue , {input\big4.txt : 1}{input\big5.txt : 1}{input\big2.txt : 1}{input\big.txt : 4}>
+<too , {input\big4.txt : 13}{input\big5.txt : 7}{input\big2.txt : 1}{input\big1.txt : 6}{input\big3.txt : 8}>
+<took , {input\big4.txt : 10}{input\big5.txt : 11}{input\big2.txt : 2}{input\big1.txt : 5}{input\big3.txt : 13}>
+<tossed , {input\big4.txt : 1}{input\big3.txt : 1}>
+<tottering , {input\big4.txt : 1}>
+<touching , {input\big4.txt : 1}>
+<towards , {input\big4.txt : 5}{input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 2}{input\big.txt : 3}>
+<town , {input\big4.txt : 5}{input\big5.txt : 4}{input\big3.txt : 1}>
+<trace , {input\big4.txt : 2}{input\big5.txt : 1}>
+<traced , {input\big4.txt : 1}>
+<traces , {input\big4.txt : 4}>
+<track , {input\big4.txt : 3}{input\big3.txt : 1}{input\big.txt : 2}>
+<tracks , {input\big4.txt : 2}>
+<tradespeople , {input\big4.txt : 1}>
+<tragedy , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<train , {input\big4.txt : 3}{input\big5.txt : 2}{input\big3.txt : 1}>
+<trampled , {input\big4.txt : 1}>
+<transformed , {input\big4.txt : 1}>
+<trap , {input\big4.txt : 1}>
+<treble , {input\big4.txt : 1}>
+<tree , {input\big4.txt : 4}{input\big5.txt : 1}>
+<trees , {input\big4.txt : 1}{input\big2.txt : 1}>
+<trembling , {input\big4.txt : 1}>
+<tricks , {input\big4.txt : 1}>
+<tried , {input\big4.txt : 1}{input\big2.txt : 3}{input\big1.txt : 1}{input\big3.txt : 1}>
+<trifles , {input\big4.txt : 1}>
+<trifling , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<trimly , {input\big4.txt : 1}>
+<troopers , {input\big4.txt : 1}>
+<trouble , {input\big4.txt : 1}{input\big5.txt : 1}{input\big2.txt : 1}>
+<troubles , {input\big4.txt : 1}>
+<true , {input\big4.txt : 6}{input\big5.txt : 4}{input\big2.txt : 2}{input\big1.txt : 1}{input\big3.txt : 3}{input\big.txt : 1}>
+<truly , {input\big4.txt : 1}{input\big3.txt : 1}>
+<trunks , {input\big4.txt : 1}{input\big.txt : 1}>
+<trust , {input\big4.txt : 1}{input\big1.txt : 3}{input\big3.txt : 3}>
+<truth , {input\big4.txt : 2}{input\big5.txt : 2}{input\big2.txt : 1}>
+<trying , {input\big4.txt : 1}{input\big5.txt : 1}{input\big2.txt : 2}>
+<tumultuously , {input\big4.txt : 1}>
+<turn , {input\big4.txt : 4}{input\big5.txt : 6}{input\big2.txt : 1}{input\big1.txt : 2}{input\big3.txt : 4}>
+<turned , {input\big4.txt : 7}{input\big5.txt : 9}{input\big2.txt : 1}{input\big1.txt : 2}{input\big3.txt : 4}>
+<turner , {input\big4.txt : 13}{input\big1.txt : 1}{input\big3.txt : 1}>
+<turners , {input\big4.txt : 2}>
+<turning , {input\big4.txt : 1}{input\big5.txt : 2}{input\big3.txt : 1}>
+<tut , {input\big4.txt : 2}>
+<twelve , {input\big4.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<twenty , {input\big4.txt : 5}{input\big5.txt : 5}{input\big2.txt : 1}{input\big1.txt : 4}{input\big3.txt : 5}{input\big.txt : 1}>
+<twice , {input\big4.txt : 1}{input\big5.txt : 1}{input\big2.txt : 1}{input\big1.txt : 6}{input\big3.txt : 9}>
+<twilight , {input\big4.txt : 1}{input\big2.txt : 1}>
+<twist , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<two , {input\big4.txt : 15}{input\big5.txt : 13}{input\big2.txt : 4}{input\big1.txt : 11}{input\big3.txt : 16}>
+<tail , {input\big5.txt : 4}>
+<tailed , {input\big5.txt : 1}>
+<takes , {input\big5.txt : 1}{input\big3.txt : 1}{input\big.txt : 3}>
+<taking , {input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 3}{input\big.txt : 2}>
+<takings , {input\big5.txt : 2}>
+<tallish , {input\big5.txt : 1}>
+<tallow , {input\big5.txt : 3}>
+<tattered , {input\big5.txt : 2}>
+<teach , {input\big5.txt : 1}>
+<teeth , {input\big5.txt : 1}>
+<telephone , {input\big5.txt : 1}>
+<telling , {input\big5.txt : 1}{input\big3.txt : 2}>
+<tend , {input\big5.txt : 2}{input\big.txt : 1}>
+<tension , {input\big5.txt : 1}{input\big.txt : 3}>
+<tents , {input\big5.txt : 1}>
+<term , {input\big5.txt : 1}{input\big.txt : 1}>
+<terms , {input\big5.txt : 1}{input\big.txt : 1}>
+<terrified , {input\big5.txt : 1}>
+<test , {input\big5.txt : 1}>
+<thames , {input\big5.txt : 1}>
+<thats , {input\big5.txt : 2}{input\big3.txt : 1}>
+<thems , {input\big5.txt : 1}>
+<then: , {input\big5.txt : 1}>
+<these: , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<thief , {input\big5.txt : 1}>
+<thieves , {input\big5.txt : 1}>
+<thing; , {input\big5.txt : 1}>
+<thinks , {input\big5.txt : 1}{input\big3.txt : 1}>
+<thirty , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<thoughtfully , {input\big5.txt : 1}>
+<thousand , {input\big5.txt : 1}>
+<thousands , {input\big5.txt : 1}{input\big3.txt : 1}>
+<threw , {input\big5.txt : 10}{input\big1.txt : 2}{input\big3.txt : 3}>
+<throat , {input\big5.txt : 2}>
+<throats , {input\big5.txt : 1}>
+<throws , {input\big5.txt : 1}>
+<thrust , {input\big5.txt : 1}{input\big2.txt : 1}{input\big3.txt : 1}>
+<thumb , {input\big5.txt : 1}{input\big.txt : 1}>
+<tiara , {input\big5.txt : 1}>
+<ticket , {input\big5.txt : 1}>
+<tied , {input\big5.txt : 1}>
+<times; , {input\big5.txt : 1}>
+<timid , {input\big5.txt : 1}{input\big2.txt : 2}>
+<tinge , {input\big5.txt : 1}>
+<tinkers , {input\big5.txt : 1}>
+<tint , {input\big5.txt : 1}{input\big3.txt : 2}>
+<tips , {input\big5.txt : 1}>
+<tools , {input\big5.txt : 1}>
+<tossing , {input\big5.txt : 1}>
+<tottenham , {input\big5.txt : 3}>
+<touch , {input\big5.txt : 2}{input\big.txt : 1}>
+<touched , {input\big5.txt : 2}{input\big2.txt : 1}>
+<toy , {input\big5.txt : 1}>
+<trade , {input\big5.txt : 1}>
+<tragic , {input\big5.txt : 1}>
+<training , {input\big5.txt : 2}>
+<transferred , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<transform , {input\big5.txt : 1}>
+<transpired , {input\big5.txt : 1}>
+<travelled , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<treasure , {input\big5.txt : 1}>
+<tremor , {input\big5.txt : 1}>
+<trifle , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<trim , {input\big5.txt : 1}>
+<trivial , {input\big5.txt : 2}{input\big.txt : 1}>
+<trophy , {input\big5.txt : 1}>
+<tropics , {input\big5.txt : 1}>
+<troubled , {input\big5.txt : 2}>
+<trove , {input\big5.txt : 1}>
+<trusted , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<try , {input\big5.txt : 1}{input\big2.txt : 2}{input\big3.txt : 1}>
+<tucked , {input\big5.txt : 1}>
+<twentieth , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<twinkled , {input\big5.txt : 1}>
+<twins , {input\big5.txt : 2}>
+<twisted , {input\big5.txt : 3}>
+<twitch , {input\big5.txt : 1}>
+<tavern , {input\big2.txt : 1}>
+<tearing , {input\big2.txt : 1}>
+<tears , {input\big2.txt : 1}>
+<tells , {input\big2.txt : 1}>
+<thankful , {input\big2.txt : 1}>
+<theirs , {input\big2.txt : 1}>
+<themselves , {input\big2.txt : 2}{input\big.txt : 2}>
+<theyre , {input\big2.txt : 1}>
+<thoughts , {input\big2.txt : 3}>
+<threaten , {input\big2.txt : 1}>
+<tikhon , {input\big2.txt : 8}>
+<timidly , {input\big2.txt : 1}>
+<tipsy , {input\big2.txt : 2}>
+<tiptoe , {input\big2.txt : 1}>
+<tomorrow , {input\big2.txt : 1}>
+<tonight , {input\big2.txt : 1}>
+<toward , {input\big2.txt : 5}>
+<trembled , {input\big2.txt : 1}>
+<trick , {input\big2.txt : 2}{input\big3.txt : 2}>
+<tripping , {input\big2.txt : 1}>
+<twitching , {input\big2.txt : 1}>
+<tags , {input\big1.txt : 1}{input\big3.txt : 1}>
+<tap , {input\big1.txt : 1}{input\big3.txt : 1}>
+<task , {input\big1.txt : 1}{input\big3.txt : 1}>
+<temperament , {input\big1.txt : 1}{input\big3.txt : 1}>
+<temple , {input\big1.txt : 3}{input\big3.txt : 4}>
+<texture , {input\big1.txt : 1}{input\big3.txt : 1}>
+<thanking , {input\big1.txt : 1}{input\big3.txt : 1}>
+<theorise , {input\big1.txt : 1}{input\big3.txt : 1}>
+<thoroughly , {input\big1.txt : 1}{input\big3.txt : 1}>
+<threatens , {input\big1.txt : 1}{input\big3.txt : 1}>
+<thursday , {input\big1.txt : 1}{input\big3.txt : 2}>
+<tinted , {input\big1.txt : 1}{input\big3.txt : 1}>
+<title , {input\big1.txt : 1}{input\big3.txt : 2}>
+<top , {input\big1.txt : 3}{input\big3.txt : 5}>
+<tops , {input\big1.txt : 1}{input\big3.txt : 1}>
+<tore , {input\big1.txt : 1}{input\big3.txt : 3}>
+<trained , {input\big1.txt : 1}{input\big3.txt : 2}>
+<tray , {input\big1.txt : 1}{input\big3.txt : 1}>
+<trepoff , {input\big1.txt : 1}{input\big3.txt : 1}>
+<trimmed , {input\big1.txt : 1}{input\big3.txt : 1}>
+<trincomalee , {input\big1.txt : 1}{input\big3.txt : 1}>
+<triumphant , {input\big1.txt : 1}{input\big3.txt : 1}>
+<trousers , {input\big1.txt : 1}{input\big3.txt : 2}>
+<tweed , {input\big1.txt : 1}{input\big3.txt : 1}>
+<twopence , {input\big1.txt : 1}{input\big3.txt : 1}>
+<tying , {input\big1.txt : 1}{input\big3.txt : 1}>
+<tack , {input\big3.txt : 1}>
+<tales , {input\big3.txt : 1}>
+<tattoo , {input\big3.txt : 1}>
+<tattooed , {input\big3.txt : 1}>
+<till , {input\big3.txt : 1}>
+<toast , {input\big3.txt : 1}>
+<tradesman , {input\big3.txt : 1}>
+<tramped , {input\big3.txt : 1}>
+<treachery , {input\big3.txt : 1}>
+<trooped , {input\big3.txt : 1}>
+<trustees , {input\big3.txt : 2}>
+<tugged , {input\big3.txt : 1}>
+<temperature , {input\big.txt : 10}>
+<tenderness , {input\big.txt : 2}>
+<tendon , {input\big.txt : 9}>
+<tendons , {input\big.txt : 6}>
+<tends , {input\big.txt : 2}>
+<tense; , {input\big.txt : 1}>
+<terminal , {input\big.txt : 1}>
+<terminates , {input\big.txt : 1}>
+<thecal , {input\big.txt : 1}>
+<thence , {input\big.txt : 1}>
+<thirst , {input\big.txt : 1}>
+<thither , {input\big.txt : 1}>
+<thoracic , {input\big.txt : 1}>
+<throbbing , {input\big.txt : 2}>
+<throughout , {input\big.txt : 2}>
+<thus , {input\big.txt : 1}>
+<tightness , {input\big.txt : 1}>
+<tissues , {input\big.txt : 5}>
+<toes , {input\big.txt : 2}>
+<tooth , {input\big.txt : 1}>
+<tortuous , {input\big.txt : 1}>
+<toxaemia , {input\big.txt : 1}>
+<toxic , {input\big.txt : 2}>
+<toxin , {input\big.txt : 1}>
+<toxins , {input\big.txt : 8}>
+<transmitted , {input\big.txt : 1}>
+<transverse , {input\big.txt : 2}>
+<travelling , {input\big.txt : 1}>
+<treated , {input\big.txt : 1}>
+<treating , {input\big.txt : 1}>
+<treatment , {input\big.txt : 11}>
+<trunk , {input\big.txt : 1}>
+<tubercle , {input\big.txt : 1}>
+<tuberculosis , {input\big.txt : 2}>
+<tuberculous , {input\big.txt : 3}>
+<tubes , {input\big.txt : 1}>
+<type , {input\big.txt : 1}>
+<typical , {input\big.txt : 1}>

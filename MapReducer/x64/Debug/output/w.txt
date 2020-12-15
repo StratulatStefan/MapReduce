@@ -1,0 +1,220 @@
+<wagon , {input\big4.txt : 1}>
+<wagons , {input\big4.txt : 1}>
+<wait , {input\big4.txt : 1}{input\big1.txt : 2}{input\big3.txt : 5}>
+<waited , {input\big4.txt : 1}{input\big3.txt : 1}>
+<waiter , {input\big4.txt : 1}>
+<waiting , {input\big4.txt : 1}{input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 3}>
+<walk , {input\big4.txt : 2}{input\big5.txt : 1}{input\big2.txt : 1}{input\big1.txt : 3}{input\big3.txt : 4}>
+<walked , {input\big4.txt : 2}{input\big2.txt : 1}{input\big1.txt : 2}{input\big3.txt : 3}>
+<walking , {input\big4.txt : 1}{input\big5.txt : 1}{input\big3.txt : 1}>
+<wallowed , {input\big4.txt : 1}>
+<walls , {input\big4.txt : 1}{input\big.txt : 1}>
+<wander , {input\big4.txt : 2}{input\big5.txt : 2}>
+<wandered , {input\big4.txt : 1}>
+<want , {input\big4.txt : 3}{input\big5.txt : 3}{input\big2.txt : 7}{input\big1.txt : 2}{input\big3.txt : 2}>
+<wanted , {input\big4.txt : 1}{input\big2.txt : 5}{input\big1.txt : 2}{input\big3.txt : 4}>
+<war , {input\big4.txt : 2}{input\big2.txt : 1}>
+<warehouse , {input\big4.txt : 1}>
+<warmth , {input\big4.txt : 1}>
+<warren , {input\big4.txt : 1}>
+<was , {input\big4.txt : 193}{input\big5.txt : 144}{input\big2.txt : 49}{input\big1.txt : 92}{input\big3.txt : 164}>
+<watch , {input\big4.txt : 1}{input\big1.txt : 4}{input\big3.txt : 7}>
+<watched , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<water , {input\big4.txt : 2}{input\big5.txt : 2}{input\big3.txt : 1}{input\big.txt : 1}>
+<waterproof , {input\big4.txt : 2}>
+<watson , {input\big4.txt : 3}{input\big5.txt : 13}{input\big1.txt : 6}{input\big3.txt : 10}>
+<waves , {input\big4.txt : 1}>
+<way , {input\big4.txt : 14}{input\big5.txt : 16}{input\big2.txt : 2}{input\big1.txt : 3}{input\big3.txt : 8}>
+<way: , {input\big4.txt : 1}{input\big3.txt : 1}>
+<ways , {input\big4.txt : 1}{input\big5.txt : 1}{input\big3.txt : 1}>
+<we , {input\big4.txt : 46}{input\big5.txt : 63}{input\big2.txt : 14}{input\big1.txt : 17}{input\big3.txt : 48}{input\big.txt : 4}>
+<weak , {input\big4.txt : 1}{input\big.txt : 1}>
+<wealthy , {input\big4.txt : 2}>
+<weapon , {input\big4.txt : 3}{input\big1.txt : 1}{input\big3.txt : 2}>
+<wears , {input\big4.txt : 1}>
+<weary , {input\big4.txt : 1}{input\big5.txt : 1}{input\big2.txt : 1}>
+<weather , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<wee , {input\big4.txt : 1}>
+<weekly , {input\big4.txt : 1}>
+<weeks , {input\big4.txt : 3}{input\big5.txt : 5}{input\big3.txt : 4}>
+<weighed , {input\big4.txt : 1}>
+<weight , {input\big4.txt : 2}{input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<well , {input\big4.txt : 20}{input\big5.txt : 41}{input\big1.txt : 9}{input\big3.txt : 29}{input\big.txt : 2}>
+<went , {input\big4.txt : 9}{input\big5.txt : 9}{input\big2.txt : 7}{input\big1.txt : 2}{input\big3.txt : 6}>
+<were , {input\big4.txt : 31}{input\big5.txt : 41}{input\big2.txt : 16}{input\big1.txt : 17}{input\big3.txt : 32}>
+<west , {input\big4.txt : 2}{input\big5.txt : 1}{input\big3.txt : 1}>
+<wet , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<what , {input\big4.txt : 45}{input\big5.txt : 42}{input\big2.txt : 22}{input\big1.txt : 22}{input\big3.txt : 46}>
+<whatever , {input\big4.txt : 2}{input\big5.txt : 4}{input\big1.txt : 1}{input\big3.txt : 1}>
+<wheels , {input\big4.txt : 2}{input\big1.txt : 3}{input\big3.txt : 3}>
+<when , {input\big4.txt : 37}{input\big5.txt : 27}{input\big2.txt : 14}{input\big1.txt : 16}{input\big3.txt : 44}{input\big.txt : 19}>
+<whence , {input\big4.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<where , {input\big4.txt : 17}{input\big5.txt : 17}{input\big2.txt : 4}{input\big1.txt : 8}{input\big3.txt : 12}{input\big.txt : 3}>
+<whether , {input\big4.txt : 4}{input\big5.txt : 5}{input\big2.txt : 2}{input\big1.txt : 4}{input\big3.txt : 8}{input\big.txt : 1}>
+<which , {input\big4.txt : 93}{input\big5.txt : 111}{input\big2.txt : 5}{input\big1.txt : 41}{input\big3.txt : 70}{input\big.txt : 32}>
+<while , {input\big4.txt : 8}{input\big5.txt : 5}{input\big2.txt : 6}{input\big1.txt : 7}{input\big3.txt : 9}{input\big.txt : 8}>
+<whipcord , {input\big4.txt : 1}>
+<white , {input\big4.txt : 1}{input\big5.txt : 7}{input\big2.txt : 3}{input\big1.txt : 2}{input\big3.txt : 3}>
+<whither , {input\big4.txt : 1}>
+<who , {input\big4.txt : 26}{input\big5.txt : 40}{input\big2.txt : 13}{input\big1.txt : 27}{input\big3.txt : 38}{input\big.txt : 2}>
+<whoever , {input\big4.txt : 1}{input\big5.txt : 1}>
+<whole , {input\big4.txt : 2}{input\big5.txt : 1}{input\big1.txt : 3}{input\big3.txt : 11}{input\big.txt : 2}>
+<whom , {input\big4.txt : 1}{input\big5.txt : 8}{input\big1.txt : 5}{input\big3.txt : 8}>
+<why , {input\big4.txt : 9}{input\big5.txt : 6}{input\big2.txt : 16}{input\big1.txt : 4}{input\big3.txt : 12}>
+<wicked , {input\big4.txt : 1}>
+<widespread , {input\big4.txt : 1}{input\big5.txt : 1}>
+<wife , {input\big4.txt : 3}{input\big5.txt : 9}{input\big1.txt : 1}{input\big3.txt : 1}>
+<wild , {input\big4.txt : 1}{input\big5.txt : 2}>
+<will , {input\big4.txt : 22}{input\big5.txt : 34}{input\big2.txt : 8}{input\big1.txt : 27}{input\big3.txt : 44}{input\big.txt : 6}>
+<william , {input\big4.txt : 1}>
+<willows , {input\big4.txt : 1}>
+<winced , {input\big4.txt : 1}>
+<wind , {input\big4.txt : 3}{input\big5.txt : 3}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<winding , {input\big4.txt : 2}{input\big5.txt : 1}>
+<window , {input\big4.txt : 1}{input\big5.txt : 8}{input\big2.txt : 1}{input\big1.txt : 6}{input\big3.txt : 11}>
+<windows , {input\big4.txt : 1}{input\big5.txt : 3}{input\big1.txt : 2}{input\big3.txt : 2}>
+<winking , {input\big4.txt : 1}{input\big2.txt : 1}>
+<wired , {input\big4.txt : 1}>
+<wish , {input\big4.txt : 6}{input\big5.txt : 7}{input\big2.txt : 2}{input\big1.txt : 1}{input\big3.txt : 7}>
+<wished , {input\big4.txt : 1}{input\big5.txt : 1}{input\big2.txt : 3}{input\big3.txt : 1}>
+<with , {input\big4.txt : 92}{input\big5.txt : 107}{input\big2.txt : 38}{input\big1.txt : 54}{input\big3.txt : 107}{input\big.txt : 37}>
+<within , {input\big4.txt : 5}{input\big5.txt : 7}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}{input\big.txt : 1}>
+<without , {input\big4.txt : 7}{input\big5.txt : 6}{input\big2.txt : 5}{input\big1.txt : 7}{input\big3.txt : 11}{input\big.txt : 1}>
+<witness , {input\big4.txt : 4}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<witness: , {input\big4.txt : 8}>
+<witted , {input\big4.txt : 1}>
+<woman , {input\big4.txt : 1}{input\big5.txt : 4}{input\big1.txt : 5}{input\big3.txt : 12}>
+<womans , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<women , {input\big4.txt : 1}{input\big2.txt : 2}{input\big1.txt : 2}{input\big3.txt : 3}>
+<wonder , {input\big4.txt : 1}{input\big5.txt : 2}{input\big3.txt : 2}>
+<wonderful , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<wont , {input\big4.txt : 2}{input\big5.txt : 1}{input\big2.txt : 3}{input\big1.txt : 1}{input\big3.txt : 2}>
+<wood , {input\big4.txt : 5}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<woods , {input\big4.txt : 3}>
+<word , {input\big4.txt : 7}{input\big5.txt : 3}{input\big2.txt : 5}{input\big1.txt : 2}{input\big3.txt : 5}>
+<words , {input\big4.txt : 6}{input\big5.txt : 5}{input\big2.txt : 1}{input\big3.txt : 1}>
+<wore , {input\big4.txt : 2}{input\big1.txt : 1}{input\big3.txt : 2}>
+<work , {input\big4.txt : 4}{input\big5.txt : 3}{input\big1.txt : 5}{input\big3.txt : 11}{input\big.txt : 1}>
+<worms , {input\big4.txt : 1}>
+<worse , {input\big4.txt : 1}{input\big5.txt : 2}>
+<worst , {input\big4.txt : 1}{input\big.txt : 1}>
+<worth , {input\big4.txt : 1}{input\big3.txt : 3}>
+<would , {input\big4.txt : 37}{input\big5.txt : 39}{input\big2.txt : 18}{input\big1.txt : 12}{input\big3.txt : 42}>
+<wound , {input\big4.txt : 1}{input\big.txt : 6}>
+<woven , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<wreck , {input\big4.txt : 1}>
+<write , {input\big4.txt : 1}>
+<written , {input\big4.txt : 4}{input\big1.txt : 3}{input\big3.txt : 5}>
+<wrong , {input\big4.txt : 1}{input\big5.txt : 2}{input\big2.txt : 2}>
+<wrongfully , {input\big4.txt : 2}>
+<waddling , {input\big5.txt : 1}>
+<wager , {input\big5.txt : 1}>
+<waistcoat , {input\big5.txt : 1}{input\big3.txt : 1}>
+<walks , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<wall , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 6}>
+<wandering , {input\big5.txt : 2}>
+<wants , {input\big5.txt : 1}>
+<warm , {input\big5.txt : 3}{input\big2.txt : 1}{input\big.txt : 1}>
+<warmed , {input\big5.txt : 1}>
+<wash , {input\big5.txt : 2}>
+<waste , {input\big5.txt : 1}>
+<wasteful , {input\big5.txt : 1}>
+<watching , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<waterloo , {input\big5.txt : 1}>
+<weakening , {input\big5.txt : 1}>
+<wealth , {input\big5.txt : 3}>
+<wear , {input\big5.txt : 2}{input\big1.txt : 2}{input\big3.txt : 2}>
+<wearer , {input\big5.txt : 1}>
+<wedding , {input\big5.txt : 2}>
+<week , {input\big5.txt : 4}{input\big1.txt : 2}{input\big3.txt : 6}>
+<weighted , {input\big5.txt : 1}>
+<western , {input\big5.txt : 1}>
+<westphail , {input\big5.txt : 1}>
+<weve , {input\big5.txt : 1}{input\big2.txt : 2}>
+<whats , {input\big5.txt : 1}{input\big2.txt : 1}>
+<wheal , {input\big5.txt : 1}>
+<wheeler , {input\big5.txt : 1}>
+<whimsical , {input\big5.txt : 2}>
+<whined , {input\big5.txt : 1}>
+<whiskers , {input\big5.txt : 2}>
+<whispered , {input\big5.txt : 1}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<whistle , {input\big5.txt : 5}>
+<whiten , {input\big5.txt : 1}>
+<whitewashed , {input\big5.txt : 1}>
+<whose , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 2}>
+<wickedness , {input\big5.txt : 1}>
+<widow , {input\big5.txt : 1}>
+<wife; , {input\big5.txt : 1}>
+<wifes , {input\big5.txt : 2}>
+<wig , {input\big5.txt : 1}>
+<wigmore , {input\big5.txt : 1}>
+<wimpole , {input\big5.txt : 1}>
+<windfall , {input\big5.txt : 1}>
+<windigate , {input\big5.txt : 3}>
+<wing , {input\big5.txt : 2}>
+<winter , {input\big5.txt : 1}>
+<wishing , {input\big5.txt : 1}>
+<wits , {input\big5.txt : 1}{input\big3.txt : 1}>
+<woke , {input\big5.txt : 1}>
+<won , {input\big5.txt : 1}{input\big2.txt : 1}>
+<wondered , {input\big5.txt : 1}>
+<woodcock , {input\big5.txt : 1}>
+<wooden , {input\big5.txt : 1}{input\big3.txt : 1}>
+<working , {input\big5.txt : 1}>
+<world , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<worn , {input\big5.txt : 1}>
+<wrapped , {input\big5.txt : 2}>
+<wretched , {input\big5.txt : 1}>
+<wrists , {input\big5.txt : 1}>
+<writ , {input\big5.txt : 1}>
+<writhed , {input\big5.txt : 1}>
+<wrote , {input\big5.txt : 1}{input\big1.txt : 3}{input\big3.txt : 3}>
+<wail , {input\big2.txt : 1}>
+<weep , {input\big2.txt : 1}>
+<wide , {input\big2.txt : 1}>
+<wildly , {input\big2.txt : 1}>
+<willing , {input\big2.txt : 2}{input\big3.txt : 3}>
+<words; , {input\big2.txt : 1}>
+<wrinkled , {input\big2.txt : 1}{input\big3.txt : 2}>
+<wrinkles , {input\big2.txt : 1}>
+<wallenstein , {input\big1.txt : 1}{input\big3.txt : 1}>
+<warsaw , {input\big1.txt : 2}{input\big3.txt : 2}>
+<was; , {input\big1.txt : 1}{input\big3.txt : 1}>
+<waved , {input\big1.txt : 1}{input\big3.txt : 1}>
+<waving , {input\big1.txt : 1}{input\big3.txt : 1}>
+<waylaid , {input\big1.txt : 2}{input\big3.txt : 2}>
+<wearing , {input\big1.txt : 1}{input\big3.txt : 1}>
+<wedlock , {input\big1.txt : 1}{input\big3.txt : 1}>
+<wheel , {input\big1.txt : 1}{input\big3.txt : 1}>
+<whiskered , {input\big1.txt : 1}{input\big3.txt : 1}>
+<whistled , {input\big1.txt : 1}{input\big3.txt : 1}>
+<widened , {input\big1.txt : 1}{input\big3.txt : 1}>
+<wilhelm , {input\big1.txt : 1}{input\big3.txt : 1}>
+<wishes , {input\big1.txt : 1}{input\big3.txt : 1}>
+<wondering , {input\big1.txt : 1}{input\big3.txt : 1}>
+<wooing , {input\big1.txt : 1}{input\big3.txt : 1}>
+<wrist , {input\big1.txt : 1}{input\big3.txt : 2}{input\big.txt : 3}>
+<writes , {input\big1.txt : 1}{input\big3.txt : 1}>
+<writing , {input\big1.txt : 2}{input\big3.txt : 4}>
+<wages , {input\big3.txt : 1}>
+<warmly , {input\big3.txt : 1}>
+<warned , {input\big3.txt : 1}>
+<wax , {input\big3.txt : 1}>
+<wedged , {input\big3.txt : 1}>
+<widower , {input\big3.txt : 1}>
+<wigs , {input\big3.txt : 1}>
+<wilson , {input\big3.txt : 16}>
+<wire , {input\big3.txt : 1}>
+<wit , {input\big3.txt : 1}>
+<withdraw , {input\big3.txt : 1}>
+<worked , {input\big3.txt : 1}>
+<worker , {input\big3.txt : 1}>
+<wriggled , {input\big3.txt : 1}>
+<writings , {input\big3.txt : 1}>
+<wronged , {input\big3.txt : 1}>
+<wrung , {input\big3.txt : 1}{input\big.txt : 1}>
+<washing , {input\big.txt : 2}>
+<waxy , {input\big.txt : 2}>
+<whitlow , {input\big.txt : 14}>
+<worsted , {input\big.txt : 1}>
+<wounds , {input\big.txt : 1}>

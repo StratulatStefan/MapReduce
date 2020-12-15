@@ -1,0 +1,297 @@
+<face , {input\big4.txt : 16}{input\big5.txt : 23}{input\big2.txt : 7}{input\big1.txt : 8}{input\big3.txt : 12}{input\big.txt : 2}>
+<faced , {input\big4.txt : 1}{input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 2}>
+<fact , {input\big4.txt : 8}{input\big5.txt : 2}{input\big3.txt : 3}>
+<factory , {input\big4.txt : 1}>
+<facts , {input\big4.txt : 6}{input\big5.txt : 4}{input\big1.txt : 3}{input\big3.txt : 5}>
+<fagged , {input\big4.txt : 1}>
+<failed , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<failing , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<fairly , {input\big4.txt : 1}{input\big5.txt : 1}{input\big3.txt : 1}>
+<faith , {input\big4.txt : 1}>
+<fall , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<fallen , {input\big4.txt : 2}{input\big5.txt : 3}>
+<family , {input\big4.txt : 3}{input\big5.txt : 8}{input\big1.txt : 2}{input\big3.txt : 4}>
+<fancies , {input\big4.txt : 1}{input\big5.txt : 1}>
+<fancy , {input\big4.txt : 2}{input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<far , {input\big4.txt : 8}{input\big5.txt : 1}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 4}>
+<fareham , {input\big4.txt : 1}>
+<farewell , {input\big4.txt : 1}>
+<farm , {input\big4.txt : 6}{input\big2.txt : 1}>
+<farther , {input\big4.txt : 3}{input\big5.txt : 1}{input\big2.txt : 1}>
+<fastening , {input\big4.txt : 1}>
+<fatally , {input\big4.txt : 1}>
+<fate , {input\big4.txt : 3}{input\big2.txt : 1}>
+<father , {input\big4.txt : 39}{input\big5.txt : 3}{input\big2.txt : 6}>
+<fathers , {input\big4.txt : 2}{input\big2.txt : 3}>
+<faults , {input\big4.txt : 1}{input\big3.txt : 1}>
+<favour , {input\big4.txt : 6}{input\big3.txt : 1}>
+<fear , {input\big4.txt : 2}{input\big5.txt : 4}{input\big1.txt : 1}{input\big3.txt : 2}>
+<feature , {input\big4.txt : 1}{input\big5.txt : 1}>
+<features , {input\big4.txt : 3}{input\big5.txt : 2}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}{input\big.txt : 4}>
+<feeling , {input\big4.txt : 2}{input\big5.txt : 3}{input\big2.txt : 3}{input\big.txt : 2}>
+<feet , {input\big4.txt : 7}{input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 1}>
+<fell , {input\big4.txt : 3}{input\big5.txt : 2}{input\big3.txt : 2}>
+<fellow , {input\big4.txt : 1}{input\big5.txt : 11}{input\big3.txt : 2}>
+<ferret , {input\big4.txt : 1}>
+<fetch , {input\big4.txt : 1}>
+<few , {input\big4.txt : 4}{input\big5.txt : 14}{input\big1.txt : 3}{input\big3.txt : 7}{input\big.txt : 3}>
+<field , {input\big4.txt : 2}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<fields , {input\big4.txt : 1}>
+<fierce , {input\big4.txt : 2}{input\big1.txt : 2}{input\big3.txt : 2}>
+<fifty , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<figure , {input\big4.txt : 1}{input\big5.txt : 4}{input\big1.txt : 3}{input\big3.txt : 3}>
+<fill , {input\big4.txt : 1}{input\big3.txt : 1}>
+<final , {input\big4.txt : 1}>
+<finally , {input\big4.txt : 3}{input\big5.txt : 2}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<find , {input\big4.txt : 10}{input\big5.txt : 6}{input\big2.txt : 2}{input\big1.txt : 2}{input\big3.txt : 9}{input\big.txt : 1}>
+<finding , {input\big4.txt : 2}{input\big5.txt : 1}{input\big2.txt : 1}>
+<finds , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<fine , {input\big4.txt : 3}{input\big5.txt : 3}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<finished , {input\big4.txt : 1}{input\big5.txt : 1}{input\big3.txt : 1}>
+<fire , {input\big4.txt : 3}{input\big5.txt : 7}{input\big1.txt : 6}{input\big3.txt : 12}>
+<fireplace , {input\big4.txt : 1}>
+<firm , {input\big4.txt : 2}{input\big.txt : 4}>
+<first , {input\big4.txt : 3}{input\big5.txt : 8}{input\big2.txt : 6}{input\big1.txt : 2}{input\big3.txt : 6}{input\big.txt : 3}>
+<fished , {input\big4.txt : 1}>
+<fits , {input\big4.txt : 1}>
+<five , {input\big4.txt : 5}{input\big5.txt : 4}{input\big1.txt : 8}{input\big3.txt : 9}>
+<fixed , {input\big4.txt : 1}{input\big5.txt : 3}{input\big2.txt : 1}>
+<flap , {input\big4.txt : 1}>
+<flattened , {input\big4.txt : 1}{input\big3.txt : 1}>
+<flaw , {input\big4.txt : 1}>
+<flight , {input\big4.txt : 2}{input\big5.txt : 1}{input\big3.txt : 2}>
+<florida , {input\big4.txt : 1}>
+<fluffy , {input\big4.txt : 1}{input\big5.txt : 1}>
+<flung , {input\big4.txt : 1}>
+<flush , {input\big4.txt : 1}{input\big5.txt : 1}>
+<flushed , {input\big4.txt : 1}{input\big5.txt : 1}{input\big2.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 2}>
+<fly , {input\big4.txt : 1}{input\big5.txt : 2}>
+<flying , {input\big4.txt : 1}>
+<fog , {input\big4.txt : 1}>
+<folded , {input\big4.txt : 1}>
+<follow , {input\big4.txt : 2}{input\big5.txt : 4}{input\big2.txt : 1}{input\big1.txt : 4}{input\big3.txt : 4}{input\big.txt : 3}>
+<followed , {input\big4.txt : 3}{input\big5.txt : 1}{input\big2.txt : 1}{input\big1.txt : 2}{input\big3.txt : 4}{input\big.txt : 2}>
+<following , {input\big4.txt : 1}{input\big5.txt : 2}{input\big2.txt : 2}{input\big1.txt : 2}{input\big3.txt : 2}{input\big.txt : 2}>
+<follows: , {input\big4.txt : 1}{input\big3.txt : 1}>
+<fond , {input\big4.txt : 1}>
+<foot , {input\big4.txt : 5}{input\big3.txt : 1}{input\big.txt : 2}>
+<footmarks , {input\big4.txt : 1}>
+<for , {input\big4.txt : 75}{input\big5.txt : 100}{input\big2.txt : 37}{input\big1.txt : 32}{input\big3.txt : 90}{input\big.txt : 20}>
+<forbid , {input\big4.txt : 1}>
+<forbidding , {input\big4.txt : 1}>
+<forced , {input\big4.txt : 3}{input\big5.txt : 1}{input\big3.txt : 1}>
+<forces , {input\big4.txt : 1}>
+<fordham , {input\big4.txt : 2}>
+<forebodings , {input\big4.txt : 1}>
+<foreign , {input\big4.txt : 1}{input\big.txt : 2}>
+<foresee , {input\big4.txt : 1}>
+<foretold , {input\big4.txt : 1}>
+<forgetfulness; , {input\big4.txt : 1}>
+<formed , {input\big4.txt : 2}{input\big.txt : 2}>
+<forming , {input\big4.txt : 1}{input\big5.txt : 1}>
+<forts , {input\big4.txt : 1}>
+<fortune , {input\big4.txt : 1}{input\big5.txt : 2}{input\big3.txt : 4}>
+<forward , {input\big4.txt : 2}{input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 4}>
+<fought , {input\big4.txt : 1}>
+<foul , {input\big4.txt : 4}>
+<found , {input\big4.txt : 12}{input\big5.txt : 13}{input\big2.txt : 1}{input\big1.txt : 7}{input\big3.txt : 12}{input\big.txt : 2}>
+<founded , {input\big4.txt : 2}{input\big5.txt : 1}{input\big3.txt : 1}>
+<four , {input\big4.txt : 4}{input\big5.txt : 5}{input\big1.txt : 2}{input\big3.txt : 4}{input\big.txt : 1}>
+<fourth , {input\big4.txt : 1}>
+<frame , {input\big4.txt : 1}>
+<franchise , {input\big4.txt : 1}>
+<free , {input\big4.txt : 3}{input\big5.txt : 1}{input\big2.txt : 1}{input\big.txt : 5}>
+<freebody , {input\big4.txt : 1}>
+<frenzy , {input\big4.txt : 2}>
+<fresh , {input\big4.txt : 2}{input\big5.txt : 3}{input\big2.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<friend , {input\big4.txt : 5}{input\big5.txt : 11}{input\big2.txt : 2}{input\big1.txt : 5}{input\big3.txt : 8}>
+<friends , {input\big4.txt : 2}{input\big5.txt : 2}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<from , {input\big4.txt : 63}{input\big5.txt : 59}{input\big2.txt : 14}{input\big1.txt : 30}{input\big3.txt : 57}{input\big.txt : 26}>
+<front , {input\big4.txt : 2}{input\big5.txt : 4}{input\big2.txt : 2}{input\big1.txt : 7}{input\big3.txt : 8}{input\big.txt : 1}>
+<full , {input\big4.txt : 1}{input\big5.txt : 1}{input\big2.txt : 1}{input\big3.txt : 2}{input\big.txt : 1}>
+<furnished , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<furniture , {input\big4.txt : 1}{input\big3.txt : 1}>
+<further , {input\big4.txt : 1}{input\big5.txt : 3}{input\big.txt : 2}>
+<furtive , {input\big4.txt : 1}>
+<fuss , {input\big4.txt : 1}{input\big5.txt : 1}>
+<future , {input\big4.txt : 2}{input\big2.txt : 1}{input\big3.txt : 2}>
+<faces , {input\big5.txt : 1}{input\big2.txt : 5}>
+<facet , {input\big5.txt : 1}>
+<facility , {input\big5.txt : 1}>
+<fail , {input\big5.txt : 2}{input\big1.txt : 2}{input\big3.txt : 2}{input\big.txt : 1}>
+<fain , {input\big5.txt : 1}>
+<fainted , {input\big5.txt : 1}>
+<fairer , {input\big5.txt : 1}>
+<familiar , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<families , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<famous , {input\big5.txt : 1}>
+<fancier , {input\big5.txt : 1}>
+<fanlight , {input\big5.txt : 1}>
+<fantastic , {input\big5.txt : 1}>
+<farintosh , {input\big5.txt : 2}>
+<fashion , {input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 2}>
+<fat , {input\big5.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<fatal , {input\big5.txt : 1}{input\big3.txt : 1}>
+<fattened , {input\big5.txt : 2}>
+<fattest , {input\big5.txt : 1}>
+<feared , {input\big5.txt : 1}{input\big2.txt : 1}>
+<fears , {input\big5.txt : 1}>
+<feathers , {input\big5.txt : 1}>
+<felony , {input\big5.txt : 2}>
+<felt , {input\big5.txt : 5}{input\big2.txt : 7}{input\big1.txt : 1}{input\big3.txt : 3}>
+<ferocious , {input\big5.txt : 1}>
+<fiercely , {input\big5.txt : 2}>
+<fight , {input\big5.txt : 1}>
+<filed , {input\big5.txt : 1}>
+<filling , {input\big5.txt : 1}{input\big2.txt : 1}>
+<finder , {input\big5.txt : 1}>
+<finger , {input\big5.txt : 4}{input\big3.txt : 2}{input\big.txt : 11}>
+<fingers , {input\big5.txt : 1}{input\big.txt : 6}>
+<finish , {input\big5.txt : 1}>
+<fists , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<fit , {input\big5.txt : 1}>
+<fitted , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<fiver , {input\big5.txt : 2}>
+<flagged , {input\big5.txt : 1}>
+<flapped , {input\big5.txt : 2}>
+<flare , {input\big5.txt : 1}>
+<flaring , {input\big5.txt : 1}>
+<flat , {input\big5.txt : 1}>
+<fled , {input\big5.txt : 1}>
+<flesh , {input\big5.txt : 1}>
+<flew , {input\big5.txt : 1}>
+<flitted , {input\big5.txt : 1}>
+<flock , {input\big5.txt : 1}>
+<floor , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<fluttered , {input\big5.txt : 1}>
+<focus , {input\big5.txt : 1}{input\big.txt : 6}>
+<folk , {input\big5.txt : 2}{input\big3.txt : 2}>
+<folks , {input\big5.txt : 1}>
+<footfalls , {input\big5.txt : 2}>
+<force , {input\big5.txt : 2}{input\big2.txt : 2}{input\big.txt : 1}>
+<forceps , {input\big5.txt : 1}>
+<forearm , {input\big5.txt : 1}{input\big.txt : 3}>
+<forehead , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<foresight , {input\big5.txt : 5}>
+<forget , {input\big5.txt : 1}{input\big2.txt : 1}>
+<forgiveness , {input\big5.txt : 1}>
+<forgot , {input\big5.txt : 1}{input\big3.txt : 1}>
+<formerly , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<forth , {input\big5.txt : 1}>
+<fortnight , {input\big5.txt : 1}>
+<fortnights , {input\big5.txt : 1}>
+<fortunes , {input\big5.txt : 2}{input\big3.txt : 1}>
+<forty , {input\big5.txt : 1}>
+<fowl , {input\big5.txt : 1}>
+<fowls , {input\big5.txt : 3}>
+<framed , {input\big5.txt : 1}>
+<frantically , {input\big5.txt : 1}>
+<freed , {input\big5.txt : 1}>
+<freely , {input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<frequent , {input\big5.txt : 2}{input\big.txt : 1}>
+<frightened , {input\big5.txt : 4}>
+<fro , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<frock , {input\big5.txt : 1}{input\big3.txt : 1}>
+<frogged , {input\big5.txt : 1}>
+<frost , {input\big5.txt : 2}>
+<frosty , {input\big5.txt : 1}>
+<fulfil , {input\big5.txt : 1}>
+<fully , {input\big5.txt : 1}>
+<funny , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<fair , {input\big2.txt : 1}>
+<faltered , {input\big2.txt : 1}>
+<fast , {input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<fathom , {input\big2.txt : 1}{input\big3.txt : 1}>
+<favor , {input\big2.txt : 2}>
+<feeble , {input\big2.txt : 1}{input\big.txt : 3}>
+<feed , {input\big2.txt : 1}>
+<feeding , {input\big2.txt : 1}>
+<feel , {input\big2.txt : 1}{input\big.txt : 1}>
+<feelings , {input\big2.txt : 1}>
+<fellows , {input\big2.txt : 1}>
+<fifteen , {input\big2.txt : 1}>
+<fifteenth , {input\big2.txt : 1}>
+<food , {input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<fool , {input\big2.txt : 1}>
+<footpace , {input\big2.txt : 1}>
+<foreboding , {input\big2.txt : 1}>
+<forgive , {input\big2.txt : 1}>
+<forgotten , {input\big2.txt : 1}>
+<french , {input\big2.txt : 6}>
+<frenchmen , {input\big2.txt : 1}>
+<frenchy , {input\big2.txt : 1}>
+<factor , {input\big1.txt : 2}{input\big3.txt : 2}>
+<factories , {input\big1.txt : 1}{input\big3.txt : 1}>
+<faculties , {input\big1.txt : 1}{input\big3.txt : 1}>
+<false , {input\big1.txt : 1}{input\big3.txt : 3}>
+<fare , {input\big1.txt : 2}{input\big3.txt : 2}>
+<fasteners , {input\big1.txt : 1}{input\big3.txt : 1}>
+<faster , {input\big1.txt : 1}{input\big3.txt : 1}>
+<felstein , {input\big1.txt : 1}{input\big3.txt : 1}>
+<fills , {input\big1.txt : 1}{input\big3.txt : 1}>
+<finely , {input\big1.txt : 1}{input\big3.txt : 1}>
+<firelight , {input\big1.txt : 1}{input\big3.txt : 1}>
+<fishes , {input\big1.txt : 1}{input\big3.txt : 2}>
+<flame , {input\big1.txt : 1}{input\big3.txt : 2}>
+<flaming , {input\big1.txt : 1}{input\big3.txt : 1}>
+<flirting , {input\big1.txt : 1}{input\big3.txt : 1}>
+<flurried , {input\big1.txt : 1}{input\big3.txt : 1}>
+<forefinger , {input\big1.txt : 1}{input\big3.txt : 2}>
+<forgery , {input\big1.txt : 1}{input\big3.txt : 1}>
+<form , {input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 12}>
+<former , {input\big1.txt : 2}{input\big3.txt : 2}>
+<formidable , {input\big1.txt : 1}{input\big3.txt : 2}>
+<fortunate , {input\big1.txt : 1}{input\big3.txt : 3}>
+<freemasonry , {input\big1.txt : 1}{input\big3.txt : 2}>
+<frenchman , {input\big1.txt : 1}{input\big3.txt : 1}>
+<frequently , {input\big1.txt : 2}{input\big3.txt : 2}{input\big.txt : 4}>
+<fronts , {input\big1.txt : 1}{input\big3.txt : 1}>
+<fur , {input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<furnish , {input\big1.txt : 1}{input\big3.txt : 1}>
+<faded , {input\big3.txt : 1}>
+<fault , {input\big3.txt : 2}>
+<favourable , {input\big3.txt : 1}>
+<fiery , {input\big3.txt : 2}>
+<figures , {input\big3.txt : 1}>
+<filled , {input\big3.txt : 2}>
+<fingertips , {input\big3.txt : 1}>
+<fish , {input\big3.txt : 1}>
+<fleet , {input\big3.txt : 2}>
+<florid , {input\big3.txt : 1}>
+<foolscap , {input\big3.txt : 2}>
+<forehead; , {input\big3.txt : 1}>
+<forever , {input\big3.txt : 1}>
+<forfeit , {input\big3.txt : 1}>
+<fourteen , {input\big3.txt : 1}>
+<fraud , {input\big3.txt : 1}>
+<frayed , {input\big3.txt : 1}>
+<freedom , {input\big3.txt : 1}>
+<freemason , {input\big3.txt : 1}>
+<friday , {input\big3.txt : 1}>
+<fund , {input\big3.txt : 2}>
+<fails , {input\big.txt : 2}>
+<falls , {input\big.txt : 1}>
+<fascia , {input\big.txt : 3}>
+<fasciae , {input\big.txt : 1}>
+<femoral , {input\big.txt : 1}>
+<fever , {input\big.txt : 5}>
+<fibres , {input\big.txt : 1}>
+<fibrous , {input\big.txt : 1}>
+<fig , {input\big.txt : 10}>
+<fistula , {input\big.txt : 6}>
+<fistula; , {input\big.txt : 3}>
+<fistulae , {input\big.txt : 5}>
+<flex , {input\big.txt : 2}>
+<flexed , {input\big.txt : 2}>
+<flexor , {input\big.txt : 3}>
+<fluctuation , {input\big.txt : 3}>
+<fluid , {input\big.txt : 1}>
+<fluttering , {input\big.txt : 1}>
+<foetal , {input\big.txt : 1}>
+<fold , {input\big.txt : 4}>
+<fomentations , {input\big.txt : 1}>
+<formation , {input\big.txt : 6}>
+<forms , {input\big.txt : 12}>
+<fracture , {input\big.txt : 1}>
+<frequency , {input\big.txt : 1}>
+<fuse , {input\big.txt : 1}>

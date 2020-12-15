@@ -1,0 +1,224 @@
+<ha , {input\big4.txt : 3}{input\big5.txt : 2}{input\big1.txt : 3}{input\big3.txt : 3}>
+<had , {input\big4.txt : 104}{input\big5.txt : 94}{input\big2.txt : 41}{input\big1.txt : 39}{input\big3.txt : 79}>
+<hail , {input\big4.txt : 1}>
+<hair , {input\big4.txt : 1}{input\big5.txt : 8}{input\big3.txt : 9}>
+<half , {input\big4.txt : 1}{input\big5.txt : 11}{input\big1.txt : 11}{input\big3.txt : 14}>
+<hall , {input\big4.txt : 2}{input\big1.txt : 3}{input\big3.txt : 3}>
+<hand , {input\big4.txt : 13}{input\big5.txt : 10}{input\big2.txt : 2}{input\big1.txt : 7}{input\big3.txt : 16}{input\big.txt : 6}>
+<handed , {input\big4.txt : 3}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<handedness , {input\big4.txt : 1}>
+<hands , {input\big4.txt : 2}{input\big5.txt : 10}{input\big2.txt : 1}{input\big1.txt : 4}{input\big3.txt : 8}>
+<handsome , {input\big4.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<hanged , {input\big4.txt : 3}>
+<hanging , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<hangs , {input\big4.txt : 1}>
+<happened , {input\big4.txt : 2}{input\big5.txt : 1}{input\big2.txt : 1}>
+<happily , {input\big4.txt : 2}>
+<happy , {input\big4.txt : 1}{input\big5.txt : 1}>
+<hard , {input\big4.txt : 7}{input\big5.txt : 4}{input\big1.txt : 1}{input\big3.txt : 3}>
+<hardihood , {input\big4.txt : 1}>
+<hardly , {input\big4.txt : 4}{input\big5.txt : 4}{input\big2.txt : 1}{input\big1.txt : 3}{input\big3.txt : 5}>
+<harm , {input\big4.txt : 1}{input\big5.txt : 1}>
+<has , {input\big4.txt : 22}{input\big5.txt : 43}{input\big2.txt : 4}{input\big1.txt : 18}{input\big3.txt : 35}{input\big.txt : 7}>
+<hatherley , {input\big4.txt : 6}>
+<have , {input\big4.txt : 90}{input\big5.txt : 95}{input\big2.txt : 30}{input\big1.txt : 42}{input\big3.txt : 99}{input\big.txt : 10}>
+<having , {input\big4.txt : 10}{input\big5.txt : 11}{input\big2.txt : 2}{input\big1.txt : 2}{input\big3.txt : 4}{input\big.txt : 2}>
+<he , {input\big4.txt : 213}{input\big5.txt : 160}{input\big2.txt : 62}{input\big1.txt : 81}{input\big3.txt : 175}{input\big.txt : 3}>
+<head , {input\big4.txt : 5}{input\big5.txt : 9}{input\big2.txt : 3}{input\big1.txt : 2}{input\big3.txt : 10}>
+<headed , {input\big4.txt : 1}{input\big3.txt : 10}>
+<headings , {input\big4.txt : 1}>
+<health , {input\big4.txt : 3}{input\big5.txt : 1}>
+<hear , {input\big4.txt : 3}{input\big5.txt : 4}{input\big1.txt : 2}{input\big3.txt : 6}>
+<heard , {input\big4.txt : 10}{input\big5.txt : 13}{input\big2.txt : 6}{input\big1.txt : 6}{input\big3.txt : 14}>
+<hearing , {input\big4.txt : 1}{input\big2.txt : 1}>
+<hears , {input\big4.txt : 1}>
+<heart , {input\big4.txt : 7}{input\big5.txt : 2}{input\big2.txt : 1}{input\big3.txt : 1}>
+<hearted , {input\big4.txt : 1}>
+<heavily , {input\big4.txt : 1}{input\big5.txt : 3}{input\big3.txt : 1}>
+<heavy , {input\big4.txt : 3}{input\big5.txt : 4}{input\big1.txt : 4}{input\big3.txt : 5}>
+<heels , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<height , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<heiress , {input\big4.txt : 1}>
+<held , {input\big4.txt : 6}{input\big5.txt : 3}{input\big2.txt : 1}{input\big3.txt : 1}>
+<hellish , {input\big4.txt : 1}>
+<help , {input\big4.txt : 5}{input\big5.txt : 8}{input\big2.txt : 3}{input\big1.txt : 4}{input\big3.txt : 5}>
+<helped , {input\big4.txt : 1}{input\big5.txt : 1}>
+<helpless , {input\big4.txt : 1}{input\big2.txt : 3}{input\big1.txt : 1}{input\big3.txt : 1}>
+<her , {input\big4.txt : 22}{input\big5.txt : 41}{input\big2.txt : 74}{input\big1.txt : 31}{input\big3.txt : 48}>
+<herd , {input\big4.txt : 1}>
+<here , {input\big4.txt : 21}{input\big5.txt : 19}{input\big2.txt : 12}{input\big1.txt : 3}{input\big3.txt : 6}{input\big.txt : 1}>
+<hereditary , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<hereford , {input\big4.txt : 2}>
+<herefordshire , {input\big4.txt : 1}>
+<hesitation , {input\big4.txt : 1}>
+<hide , {input\big4.txt : 1}{input\big5.txt : 1}>
+<hideous , {input\big4.txt : 1}>
+<high , {input\big4.txt : 3}{input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 3}>
+<higher , {input\big4.txt : 2}>
+<highroad , {input\big4.txt : 1}>
+<highway , {input\big4.txt : 1}>
+<hill , {input\big4.txt : 1}>
+<him , {input\big4.txt : 65}{input\big5.txt : 53}{input\big2.txt : 18}{input\big1.txt : 13}{input\big3.txt : 31}{input\big.txt : 2}>
+<himself , {input\big4.txt : 8}{input\big5.txt : 9}{input\big2.txt : 3}{input\big1.txt : 5}{input\big3.txt : 7}>
+<his , {input\big4.txt : 185}{input\big5.txt : 132}{input\big2.txt : 37}{input\big1.txt : 96}{input\big3.txt : 143}{input\big.txt : 2}>
+<hold , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<holder , {input\big4.txt : 3}>
+<holding , {input\big4.txt : 1}>
+<holmes , {input\big4.txt : 50}{input\big5.txt : 60}{input\big1.txt : 29}{input\big3.txt : 63}>
+<home , {input\big4.txt : 6}{input\big5.txt : 3}{input\big2.txt : 2}{input\big1.txt : 4}{input\big3.txt : 6}>
+<hood , {input\big4.txt : 1}>
+<hook , {input\big4.txt : 1}>
+<hope , {input\big4.txt : 3}{input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 4}>
+<hopes , {input\big4.txt : 2}{input\big3.txt : 4}>
+<horror , {input\big4.txt : 2}{input\big5.txt : 3}{input\big2.txt : 2}>
+<horsham , {input\big4.txt : 7}>
+<hot , {input\big4.txt : 3}{input\big5.txt : 2}{input\big1.txt : 2}{input\big3.txt : 2}{input\big.txt : 2}>
+<hotel , {input\big4.txt : 4}{input\big5.txt : 7}>
+<hour , {input\big4.txt : 1}{input\big5.txt : 6}{input\big2.txt : 2}{input\big1.txt : 3}{input\big3.txt : 3}>
+<hours , {input\big4.txt : 2}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 3}{input\big.txt : 4}>
+<house , {input\big4.txt : 6}{input\big5.txt : 15}{input\big2.txt : 9}{input\big1.txt : 12}{input\big3.txt : 16}>
+<houses , {input\big4.txt : 2}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<how , {input\big4.txt : 15}{input\big5.txt : 19}{input\big2.txt : 5}{input\big1.txt : 15}{input\big3.txt : 26}>
+<however , {input\big4.txt : 15}{input\big5.txt : 8}{input\big2.txt : 1}{input\big1.txt : 5}{input\big3.txt : 9}{input\big.txt : 2}>
+<however; , {input\big4.txt : 1}>
+<howl , {input\big4.txt : 1}>
+<human , {input\big4.txt : 1}{input\big5.txt : 3}{input\big3.txt : 1}>
+<hundred , {input\big4.txt : 2}{input\big5.txt : 2}{input\big1.txt : 3}{input\big3.txt : 6}>
+<hurried , {input\big4.txt : 3}{input\big5.txt : 2}{input\big1.txt : 2}{input\big3.txt : 3}>
+<hurriedly , {input\big4.txt : 1}{input\big3.txt : 1}>
+<hurry , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<hurt , {input\big4.txt : 1}{input\big3.txt : 1}>
+<husband , {input\big4.txt : 1}{input\big3.txt : 3}>
+<hypothesis , {input\big4.txt : 1}>
+<habits , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 2}>
+<haggard , {input\big5.txt : 1}>
+<hailed , {input\big5.txt : 1}>
+<haired , {input\big5.txt : 1}>
+<hampshire , {input\big5.txt : 1}>
+<handing , {input\big5.txt : 1}>
+<handled , {input\big5.txt : 1}>
+<handling , {input\big5.txt : 1}>
+<happen , {input\big5.txt : 1}>
+<happiness , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<harley , {input\big5.txt : 1}>
+<harrow , {input\big5.txt : 1}>
+<hastening , {input\big5.txt : 1}>
+<hat , {input\big5.txt : 29}{input\big2.txt : 1}{input\big1.txt : 3}{input\big3.txt : 4}>
+<hats , {input\big5.txt : 1}{input\big2.txt : 1}>
+<he; , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<heads , {input\big5.txt : 1}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 3}>
+<hearts , {input\big5.txt : 1}{input\big.txt : 1}>
+<hearty , {input\big5.txt : 2}>
+<heaven , {input\big5.txt : 1}>
+<heavens , {input\big5.txt : 1}>
+<heavier , {input\big5.txt : 1}>
+<heirs , {input\big5.txt : 1}>
+<helen , {input\big5.txt : 3}>
+<helping , {input\big5.txt : 1}{input\big2.txt : 1}>
+<hence , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<henry , {input\big5.txt : 10}>
+<heres , {input\big5.txt : 1}{input\big3.txt : 2}>
+<hes , {input\big5.txt : 2}{input\big3.txt : 4}>
+<hesitated , {input\big5.txt : 1}{input\big3.txt : 1}>
+<highly , {input\big5.txt : 1}{input\big3.txt : 1}>
+<him; , {input\big5.txt : 1}{input\big2.txt : 1}>
+<hinges , {input\big5.txt : 1}>
+<history , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<holborn , {input\big5.txt : 2}>
+<holiday , {input\big5.txt : 1}{input\big2.txt : 1}{input\big3.txt : 1}>
+<hollow , {input\big5.txt : 1}>
+<holmes; , {input\big5.txt : 1}{input\big3.txt : 1}>
+<homely , {input\big5.txt : 2}>
+<homeward , {input\big5.txt : 1}>
+<honest , {input\big5.txt : 1}>
+<honoria , {input\big5.txt : 1}>
+<hopeful , {input\big5.txt : 1}>
+<hopeless , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<horner , {input\big5.txt : 13}>
+<horrible , {input\big5.txt : 1}{input\big2.txt : 1}>
+<horrid , {input\big5.txt : 1}>
+<horsey , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<hospitality , {input\big5.txt : 1}>
+<host , {input\big5.txt : 1}>
+<howling , {input\big5.txt : 1}>
+<hubbub , {input\big5.txt : 2}>
+<hudson , {input\big5.txt : 3}>
+<huffed , {input\big5.txt : 1}>
+<huge , {input\big5.txt : 1}{input\big3.txt : 1}>
+<hugh , {input\big5.txt : 1}>
+<hum , {input\big5.txt : 2}{input\big1.txt : 3}{input\big3.txt : 3}>
+<humanity , {input\big5.txt : 1}>
+<hundreds , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<hung , {input\big5.txt : 2}>
+<hungry , {input\big5.txt : 1}>
+<hunted , {input\big5.txt : 1}>
+<hurled , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<hush , {input\big5.txt : 1}>
+<halt , {input\big2.txt : 1}>
+<handkerchief , {input\big2.txt : 1}>
+<happening , {input\big2.txt : 1}>
+<harness , {input\big2.txt : 2}{input\big1.txt : 2}{input\big3.txt : 2}>
+<hay , {input\big2.txt : 2}>
+<heated , {input\big2.txt : 1}>
+<her; , {input\big2.txt : 1}>
+<herself , {input\big2.txt : 5}{input\big1.txt : 1}{input\big3.txt : 2}>
+<hills , {input\big2.txt : 2}>
+<honor , {input\big2.txt : 4}>
+<honors , {input\big2.txt : 1}>
+<hoped , {input\big2.txt : 1}{input\big3.txt : 1}>
+<horrified , {input\big2.txt : 1}>
+<horse , {input\big2.txt : 6}>
+<horseflies , {input\big2.txt : 1}>
+<horses , {input\big2.txt : 6}{input\big1.txt : 3}{input\big3.txt : 3}>
+<horses; , {input\big2.txt : 1}>
+<hostile , {input\big2.txt : 1}>
+<house: , {input\big2.txt : 1}>
+<housing , {input\big2.txt : 1}>
+<humble , {input\big2.txt : 1}>
+<humiliating , {input\big2.txt : 1}>
+<hunger , {input\big2.txt : 2}>
+<hussar , {input\big2.txt : 1}>
+<habit , {input\big1.txt : 1}{input\big3.txt : 2}>
+<hadnt , {input\big1.txt : 1}{input\big3.txt : 2}>
+<halfway , {input\big1.txt : 1}{input\big3.txt : 2}>
+<hankeys , {input\big1.txt : 1}{input\big3.txt : 1}>
+<hansom , {input\big1.txt : 1}{input\big3.txt : 1}>
+<hare , {input\big1.txt : 1}{input\big3.txt : 1}>
+<harsh , {input\big1.txt : 1}{input\big3.txt : 1}>
+<heartily , {input\big1.txt : 1}{input\big3.txt : 2}>
+<hebrew , {input\big1.txt : 1}{input\big3.txt : 1}>
+<hercules , {input\big1.txt : 1}{input\big3.txt : 1}>
+<holland , {input\big1.txt : 1}{input\big3.txt : 1}>
+<honour , {input\big1.txt : 2}{input\big3.txt : 3}>
+<hoofs , {input\big1.txt : 1}{input\big3.txt : 1}>
+<hungrily , {input\big1.txt : 1}{input\big3.txt : 1}>
+<hammered , {input\big3.txt : 1}>
+<handy , {input\big3.txt : 1}>
+<hardened , {input\big3.txt : 1}>
+<hell , {input\big3.txt : 1}>
+<helper , {input\big3.txt : 1}>
+<hesitate , {input\big3.txt : 1}>
+<hindrance , {input\big3.txt : 1}>
+<hoarsely , {input\big3.txt : 1}>
+<hoax , {input\big3.txt : 1}>
+<hole , {input\big3.txt : 1}>
+<honourable , {input\big3.txt : 1}>
+<hopkins , {input\big3.txt : 2}>
+<hospital , {input\big3.txt : 1}>
+<household , {input\big3.txt : 1}>
+<humdrum , {input\big3.txt : 1}>
+<haemorrhage , {input\big.txt : 2}>
+<haemorrhages , {input\big.txt : 1}>
+<handle , {input\big.txt : 1}>
+<hastened , {input\big.txt : 1}>
+<healed , {input\big.txt : 1}>
+<healing , {input\big.txt : 5}>
+<heals , {input\big.txt : 1}>
+<healthy , {input\big.txt : 1}>
+<heat , {input\big.txt : 1}>
+<hectic , {input\big.txt : 4}>
+<hernia , {input\big.txt : 1}>
+<hiltons , {input\big.txt : 1}>
+<hopeful; , {input\big.txt : 1}>
+<hydrogen , {input\big.txt : 2}>
+<hyperaemia , {input\big.txt : 3}>

@@ -1,0 +1,47 @@
+<jack , {input\big4.txt : 2}>
+<jacksons , {input\big4.txt : 1}>
+<jagged , {input\big4.txt : 1}>
+<james , {input\big4.txt : 8}{input\big5.txt : 2}>
+<january , {input\big4.txt : 2}>
+<john , {input\big4.txt : 5}{input\big5.txt : 3}{input\big1.txt : 2}{input\big3.txt : 3}>
+<joke , {input\big4.txt : 1}>
+<joseph , {input\big4.txt : 1}>
+<jot , {input\big4.txt : 1}>
+<journey , {input\big4.txt : 1}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<judge , {input\big4.txt : 2}>
+<jumped , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<junior , {input\big4.txt : 1}>
+<jury , {input\big4.txt : 3}>
+<jury; , {input\big4.txt : 1}>
+<juryman: , {input\big4.txt : 1}>
+<just , {input\big4.txt : 5}{input\big5.txt : 21}{input\big2.txt : 3}{input\big1.txt : 11}{input\big3.txt : 22}>
+<jutting , {input\big4.txt : 1}>
+<jacket , {input\big5.txt : 2}>
+<jamess , {input\big5.txt : 1}>
+<jem , {input\big5.txt : 2}>
+<jem; , {input\big5.txt : 1}>
+<jems , {input\big5.txt : 1}>
+<jerked , {input\big5.txt : 1}>
+<jet , {input\big5.txt : 1}>
+<jewel , {input\big5.txt : 7}{input\big3.txt : 1}>
+<jewels , {input\big5.txt : 1}>
+<job , {input\big5.txt : 1}{input\big3.txt : 1}>
+<joking , {input\big5.txt : 2}>
+<jollification , {input\big5.txt : 1}>
+<jostling , {input\big5.txt : 1}>
+<jove , {input\big5.txt : 1}>
+<jug , {input\big5.txt : 1}>
+<julia , {input\big5.txt : 3}>
+<jestingly , {input\big2.txt : 1}>
+<joined , {input\big2.txt : 1}{input\big3.txt : 1}>
+<joyfully , {input\big2.txt : 1}>
+<jane , {input\big1.txt : 1}{input\big3.txt : 1}>
+<jersey , {input\big1.txt : 1}{input\big3.txt : 1}>
+<johns , {input\big1.txt : 1}{input\big3.txt : 1}>
+<join , {input\big1.txt : 1}{input\big3.txt : 1}>
+<jabez , {input\big3.txt : 6}>
+<judicial , {input\big3.txt : 1}>
+<jaundice , {input\big.txt : 1}>
+<jaw , {input\big.txt : 1}>
+<joint , {input\big.txt : 5}>
+<joints , {input\big.txt : 6}>

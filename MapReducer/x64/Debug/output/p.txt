@@ -1,0 +1,401 @@
+<paced , {input\big4.txt : 1}{input\big2.txt : 1}{input\big1.txt : 3}{input\big3.txt : 3}>
+<paces , {input\big4.txt : 2}>
+<paid , {input\big4.txt : 1}{input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 1}>
+<pained , {input\big4.txt : 1}>
+<painful , {input\big4.txt : 1}{input\big2.txt : 1}{input\big.txt : 1}>
+<pains , {input\big4.txt : 2}>
+<pair , {input\big4.txt : 2}{input\big1.txt : 3}{input\big3.txt : 3}>
+<pale , {input\big4.txt : 1}{input\big5.txt : 1}{input\big.txt : 1}>
+<palm , {input\big4.txt : 1}{input\big5.txt : 2}{input\big3.txt : 2}{input\big.txt : 7}>
+<palpitating , {input\big4.txt : 1}>
+<pals , {input\big4.txt : 1}>
+<paper , {input\big4.txt : 8}{input\big5.txt : 3}{input\big1.txt : 8}{input\big3.txt : 15}>
+<papers , {input\big4.txt : 9}{input\big5.txt : 6}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<paradol , {input\big4.txt : 1}>
+<paragraph , {input\big4.txt : 1}>
+<parietal , {input\big4.txt : 1}>
+<park , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<part , {input\big4.txt : 3}{input\big5.txt : 6}{input\big1.txt : 7}{input\big3.txt : 10}{input\big.txt : 7}>
+<parted , {input\big4.txt : 3}>
+<partially , {input\big4.txt : 1}>
+<particularly , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}{input\big.txt : 1}>
+<party , {input\big4.txt : 2}>
+<passage , {input\big4.txt : 1}{input\big5.txt : 3}{input\big1.txt : 2}{input\big3.txt : 2}{input\big.txt : 1}>
+<passed , {input\big4.txt : 5}{input\big5.txt : 3}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}{input\big.txt : 1}>
+<passing , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}{input\big.txt : 1}>
+<passion , {input\big4.txt : 1}{input\big5.txt : 1}>
+<past , {input\big4.txt : 3}{input\big5.txt : 3}{input\big2.txt : 3}{input\big1.txt : 3}{input\big3.txt : 5}>
+<patentee , {input\big4.txt : 1}>
+<patersons , {input\big4.txt : 1}>
+<path , {input\big4.txt : 2}{input\big5.txt : 1}{input\big.txt : 1}>
+<pathway , {input\big4.txt : 1}>
+<patience , {input\big4.txt : 1}>
+<pattered , {input\big4.txt : 1}>
+<peace , {input\big4.txt : 3}{input\big5.txt : 1}{input\big3.txt : 1}>
+<peculiar , {input\big4.txt : 3}{input\big5.txt : 2}{input\big1.txt : 2}{input\big3.txt : 5}{input\big.txt : 1}>
+<peeped , {input\big4.txt : 1}>
+<peeping , {input\big4.txt : 1}>
+<peering , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<pen , {input\big4.txt : 5}{input\big3.txt : 1}>
+<people , {input\big4.txt : 1}{input\big5.txt : 4}{input\big2.txt : 2}{input\big1.txt : 3}{input\big3.txt : 4}>
+<perhaps , {input\big4.txt : 3}{input\big5.txt : 7}{input\big2.txt : 3}{input\big1.txt : 2}{input\big3.txt : 4}>
+<permit , {input\big4.txt : 1}>
+<perplexing , {input\big4.txt : 1}>
+<person , {input\big4.txt : 1}{input\big5.txt : 2}{input\big1.txt : 5}{input\big3.txt : 6}>
+<personality , {input\big4.txt : 1}>
+<persuade , {input\big4.txt : 1}{input\big5.txt : 1}>
+<petrarch , {input\big4.txt : 1}>
+<picked , {input\big4.txt : 2}{input\big5.txt : 1}>
+<picking , {input\big4.txt : 1}>
+<pikestaff , {input\big4.txt : 1}>
+<pince , {input\big4.txt : 1}>
+<pink , {input\big4.txt : 1}{input\big5.txt : 1}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<pinnacles , {input\big4.txt : 1}>
+<pipe , {input\big4.txt : 1}{input\big5.txt : 3}>
+<pips , {input\big4.txt : 4}>
+<pistol , {input\big4.txt : 1}{input\big5.txt : 1}>
+<pit , {input\big4.txt : 1}>
+<pits , {input\big4.txt : 1}>
+<place , {input\big4.txt : 2}{input\big5.txt : 5}{input\big2.txt : 1}{input\big3.txt : 1}{input\big.txt : 8}>
+<plaid , {input\big4.txt : 1}>
+<plain , {input\big4.txt : 1}{input\big5.txt : 1}>
+<plainer , {input\big4.txt : 1}>
+<plainly , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<plantation , {input\big4.txt : 1}{input\big5.txt : 1}>
+<planter , {input\big4.txt : 1}>
+<plate , {input\big4.txt : 2}>
+<platform , {input\big4.txt : 1}>
+<play , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<playing , {input\big4.txt : 1}{input\big3.txt : 1}>
+<please , {input\big4.txt : 1}{input\big5.txt : 1}{input\big2.txt : 2}{input\big3.txt : 1}>
+<plot , {input\big4.txt : 2}>
+<pocket , {input\big4.txt : 3}{input\big5.txt : 3}{input\big1.txt : 2}{input\big3.txt : 3}>
+<point , {input\big4.txt : 7}{input\big5.txt : 3}{input\big1.txt : 4}{input\big3.txt : 6}{input\big.txt : 3}>
+<pointed , {input\big4.txt : 1}{input\big5.txt : 2}{input\big2.txt : 4}>
+<points , {input\big4.txt : 8}{input\big5.txt : 3}{input\big.txt : 1}>
+<poisoning , {input\big4.txt : 1}{input\big.txt : 4}>
+<police , {input\big4.txt : 2}{input\big5.txt : 8}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<policeman , {input\big4.txt : 1}{input\big5.txt : 1}>
+<policy , {input\big4.txt : 1}>
+<politicians , {input\big4.txt : 1}>
+<politics , {input\big4.txt : 1}>
+<pondered , {input\big4.txt : 1}>
+<pondicherry , {input\big4.txt : 1}>
+<pooh , {input\big4.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<pool , {input\big4.txt : 14}>
+<poor , {input\big4.txt : 3}{input\big5.txt : 4}{input\big2.txt : 2}{input\big3.txt : 2}>
+<popular , {input\big4.txt : 1}>
+<populous , {input\big4.txt : 1}>
+<portsdown , {input\big4.txt : 1}>
+<position , {input\big4.txt : 1}{input\big5.txt : 1}{input\big2.txt : 2}{input\big1.txt : 2}{input\big3.txt : 4}>
+<positive , {input\big4.txt : 1}{input\big5.txt : 1}{input\big3.txt : 1}>
+<possessed , {input\big4.txt : 2}>
+<possession , {input\big4.txt : 2}{input\big5.txt : 2}{input\big2.txt : 1}>
+<possible , {input\big4.txt : 2}{input\big5.txt : 8}{input\big2.txt : 1}{input\big3.txt : 2}{input\big.txt : 6}>
+<posterior , {input\big4.txt : 1}>
+<postmark , {input\big4.txt : 2}>
+<power , {input\big4.txt : 3}{input\big5.txt : 2}{input\big2.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}{input\big.txt : 1}>
+<practical , {input\big4.txt : 2}>
+<pray , {input\big4.txt : 6}{input\big5.txt : 9}{input\big2.txt : 2}{input\big1.txt : 3}{input\big3.txt : 5}>
+<preach , {input\big4.txt : 1}>
+<prefer , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<prejudice , {input\big4.txt : 1}>
+<prendergast , {input\big4.txt : 1}>
+<preposterous , {input\big4.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<presence , {input\big4.txt : 2}{input\big2.txt : 1}{input\big.txt : 1}>
+<present , {input\big4.txt : 2}{input\big5.txt : 2}{input\big2.txt : 2}{input\big1.txt : 4}{input\big3.txt : 6}{input\big.txt : 4}>
+<presently , {input\big4.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<press , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<pressing , {input\big4.txt : 1}{input\big5.txt : 1}>
+<pressure , {input\big4.txt : 1}{input\big.txt : 2}>
+<presumably , {input\big4.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<presume , {input\big4.txt : 2}{input\big5.txt : 2}{input\big3.txt : 1}>
+<presuming , {input\big4.txt : 1}>
+<presumption , {input\big4.txt : 1}>
+<pretty , {input\big4.txt : 1}{input\big5.txt : 2}{input\big2.txt : 2}{input\big1.txt : 1}{input\big3.txt : 2}>
+<printed , {input\big4.txt : 1}{input\big5.txt : 1}>
+<prison , {input\big4.txt : 2}{input\big5.txt : 2}>
+<privacy , {input\big4.txt : 1}>
+<private , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 3}>
+<probable , {input\big4.txt : 2}{input\big5.txt : 1}{input\big3.txt : 1}>
+<probably , {input\big4.txt : 2}{input\big5.txt : 3}{input\big2.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<proceed , {input\big4.txt : 1}{input\big5.txt : 1}>
+<proceedings , {input\big4.txt : 1}{input\big5.txt : 1}{input\big3.txt : 1}>
+<produce , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 5}>
+<promise , {input\big4.txt : 1}{input\big5.txt : 1}{input\big2.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<pronounce , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<proof , {input\big4.txt : 1}{input\big5.txt : 2}>
+<property , {input\big4.txt : 2}{input\big5.txt : 2}{input\big2.txt : 1}>
+<proposal , {input\big4.txt : 1}>
+<propose , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<prospect , {input\big4.txt : 1}>
+<protruding , {input\big4.txt : 1}{input\big5.txt : 2}>
+<prove , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<provoked , {input\big4.txt : 1}{input\big5.txt : 1}>
+<publicity , {input\big4.txt : 1}{input\big5.txt : 1}>
+<pulled , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 3}{input\big3.txt : 7}>
+<puny , {input\big4.txt : 1}>
+<purely , {input\big4.txt : 1}{input\big3.txt : 3}>
+<pushed , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 4}>
+<put , {input\big4.txt : 4}{input\big5.txt : 9}{input\big1.txt : 1}{input\big3.txt : 5}{input\big.txt : 1}>
+<putty , {input\big4.txt : 1}{input\big5.txt : 1}>
+<puzzled , {input\big4.txt : 2}>
+<page , {input\big5.txt : 3}>
+<pain , {input\big5.txt : 1}{input\big3.txt : 1}{input\big.txt : 8}>
+<paint , {input\big5.txt : 1}{input\big3.txt : 2}>
+<painted , {input\big5.txt : 1}>
+<pal , {input\big5.txt : 1}>
+<pale; , {input\big5.txt : 1}>
+<pall , {input\big5.txt : 1}>
+<panel , {input\big5.txt : 1}{input\big3.txt : 2}>
+<paragraph: , {input\big5.txt : 1}>
+<parapet , {input\big5.txt : 1}>
+<parched , {input\big5.txt : 1}>
+<pass , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<passers , {input\big5.txt : 1}>
+<passionately , {input\big5.txt : 1}>
+<patches , {input\big5.txt : 1}{input\big.txt : 1}>
+<patent , {input\big5.txt : 1}>
+<patted , {input\big5.txt : 1}>
+<patting , {input\big5.txt : 1}>
+<pauper; , {input\big5.txt : 1}>
+<paused , {input\big5.txt : 1}{input\big2.txt : 2}{input\big1.txt : 1}{input\big3.txt : 2}>
+<pay , {input\big5.txt : 3}{input\big1.txt : 2}{input\big3.txt : 8}>
+<paying , {input\big5.txt : 1}>
+<peaked , {input\big5.txt : 1}>
+<peeled , {input\big5.txt : 1}>
+<penal , {input\big5.txt : 1}>
+<pence , {input\big5.txt : 2}>
+<pencil , {input\big5.txt : 1}>
+<pennies , {input\big5.txt : 1}>
+<pentonville , {input\big5.txt : 1}>
+<perceive , {input\big5.txt : 1}{input\big3.txt : 1}>
+<perfectly , {input\big5.txt : 5}{input\big3.txt : 2}>
+<permission , {input\big5.txt : 1}>
+<perpetrated , {input\big5.txt : 1}>
+<perpetual , {input\big5.txt : 1}>
+<perspired , {input\big5.txt : 1}>
+<pestered , {input\big5.txt : 1}>
+<pestering , {input\big5.txt : 1}>
+<pet , {input\big5.txt : 1}>
+<peterson , {input\big5.txt : 10}>
+<petersons , {input\big5.txt : 1}>
+<photograph , {input\big5.txt : 1}{input\big1.txt : 9}{input\big3.txt : 21}>
+<pick , {input\big5.txt : 1}>
+<pierce , {input\big5.txt : 1}>
+<pierced , {input\big5.txt : 1}{input\big3.txt : 1}>
+<pigments , {input\big5.txt : 1}>
+<pile , {input\big5.txt : 1}>
+<pillow , {input\big5.txt : 1}>
+<pillows , {input\big5.txt : 1}>
+<pitiable , {input\big5.txt : 2}>
+<pity , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<placed , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 3}>
+<places , {input\big5.txt : 3}{input\big.txt : 2}>
+<plaster , {input\big5.txt : 1}>
+<plausible , {input\big5.txt : 1}>
+<played , {input\big5.txt : 1}>
+<pleasure , {input\big5.txt : 3}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<pledge , {input\big5.txt : 1}>
+<plentiful , {input\big5.txt : 1}>
+<plied , {input\big5.txt : 1}>
+<plumber , {input\big5.txt : 3}>
+<plumped , {input\big5.txt : 1}>
+<pockets , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<pointing , {input\big5.txt : 2}>
+<pomposity , {input\big5.txt : 1}>
+<possibly , {input\big5.txt : 2}{input\big3.txt : 1}>
+<post , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 2}>
+<poultry , {input\big5.txt : 1}>
+<pound , {input\big5.txt : 1}>
+<pounds , {input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 3}>
+<poured , {input\big5.txt : 2}>
+<pouring , {input\big5.txt : 1}>
+<practice , {input\big5.txt : 3}{input\big1.txt : 3}{input\big3.txt : 3}>
+<precaution , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<precious , {input\big5.txt : 3}{input\big3.txt : 1}>
+<precise , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<precisely , {input\big5.txt : 5}{input\big1.txt : 4}{input\big3.txt : 4}>
+<preference , {input\big5.txt : 1}>
+<premature , {input\big5.txt : 1}>
+<presented , {input\big5.txt : 2}{input\big2.txt : 3}{input\big3.txt : 2}>
+<preserve , {input\big5.txt : 1}{input\big3.txt : 1}>
+<prevent , {input\big5.txt : 1}{input\big.txt : 3}>
+<previous , {input\big5.txt : 1}{input\big2.txt : 1}>
+<price , {input\big5.txt : 1}{input\big3.txt : 1}>
+<pride , {input\big5.txt : 1}{input\big2.txt : 1}{input\big3.txt : 1}>
+<prisoner , {input\big5.txt : 5}>
+<prisoners , {input\big5.txt : 1}>
+<probability , {input\big5.txt : 1}>
+<problem , {input\big5.txt : 4}{input\big1.txt : 2}{input\big3.txt : 3}>
+<problems , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<profession , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<professional , {input\big5.txt : 3}>
+<projecting , {input\big5.txt : 1}>
+<proofs , {input\big5.txt : 1}>
+<proosia , {input\big5.txt : 1}>
+<proper , {input\big5.txt : 1}{input\big.txt : 1}>
+<proprietor , {input\big5.txt : 1}>
+<prosecuted , {input\big5.txt : 1}>
+<prosperity , {input\big5.txt : 1}>
+<protect , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<protested , {input\big5.txt : 1}>
+<protruded , {input\big5.txt : 1}>
+<proved , {input\big5.txt : 1}>
+<provision , {input\big5.txt : 1}>
+<prying , {input\big5.txt : 1}>
+<public , {input\big5.txt : 2}>
+<punishment , {input\big5.txt : 1}>
+<purity , {input\big5.txt : 1}>
+<purple , {input\big5.txt : 1}>
+<purpose , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<purveyor , {input\big5.txt : 1}>
+<putting , {input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 4}>
+<pa , {input\big2.txt : 2}>
+<packed , {input\big2.txt : 1}{input\big.txt : 1}>
+<pasture , {input\big2.txt : 1}>
+<peasant , {input\big2.txt : 3}>
+<peasants , {input\big2.txt : 21}>
+<picture , {input\big2.txt : 1}>
+<pictures , {input\big2.txt : 2}{input\big3.txt : 1}{input\big.txt : 1}>
+<porch; , {input\big2.txt : 1}>
+<pretend , {input\big2.txt : 1}>
+<previously , {input\big2.txt : 1}>
+<prince , {input\big2.txt : 8}{input\big1.txt : 1}{input\big3.txt : 1}>
+<princely , {input\big2.txt : 1}>
+<princess , {input\big2.txt : 40}{input\big1.txt : 1}{input\big3.txt : 1}>
+<protection , {input\big2.txt : 1}>
+<protests , {input\big2.txt : 1}>
+<proudly , {input\big2.txt : 1}>
+<provisions , {input\big2.txt : 1}>
+<pull , {input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 3}>
+<pacing , {input\big1.txt : 2}{input\big3.txt : 2}>
+<packet , {input\big1.txt : 1}{input\big3.txt : 1}>
+<papier , {input\big1.txt : 1}{input\big3.txt : 1}>
+<paragraphs , {input\big1.txt : 1}{input\big3.txt : 1}>
+<parallel , {input\big1.txt : 1}{input\big3.txt : 1}>
+<passions , {input\big1.txt : 1}{input\big3.txt : 1}>
+<patient , {input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 9}>
+<peculiarly , {input\big1.txt : 1}{input\big3.txt : 1}>
+<perch , {input\big1.txt : 1}{input\big3.txt : 1}>
+<perfect , {input\big1.txt : 1}{input\big3.txt : 1}>
+<pictured , {input\big1.txt : 1}{input\big3.txt : 1}>
+<plan , {input\big1.txt : 1}{input\big3.txt : 2}>
+<planet , {input\big1.txt : 1}{input\big3.txt : 1}>
+<plans , {input\big1.txt : 1}{input\big3.txt : 2}>
+<plumbers , {input\big1.txt : 1}{input\big3.txt : 1}>
+<political , {input\big1.txt : 1}{input\big3.txt : 1}>
+<possibility , {input\big1.txt : 2}{input\big3.txt : 2}{input\big.txt : 1}>
+<powers , {input\big1.txt : 3}{input\big3.txt : 3}>
+<prague , {input\big1.txt : 1}{input\big3.txt : 1}>
+<predominates , {input\big1.txt : 1}{input\big3.txt : 1}>
+<prefers , {input\big1.txt : 1}{input\big3.txt : 1}>
+<prepare , {input\big1.txt : 1}{input\big3.txt : 1}>
+<prima , {input\big1.txt : 1}{input\big3.txt : 1}>
+<principles , {input\big1.txt : 1}{input\big3.txt : 1}>
+<process , {input\big1.txt : 2}{input\big3.txt : 2}{input\big.txt : 7}>
+<processes , {input\big1.txt : 1}{input\big3.txt : 1}>
+<proclaimed , {input\big1.txt : 1}{input\big3.txt : 1}>
+<progress , {input\big1.txt : 1}{input\big3.txt : 1}>
+<promises , {input\big1.txt : 1}{input\big3.txt : 2}>
+<prompt , {input\big1.txt : 1}{input\big3.txt : 2}>
+<provided , {input\big1.txt : 1}{input\big3.txt : 1}>
+<provinces , {input\big1.txt : 1}{input\big3.txt : 1}>
+<pshaw , {input\big1.txt : 1}{input\big3.txt : 1}>
+<publicly , {input\big1.txt : 1}{input\big3.txt : 1}>
+<purposes , {input\big1.txt : 1}{input\big3.txt : 1}>
+<particulars , {input\big3.txt : 1}>
+<partner , {input\big3.txt : 1}>
+<patch , {input\big3.txt : 1}>
+<pavement , {input\big3.txt : 1}>
+<pawnbrokers , {input\big3.txt : 2}>
+<pennsylvania , {input\big3.txt : 1}>
+<penny , {input\big3.txt : 1}>
+<pens , {input\big3.txt : 1}>
+<pensioners , {input\big3.txt : 1}>
+<persuaded , {input\big3.txt : 1}>
+<photography , {input\big3.txt : 1}>
+<piling , {input\big3.txt : 1}>
+<pinch , {input\big3.txt : 1}>
+<piteous , {input\big3.txt : 1}>
+<planked , {input\big3.txt : 1}>
+<planted , {input\big3.txt : 1}>
+<pleased , {input\big3.txt : 1}>
+<plunged , {input\big3.txt : 1}>
+<plunging , {input\big3.txt : 1}>
+<pompous , {input\big3.txt : 1}>
+<popes , {input\big3.txt : 3}>
+<portly , {input\big3.txt : 1}>
+<possess; , {input\big3.txt : 1}>
+<practically , {input\big3.txt : 1}>
+<preceding , {input\big3.txt : 1}>
+<precipitance , {input\big3.txt : 1}>
+<preventing , {input\big3.txt : 1}{input\big.txt : 2}>
+<prick , {input\big3.txt : 1}{input\big.txt : 2}>
+<principal , {input\big3.txt : 1}>
+<pro , {input\big3.txt : 1}>
+<prompted , {input\big3.txt : 1}>
+<propagation , {input\big3.txt : 1}>
+<proposition , {input\big3.txt : 1}>
+<provide , {input\big3.txt : 1}>
+<providing , {input\big3.txt : 1}>
+<puffed , {input\big3.txt : 1}>
+<purse , {input\big3.txt : 1}>
+<pursued , {input\big3.txt : 1}>
+<packing , {input\big.txt : 1}>
+<parts , {input\big.txt : 1}>
+<passes , {input\big.txt : 1}>
+<passive , {input\big.txt : 6}>
+<paste , {input\big.txt : 1}>
+<patient; , {input\big.txt : 1}>
+<patients , {input\big.txt : 1}>
+<pectoral , {input\big.txt : 1}>
+<pelvis , {input\big.txt : 1}>
+<perineum , {input\big.txt : 2}>
+<period , {input\big.txt : 2}>
+<periosteum , {input\big.txt : 1}>
+<peritonitis , {input\big.txt : 2}>
+<peroxide , {input\big.txt : 2}>
+<perseveringly , {input\big.txt : 1}>
+<persist , {input\big.txt : 1}>
+<persistence , {input\big.txt : 1}>
+<persistent , {input\big.txt : 2}>
+<perspiration , {input\big.txt : 1}>
+<phagocytosis , {input\big.txt : 1}>
+<phalanx , {input\big.txt : 2}>
+<piece , {input\big.txt : 1}>
+<pin , {input\big.txt : 2}>
+<pinched , {input\big.txt : 1}>
+<placenta , {input\big.txt : 1}>
+<plane , {input\big.txt : 1}>
+<planes , {input\big.txt : 1}>
+<poison , {input\big.txt : 1}>
+<poisons , {input\big.txt : 3}>
+<popliteal , {input\big.txt : 1}>
+<portion , {input\big.txt : 3}>
+<portions , {input\big.txt : 3}>
+<practicable , {input\big.txt : 1}>
+<prepatellar , {input\big.txt : 1}>
+<prevented , {input\big.txt : 4}>
+<prevents , {input\big.txt : 2}>
+<primary , {input\big.txt : 5}>
+<probe , {input\big.txt : 1}>
+<producing , {input\big.txt : 1}>
+<production , {input\big.txt : 1}>
+<products , {input\big.txt : 2}>
+<profuse , {input\big.txt : 1}>
+<prognosis , {input\big.txt : 4}>
+<prominent , {input\big.txt : 3}>
+<proportion , {input\big.txt : 4}>
+<proportionately , {input\big.txt : 1}>
+<protective , {input\big.txt : 2}>
+<provides , {input\big.txt : 1}>
+<psoas , {input\big.txt : 1}>
+<pulp , {input\big.txt : 1}>
+<pulse , {input\big.txt : 7}>
+<puncture , {input\big.txt : 1}>
+<purulent , {input\big.txt : 2}>
+<pus , {input\big.txt : 17}>
+<pyaemia , {input\big.txt : 2}>
+<pyogenes , {input\big.txt : 1}>
+<pyogenic , {input\big.txt : 7}>

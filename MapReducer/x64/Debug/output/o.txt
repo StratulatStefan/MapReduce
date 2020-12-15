@@ -1,0 +1,138 @@
+<oath , {input\big4.txt : 1}>
+<object , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 3}{input\big3.txt : 5}>
+<objections , {input\big4.txt : 1}>
+<obligations , {input\big4.txt : 1}>
+<observation , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<observed , {input\big4.txt : 1}{input\big1.txt : 2}{input\big3.txt : 4}>
+<obstinate , {input\big4.txt : 1}{input\big5.txt : 1}>
+<obvious , {input\big4.txt : 1}{input\big5.txt : 4}{input\big3.txt : 2}>
+<obviously , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<occipital , {input\big4.txt : 1}>
+<occurred , {input\big4.txt : 3}{input\big5.txt : 4}>
+<oclock , {input\big4.txt : 2}{input\big5.txt : 2}{input\big1.txt : 5}{input\big3.txt : 8}>
+<of , {input\big4.txt : 294}{input\big5.txt : 362}{input\big2.txt : 70}{input\big1.txt : 195}{input\big3.txt : 328}{input\big.txt : 232}>
+<off , {input\big4.txt : 9}{input\big5.txt : 13}{input\big2.txt : 3}{input\big1.txt : 1}{input\big3.txt : 8}{input\big.txt : 2}>
+<offered , {input\big4.txt : 1}{input\big5.txt : 2}>
+<office , {input\big4.txt : 1}{input\big5.txt : 1}{input\big3.txt : 7}>
+<official , {input\big4.txt : 1}{input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<often , {input\big4.txt : 1}{input\big1.txt : 2}{input\big3.txt : 5}{input\big.txt : 12}>
+<oh , {input\big4.txt : 6}{input\big5.txt : 15}{input\big2.txt : 1}{input\big1.txt : 4}{input\big3.txt : 8}>
+<old , {input\big4.txt : 13}{input\big5.txt : 10}{input\big2.txt : 8}{input\big1.txt : 2}{input\big3.txt : 5}>
+<older , {input\big4.txt : 1}{input\big5.txt : 1}>
+<on , {input\big4.txt : 34}{input\big5.txt : 49}{input\big2.txt : 21}{input\big1.txt : 23}{input\big3.txt : 45}{input\big.txt : 28}>
+<once , {input\big4.txt : 6}{input\big5.txt : 7}{input\big2.txt : 2}{input\big1.txt : 7}{input\big3.txt : 13}>
+<one , {input\big4.txt : 38}{input\big5.txt : 53}{input\big2.txt : 13}{input\big1.txt : 23}{input\big3.txt : 36}{input\big.txt : 8}>
+<only , {input\big4.txt : 13}{input\big5.txt : 21}{input\big2.txt : 10}{input\big1.txt : 7}{input\big3.txt : 13}{input\big.txt : 6}>
+<open , {input\big4.txt : 2}{input\big5.txt : 10}{input\big2.txt : 2}{input\big1.txt : 5}{input\big3.txt : 13}{input\big.txt : 4}>
+<opened , {input\big4.txt : 1}{input\big5.txt : 7}{input\big1.txt : 2}{input\big3.txt : 2}{input\big.txt : 3}>
+<opening , {input\big4.txt : 2}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}{input\big.txt : 4}>
+<openshaw , {input\big4.txt : 3}>
+<opinion , {input\big4.txt : 2}{input\big5.txt : 2}>
+<opposing , {input\big4.txt : 1}>
+<or , {input\big4.txt : 21}{input\big5.txt : 11}{input\big2.txt : 11}{input\big1.txt : 19}{input\big3.txt : 30}{input\big.txt : 73}>
+<orange , {input\big4.txt : 3}{input\big3.txt : 2}>
+<order , {input\big4.txt : 2}{input\big5.txt : 2}{input\big2.txt : 9}{input\big1.txt : 1}{input\big3.txt : 2}>
+<ordered , {input\big4.txt : 2}{input\big5.txt : 2}{input\big2.txt : 3}{input\big3.txt : 1}>
+<ordinary , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<other , {input\big4.txt : 16}{input\big5.txt : 19}{input\big2.txt : 1}{input\big1.txt : 12}{input\big3.txt : 16}{input\big.txt : 11}>
+<others , {input\big4.txt : 3}{input\big5.txt : 5}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<our , {input\big4.txt : 15}{input\big5.txt : 28}{input\big2.txt : 6}{input\big1.txt : 9}{input\big3.txt : 17}{input\big.txt : 1}>
+<ourselves , {input\big4.txt : 1}{input\big5.txt : 2}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<out , {input\big4.txt : 34}{input\big5.txt : 38}{input\big2.txt : 8}{input\big1.txt : 17}{input\big3.txt : 37}{input\big.txt : 9}>
+<outcry , {input\big4.txt : 1}>
+<outre , {input\big4.txt : 1}>
+<outside , {input\big4.txt : 1}{input\big5.txt : 3}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 3}>
+<outstanding , {input\big4.txt : 1}>
+<outstretched , {input\big4.txt : 1}{input\big5.txt : 1}>
+<over , {input\big4.txt : 22}{input\big5.txt : 20}{input\big2.txt : 6}{input\big1.txt : 7}{input\big3.txt : 17}{input\big.txt : 5}>
+<overcoat , {input\big4.txt : 1}{input\big3.txt : 1}>
+<overpowering , {input\big4.txt : 2}{input\big3.txt : 1}>
+<overtaken , {input\big4.txt : 1}>
+<owe , {input\big4.txt : 1}>
+<own , {input\big4.txt : 12}{input\big5.txt : 6}{input\big2.txt : 6}{input\big1.txt : 16}{input\big3.txt : 22}>
+<oakshott , {input\big5.txt : 7}>
+<oaths , {input\big5.txt : 1}>
+<objection , {input\big5.txt : 1}{input\big3.txt : 1}>
+<observe , {input\big5.txt : 4}{input\big1.txt : 2}{input\big3.txt : 2}>
+<obstacle , {input\big5.txt : 1}{input\big.txt : 1}>
+<obtained , {input\big5.txt : 1}>
+<occasionally , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}{input\big.txt : 1}>
+<occupation , {input\big5.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<occur , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}{input\big.txt : 5}>
+<occurrences , {input\big5.txt : 1}>
+<odd , {input\big5.txt : 1}>
+<odour , {input\big5.txt : 1}>
+<offence , {input\big5.txt : 1}>
+<offering , {input\big5.txt : 1}{input\big2.txt : 1}>
+<oldest , {input\big5.txt : 1}>
+<ones , {input\big5.txt : 1}{input\big3.txt : 1}>
+<opal , {input\big5.txt : 1}>
+<opium , {input\big5.txt : 1}>
+<ostensibly , {input\big5.txt : 1}>
+<ought , {input\big5.txt : 2}{input\big3.txt : 1}>
+<ounce , {input\big5.txt : 1}>
+<ours , {input\big5.txt : 1}{input\big2.txt : 3}>
+<outset , {input\big5.txt : 1}>
+<overhearing , {input\big5.txt : 1}>
+<overjoyed , {input\big5.txt : 1}>
+<overtook , {input\big5.txt : 1}>
+<owner , {input\big5.txt : 2}>
+<oxford , {input\big5.txt : 1}>
+<obey , {input\big2.txt : 1}>
+<occupy , {input\big2.txt : 1}>
+<offer , {input\big2.txt : 3}>
+<officer , {input\big2.txt : 1}>
+<officers , {input\big2.txt : 2}>
+<om , {input\big2.txt : 1}>
+<oppress , {input\big2.txt : 1}>
+<orderly , {input\big2.txt : 2}>
+<orders , {input\big2.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<outstripping , {input\big2.txt : 1}>
+<overwhelmed , {input\big2.txt : 1}>
+<owing , {input\big2.txt : 1}{input\big.txt : 1}>
+<obliged , {input\big1.txt : 1}{input\big3.txt : 1}>
+<observer , {input\big1.txt : 1}{input\big3.txt : 1}>
+<observing , {input\big1.txt : 1}{input\big3.txt : 2}>
+<obstinacy , {input\big1.txt : 1}{input\big3.txt : 1}>
+<occasion , {input\big1.txt : 1}{input\big3.txt : 1}>
+<occupant , {input\big1.txt : 1}{input\big3.txt : 1}>
+<occupied , {input\big1.txt : 1}{input\big3.txt : 1}>
+<odessa , {input\big1.txt : 1}{input\big3.txt : 1}>
+<ominous , {input\big1.txt : 1}{input\big3.txt : 1}>
+<opera , {input\big1.txt : 1}{input\big3.txt : 1}>
+<operatic , {input\big1.txt : 1}{input\big3.txt : 1}>
+<operation , {input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 3}>
+<opulence , {input\big1.txt : 1}{input\big3.txt : 1}>
+<ormstein , {input\big1.txt : 2}{input\big3.txt : 2}>
+<ostlers , {input\big1.txt : 1}{input\big3.txt : 2}>
+<outlined , {input\big1.txt : 1}{input\big3.txt : 1}>
+<obese , {input\big3.txt : 1}>
+<obliging , {input\big3.txt : 1}>
+<occupations , {input\big3.txt : 1}>
+<offices , {input\big3.txt : 1}>
+<omne , {input\big3.txt : 1}>
+<once; , {input\big3.txt : 1}>
+<one; , {input\big3.txt : 1}>
+<ornament , {input\big3.txt : 1}>
+<otherwise , {input\big3.txt : 1}>
+<obliterated , {input\big.txt : 1}>
+<occurrence , {input\big.txt : 2}>
+<occurs , {input\big.txt : 4}>
+<oedema , {input\big.txt : 3}>
+<oedematous , {input\big.txt : 1}>
+<offers , {input\big.txt : 1}>
+<olecranon , {input\big.txt : 2}>
+<omen , {input\big.txt : 1}>
+<onset , {input\big.txt : 2}>
+<openings , {input\big.txt : 1}>
+<operations , {input\big.txt : 1}>
+<orbit , {input\big.txt : 1}>
+<organism , {input\big.txt : 1}>
+<organisms , {input\big.txt : 4}>
+<organs , {input\big.txt : 3}>
+<origin , {input\big.txt : 1}>
+<original , {input\big.txt : 1}>
+<originate , {input\big.txt : 2}>
+<originated , {input\big.txt : 1}>
+<osteomyelitis , {input\big.txt : 1}>
+<outlook , {input\big.txt : 1}>

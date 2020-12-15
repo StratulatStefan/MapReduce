@@ -1,0 +1,335 @@
+<dad , {input\big4.txt : 2}>
+<damp , {input\big4.txt : 1}>
+<danger , {input\big4.txt : 2}{input\big5.txt : 1}>
+<darkened , {input\big4.txt : 1}>
+<date , {input\big4.txt : 4}{input\big3.txt : 1}>
+<daughter , {input\big4.txt : 5}{input\big2.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<day , {input\big4.txt : 11}{input\big5.txt : 12}{input\big2.txt : 4}{input\big1.txt : 3}{input\big3.txt : 13}>
+<days , {input\big4.txt : 6}{input\big5.txt : 8}{input\big2.txt : 2}{input\big1.txt : 2}{input\big3.txt : 2}>
+<dead , {input\big4.txt : 4}{input\big5.txt : 3}{input\big2.txt : 4}{input\big3.txt : 1}{input\big.txt : 2}>
+<dead; , {input\big4.txt : 1}>
+<deadliest , {input\big4.txt : 1}>
+<deadly , {input\big4.txt : 2}{input\big5.txt : 1}>
+<deal , {input\big4.txt : 2}{input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 2}>
+<dear , {input\big4.txt : 4}{input\big5.txt : 6}{input\big2.txt : 4}{input\big1.txt : 2}{input\big3.txt : 10}>
+<death , {input\big4.txt : 7}{input\big5.txt : 5}{input\big2.txt : 3}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 2}>
+<deathbeds , {input\big4.txt : 1}>
+<deceased , {input\big4.txt : 2}>
+<decide , {input\big4.txt : 1}>
+<decrepitude , {input\big4.txt : 1}>
+<deduce , {input\big4.txt : 1}{input\big5.txt : 3}{input\big1.txt : 3}{input\big3.txt : 4}>
+<deduced , {input\big4.txt : 1}{input\big5.txt : 1}>
+<deduction , {input\big4.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<deductions , {input\big4.txt : 1}{input\big5.txt : 2}>
+<deed , {input\big4.txt : 1}{input\big5.txt : 1}>
+<deep , {input\big4.txt : 5}{input\big5.txt : 3}{input\big2.txt : 2}{input\big1.txt : 3}{input\big3.txt : 4}>
+<deepest , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<deeply , {input\big4.txt : 2}{input\big5.txt : 2}{input\big2.txt : 2}{input\big1.txt : 2}{input\big3.txt : 2}>
+<defending , {input\big4.txt : 1}>
+<deference , {input\big4.txt : 1}>
+<defiantly , {input\big4.txt : 1}>
+<definite , {input\big4.txt : 3}{input\big2.txt : 1}>
+<degree , {input\big4.txt : 1}{input\big5.txt : 2}{input\big.txt : 1}>
+<delicacy , {input\big4.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<delirious , {input\big4.txt : 2}{input\big.txt : 1}>
+<delirium , {input\big4.txt : 1}{input\big.txt : 2}>
+<demurely; , {input\big4.txt : 1}>
+<dependent , {input\big4.txt : 1}{input\big.txt : 1}>
+<depends , {input\big4.txt : 1}{input\big.txt : 3}>
+<deposition , {input\big4.txt : 1}>
+<descend , {input\big4.txt : 1}>
+<describe , {input\big4.txt : 2}{input\big.txt : 1}>
+<desired , {input\big4.txt : 1}>
+<despair , {input\big4.txt : 1}>
+<despaired , {input\big4.txt : 1}>
+<desperate , {input\big4.txt : 1}>
+<destroyed , {input\big4.txt : 3}>
+<details , {input\big4.txt : 5}{input\big5.txt : 2}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<detective , {input\big4.txt : 1}{input\big5.txt : 1}>
+<determined , {input\big4.txt : 1}{input\big5.txt : 2}{input\big3.txt : 2}>
+<detour , {input\big4.txt : 1}>
+<devil , {input\big4.txt : 2}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<devoted , {input\big4.txt : 1}>
+<diabetes , {input\big4.txt : 1}>
+<did , {input\big4.txt : 21}{input\big5.txt : 16}{input\big2.txt : 6}{input\big1.txt : 3}{input\big3.txt : 17}>
+<didnt , {input\big4.txt : 3}{input\big2.txt : 6}{input\big3.txt : 1}>
+<die , {input\big4.txt : 1}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<died , {input\big4.txt : 2}{input\big5.txt : 3}{input\big2.txt : 4}{input\big3.txt : 1}>
+<different , {input\big4.txt : 2}{input\big2.txt : 2}{input\big1.txt : 1}{input\big3.txt : 3}{input\big.txt : 1}>
+<difficult , {input\big4.txt : 2}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<difficulty , {input\big4.txt : 1}>
+<diggings , {input\big4.txt : 2}>
+<dignity , {input\big4.txt : 2}>
+<dilate , {input\big4.txt : 1}>
+<directed , {input\big4.txt : 2}>
+<direction , {input\big4.txt : 3}{input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 2}>
+<disadvantages , {input\big4.txt : 1}>
+<disagreements , {input\big4.txt : 1}>
+<disappeared , {input\big4.txt : 1}{input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<disappoint , {input\big4.txt : 1}>
+<discovered , {input\big4.txt : 1}>
+<discrepancy , {input\big4.txt : 1}>
+<disease , {input\big4.txt : 1}{input\big.txt : 2}>
+<dislike , {input\big4.txt : 2}>
+<dispose , {input\big4.txt : 1}>
+<disposition , {input\big4.txt : 1}{input\big5.txt : 1}>
+<distinct , {input\big4.txt : 1}{input\big5.txt : 3}{input\big.txt : 1}>
+<distinctive , {input\big4.txt : 1}>
+<distinctly , {input\big4.txt : 1}>
+<district , {input\big4.txt : 2}>
+<disturb , {input\big4.txt : 2}>
+<disturbed , {input\big4.txt : 1}>
+<do , {input\big4.txt : 35}{input\big5.txt : 20}{input\big2.txt : 14}{input\big1.txt : 23}{input\big3.txt : 35}{input\big.txt : 1}>
+<dockyard , {input\big4.txt : 1}>
+<doctor , {input\big4.txt : 3}{input\big5.txt : 2}{input\big1.txt : 4}{input\big3.txt : 7}>
+<does , {input\big4.txt : 6}{input\big5.txt : 2}{input\big1.txt : 2}{input\big3.txt : 7}{input\big.txt : 3}>
+<does; , {input\big4.txt : 1}>
+<dog , {input\big4.txt : 1}{input\big5.txt : 3}>
+<doing , {input\big4.txt : 3}{input\big5.txt : 3}{input\big2.txt : 1}{input\big1.txt : 2}{input\big3.txt : 3}>
+<done , {input\big4.txt : 8}{input\big5.txt : 5}{input\big2.txt : 3}{input\big1.txt : 1}{input\big3.txt : 9}{input\big.txt : 1}>
+<dont , {input\big4.txt : 3}{input\big5.txt : 8}{input\big2.txt : 11}{input\big1.txt : 3}{input\big3.txt : 5}>
+<door , {input\big4.txt : 6}{input\big5.txt : 14}{input\big2.txt : 4}{input\big1.txt : 10}{input\big3.txt : 18}>
+<double , {input\big4.txt : 1}{input\big1.txt : 4}{input\big3.txt : 5}>
+<doubt , {input\big4.txt : 5}{input\big5.txt : 7}{input\big1.txt : 4}{input\big3.txt : 6}>
+<down , {input\big4.txt : 29}{input\big5.txt : 26}{input\big2.txt : 3}{input\big1.txt : 18}{input\big3.txt : 29}{input\big.txt : 1}>
+<downward , {input\big4.txt : 2}>
+<dozen , {input\big4.txt : 3}{input\big5.txt : 3}{input\big1.txt : 2}{input\big3.txt : 2}>
+<dr , {input\big4.txt : 1}{input\big5.txt : 7}{input\big1.txt : 1}{input\big3.txt : 2}>
+<drank , {input\big4.txt : 2}>
+<draughts , {input\big4.txt : 1}>
+<draw , {input\big4.txt : 1}{input\big5.txt : 2}{input\big3.txt : 1}>
+<drawn , {input\big4.txt : 6}{input\big5.txt : 3}{input\big3.txt : 1}>
+<dread , {input\big4.txt : 1}>
+<dress , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 4}>
+<drew , {input\big4.txt : 2}{input\big5.txt : 3}{input\big3.txt : 2}>
+<dried , {input\big4.txt : 4}{input\big.txt : 1}>
+<drink , {input\big4.txt : 1}{input\big5.txt : 1}>
+<drive , {input\big4.txt : 1}{input\big5.txt : 3}{input\big1.txt : 3}{input\big3.txt : 3}>
+<driven , {input\big4.txt : 2}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<driver , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<drooping , {input\big4.txt : 1}{input\big2.txt : 1}>
+<drop , {input\big4.txt : 1}{input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 2}>
+<dropped , {input\big4.txt : 3}{input\big5.txt : 1}{input\big2.txt : 2}{input\big1.txt : 2}{input\big3.txt : 2}>
+<drove , {input\big4.txt : 4}{input\big5.txt : 1}{input\big1.txt : 4}{input\big3.txt : 4}>
+<drunken , {input\big4.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<dry , {input\big4.txt : 1}{input\big.txt : 3}>
+<dundee , {input\big4.txt : 1}>
+<during , {input\big4.txt : 4}{input\big5.txt : 6}{input\big1.txt : 1}{input\big3.txt : 2}{input\big.txt : 2}>
+<dust , {input\big4.txt : 1}{input\big5.txt : 4}>
+<dustcoat , {input\big4.txt : 1}>
+<duty , {input\big4.txt : 1}>
+<dweller , {input\big4.txt : 1}>
+<dwelling , {input\big4.txt : 1}{input\big2.txt : 1}>
+<dying , {input\big4.txt : 7}{input\big2.txt : 1}>
+<dangers , {input\big5.txt : 1}>
+<daresay , {input\big5.txt : 1}>
+<dark , {input\big5.txt : 1}{input\big1.txt : 4}{input\big3.txt : 6}{input\big.txt : 4}>
+<darkness , {input\big5.txt : 2}>
+<dash , {input\big5.txt : 1}>
+<dates , {input\big5.txt : 1}>
+<daubing , {input\big5.txt : 1}>
+<dazed , {input\big5.txt : 1}>
+<dealers , {input\big5.txt : 2}>
+<debt , {input\big5.txt : 1}>
+<december , {input\big5.txt : 2}>
+<decline , {input\big5.txt : 2}>
+<defend , {input\big5.txt : 1}>
+<deficiencies , {input\big5.txt : 1}>
+<defray , {input\big5.txt : 1}>
+<delay , {input\big5.txt : 1}{input\big3.txt : 1}>
+<delayed , {input\big5.txt : 1}{input\big.txt : 1}>
+<den , {input\big5.txt : 2}>
+<dense , {input\big5.txt : 2}{input\big.txt : 1}>
+<depend , {input\big5.txt : 1}>
+<deposed , {input\big5.txt : 1}>
+<deprived , {input\big5.txt : 1}>
+<described , {input\big5.txt : 3}{input\big.txt : 4}>
+<desk , {input\big5.txt : 2}{input\big3.txt : 1}>
+<destiny , {input\big5.txt : 2}>
+<detained , {input\big5.txt : 1}>
+<detective; , {input\big5.txt : 1}>
+<determine , {input\big5.txt : 1}{input\big.txt : 2}>
+<devils , {input\big5.txt : 1}>
+<devoid , {input\big5.txt : 1}>
+<devote , {input\big5.txt : 1}>
+<devouring , {input\big5.txt : 1}>
+<diamond , {input\big5.txt : 1}>
+<dine , {input\big5.txt : 1}>
+<dinner , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<direct , {input\big5.txt : 1}{input\big.txt : 1}>
+<dirty , {input\big5.txt : 4}{input\big3.txt : 1}>
+<disappearance , {input\big5.txt : 1}>
+<disappointed , {input\big5.txt : 1}>
+<disc , {input\big5.txt : 1}>
+<discloses , {input\big5.txt : 1}>
+<discoloured , {input\big5.txt : 2}>
+<discovering , {input\big5.txt : 1}>
+<discuss , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<disgraceful , {input\big5.txt : 1}>
+<disguise , {input\big5.txt : 3}>
+<disgust , {input\big5.txt : 1}{input\big3.txt : 1}>
+<disjecta , {input\big5.txt : 1}>
+<dismay , {input\big5.txt : 1}>
+<disown , {input\big5.txt : 1}>
+<displayed , {input\big5.txt : 1}>
+<disregarding , {input\big5.txt : 1}>
+<disreputable , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<dissolute , {input\big5.txt : 1}>
+<division , {input\big5.txt : 1}{input\big.txt : 1}>
+<dock , {input\big5.txt : 1}>
+<doctors , {input\big5.txt : 2}>
+<doesnt , {input\big5.txt : 1}>
+<dollars , {input\big5.txt : 1}>
+<doors , {input\big5.txt : 2}>
+<doubled , {input\big5.txt : 1}>
+<downstairs , {input\big5.txt : 1}{input\big2.txt : 1}>
+<dragged , {input\big5.txt : 1}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<drawing , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<dreadful , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<dreadfully , {input\big5.txt : 1}>
+<dressed , {input\big5.txt : 3}{input\big1.txt : 3}{input\big3.txt : 4}>
+<dressing , {input\big5.txt : 5}{input\big.txt : 2}>
+<driving , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<drunkard , {input\big5.txt : 1}>
+<duly , {input\big5.txt : 1}>
+<dusty , {input\big5.txt : 1}>
+<dyou , {input\big5.txt : 2}>
+<dangerous , {input\big2.txt : 2}>
+<dare , {input\big2.txt : 1}>
+<declared , {input\big2.txt : 1}>
+<demands , {input\big2.txt : 1}>
+<departure , {input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<depressed , {input\big2.txt : 1}{input\big.txt : 1}>
+<despite , {input\big2.txt : 1}>
+<detail , {input\big2.txt : 2}{input\big3.txt : 1}>
+<devotion , {input\big2.txt : 2}>
+<dewy , {input\big2.txt : 1}>
+<difficulties , {input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<disaster , {input\big2.txt : 1}>
+<discharge , {input\big2.txt : 2}{input\big.txt : 6}>
+<discharged , {input\big2.txt : 1}>
+<dismounted , {input\big2.txt : 1}>
+<dissuasions , {input\big2.txt : 1}>
+<distance , {input\big2.txt : 2}{input\big.txt : 3}>
+<distinguish , {input\big2.txt : 1}>
+<distressing , {input\big2.txt : 1}{input\big.txt : 1}>
+<distribute , {input\big2.txt : 1}>
+<distribution , {input\big2.txt : 1}>
+<distrust , {input\big2.txt : 1}>
+<doffing , {input\big2.txt : 1}>
+<domestic , {input\big2.txt : 1}>
+<donets , {input\big2.txt : 1}>
+<doorpost , {input\big2.txt : 1}>
+<doubted , {input\big2.txt : 1}>
+<dron , {input\big2.txt : 19}>
+<dronushka , {input\big2.txt : 7}>
+<drowned , {input\big2.txt : 1}>
+<dug , {input\big2.txt : 1}>
+<dunyasha , {input\big2.txt : 8}>
+<dunyashas , {input\big2.txt : 2}>
+<daily , {input\big1.txt : 1}{input\big3.txt : 1}>
+<daintiest , {input\big1.txt : 1}{input\big3.txt : 1}>
+<dashed , {input\big1.txt : 2}{input\big3.txt : 2}>
+<dashing , {input\big1.txt : 1}{input\big3.txt : 1}>
+<data , {input\big1.txt : 2}{input\big3.txt : 2}>
+<delicate , {input\big1.txt : 3}{input\big3.txt : 4}>
+<delicately , {input\big1.txt : 1}{input\big3.txt : 1}>
+<delighted , {input\big1.txt : 1}{input\big3.txt : 1}>
+<depended , {input\big1.txt : 1}{input\big3.txt : 1}>
+<depicted , {input\big1.txt : 1}{input\big3.txt : 1}>
+<description , {input\big1.txt : 1}{input\big3.txt : 1}>
+<desire , {input\big1.txt : 2}{input\big3.txt : 2}>
+<desires , {input\big1.txt : 1}{input\big3.txt : 1}>
+<desirous , {input\big1.txt : 1}{input\big3.txt : 1}>
+<desperation , {input\big1.txt : 1}{input\big3.txt : 1}>
+<directions , {input\big1.txt : 1}{input\big3.txt : 2}>
+<discover , {input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<discretion , {input\big1.txt : 1}{input\big3.txt : 1}>
+<disentangled , {input\big1.txt : 1}{input\big3.txt : 1}>
+<disguises , {input\big1.txt : 1}{input\big3.txt : 1}>
+<distinction , {input\big1.txt : 1}{input\big3.txt : 1}>
+<distracting , {input\big1.txt : 1}{input\big3.txt : 1}>
+<disturbing , {input\big1.txt : 1}{input\big3.txt : 1}>
+<diverted , {input\big1.txt : 1}{input\big3.txt : 1}>
+<docketing , {input\big1.txt : 1}{input\big3.txt : 1}>
+<doings: , {input\big1.txt : 1}{input\big3.txt : 1}>
+<donna , {input\big1.txt : 1}{input\big3.txt : 1}>
+<doubt; , {input\big1.txt : 1}{input\big3.txt : 1}>
+<doubts , {input\big1.txt : 1}{input\big3.txt : 1}>
+<dreams , {input\big1.txt : 1}{input\big3.txt : 1}>
+<drifted , {input\big1.txt : 1}{input\big3.txt : 1}>
+<drives , {input\big1.txt : 1}{input\big3.txt : 1}>
+<drowsiness , {input\big1.txt : 1}{input\big3.txt : 1}>
+<drug , {input\big1.txt : 2}{input\big3.txt : 2}>
+<dryly , {input\big1.txt : 1}{input\big3.txt : 1}>
+<dubious , {input\big1.txt : 1}{input\big3.txt : 1}>
+<duke , {input\big1.txt : 1}{input\big3.txt : 1}>
+<dull , {input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<dusk , {input\big1.txt : 1}{input\big3.txt : 1}>
+<dangling , {input\big3.txt : 1}>
+<dared , {input\big3.txt : 1}>
+<daring , {input\big3.txt : 1}>
+<darlington , {input\big3.txt : 1}>
+<dated , {input\big3.txt : 1}>
+<day; , {input\big3.txt : 1}>
+<debts , {input\big3.txt : 1}>
+<deceived , {input\big3.txt : 1}>
+<degrees , {input\big3.txt : 1}>
+<dejected; , {input\big3.txt : 1}>
+<delight , {input\big3.txt : 1}>
+<departed , {input\big3.txt : 1}>
+<descended , {input\big3.txt : 1}>
+<despair; , {input\big3.txt : 1}>
+<deuce , {input\big3.txt : 1}>
+<develop , {input\big3.txt : 1}{input\big.txt : 2}>
+<developed , {input\big3.txt : 1}>
+<diligence , {input\big3.txt : 1}>
+<dimly , {input\big3.txt : 1}>
+<disappointment , {input\big3.txt : 1}>
+<discontent , {input\big3.txt : 1}>
+<dismantled , {input\big3.txt : 1}>
+<disqualify , {input\big3.txt : 1}>
+<diving , {input\big3.txt : 1}>
+<doubting , {input\big3.txt : 1}>
+<drab , {input\big3.txt : 1}>
+<drawers , {input\big3.txt : 1}>
+<duncan , {input\big3.txt : 5}>
+<duties , {input\big3.txt : 1}>
+<dakins , {input\big.txt : 1}>
+<dam , {input\big.txt : 1}>
+<dealing , {input\big.txt : 1}>
+<dealt , {input\big.txt : 1}>
+<deeper , {input\big.txt : 2}>
+<degeneration , {input\big.txt : 2}>
+<depress , {input\big.txt : 1}>
+<detected , {input\big.txt : 3}>
+<development , {input\big.txt : 1}>
+<diagnosis , {input\big.txt : 1}>
+<diagram , {input\big.txt : 1}>
+<diarrhoea , {input\big.txt : 3}>
+<differs , {input\big.txt : 1}>
+<diffuse , {input\big.txt : 7}>
+<digital , {input\big.txt : 1}>
+<diminish , {input\big.txt : 2}>
+<directly , {input\big.txt : 1}>
+<disappear , {input\big.txt : 1}>
+<discharges , {input\big.txt : 1}>
+<discoloration , {input\big.txt : 1}>
+<discomfort , {input\big.txt : 1}>
+<diseased , {input\big.txt : 1}>
+<diseases , {input\big.txt : 1}>
+<disfigurement , {input\big.txt : 1}>
+<disinfect , {input\big.txt : 1}>
+<disinfected , {input\big.txt : 1}>
+<distal , {input\big.txt : 1}>
+<disturbance , {input\big.txt : 4}>
+<diverticulum , {input\big.txt : 1}>
+<dorsiflexed , {input\big.txt : 1}>
+<dorsum , {input\big.txt : 1}>
+<dose , {input\big.txt : 1}>
+<douching , {input\big.txt : 1}>
+<drain , {input\big.txt : 2}>
+<drainage , {input\big.txt : 2}>
+<dressings , {input\big.txt : 1}>
+<ducts , {input\big.txt : 1}>
+<due , {input\big.txt : 2}>

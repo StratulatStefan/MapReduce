@@ -1,0 +1,242 @@
+<i; , {input\big4.txt : 1}{input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<idea , {input\big4.txt : 5}{input\big5.txt : 5}{input\big2.txt : 2}>
+<idiot , {input\big4.txt : 1}>
+<if , {input\big4.txt : 26}{input\big5.txt : 29}{input\big2.txt : 8}{input\big1.txt : 17}{input\big3.txt : 35}{input\big.txt : 22}>
+<ignorance , {input\big4.txt : 1}>
+<ill , {input\big4.txt : 4}{input\big5.txt : 9}{input\big2.txt : 3}{input\big1.txt : 1}{input\big3.txt : 2}>
+<illustrate , {input\big4.txt : 1}>
+<imagination , {input\big4.txt : 1}{input\big2.txt : 1}{input\big3.txt : 1}>
+<imagine , {input\big4.txt : 1}{input\big5.txt : 4}{input\big1.txt : 3}{input\big3.txt : 5}>
+<imbecile , {input\big4.txt : 1}>
+<immediately , {input\big4.txt : 1}{input\big2.txt : 2}{input\big1.txt : 1}{input\big3.txt : 3}{input\big.txt : 1}>
+<impatient , {input\big4.txt : 1}>
+<imploring , {input\big4.txt : 1}>
+<importance , {input\big4.txt : 4}{input\big1.txt : 4}{input\big3.txt : 4}>
+<important , {input\big4.txt : 2}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 3}>
+<impossible , {input\big4.txt : 2}{input\big2.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<impressed , {input\big4.txt : 1}{input\big5.txt : 1}>
+<impression , {input\big4.txt : 3}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<impressive , {input\big4.txt : 1}>
+<improbabilities , {input\big4.txt : 1}>
+<impulsively , {input\big4.txt : 1}>
+<in , {input\big4.txt : 174}{input\big5.txt : 228}{input\big2.txt : 47}{input\big1.txt : 115}{input\big3.txt : 212}{input\big.txt : 109}>
+<incarnate , {input\big4.txt : 1}>
+<incident , {input\big4.txt : 4}>
+<inclined , {input\big4.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<indeed , {input\big4.txt : 3}{input\big5.txt : 6}{input\big2.txt : 1}{input\big1.txt : 9}{input\big3.txt : 15}>
+<indexing , {input\big4.txt : 1}>
+<india , {input\big4.txt : 1}{input\big5.txt : 1}>
+<indian , {input\big4.txt : 3}{input\big5.txt : 2}>
+<indicate , {input\big4.txt : 1}{input\big5.txt : 1}{input\big.txt : 1}>
+<indicated , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}{input\big.txt : 2}>
+<indications , {input\big4.txt : 1}{input\big3.txt : 1}>
+<indifferent , {input\big4.txt : 1}>
+<indulgently , {input\big4.txt : 1}>
+<inexplicable , {input\big4.txt : 1}>
+<inferences , {input\big4.txt : 1}{input\big5.txt : 2}>
+<information , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<informed , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<inheritance , {input\big4.txt : 1}>
+<initials , {input\big4.txt : 1}{input\big5.txt : 2}>
+<injured , {input\big4.txt : 2}{input\big1.txt : 1}{input\big3.txt : 2}>
+<injuries , {input\big4.txt : 3}>
+<injury , {input\big4.txt : 1}{input\big.txt : 1}>
+<ink , {input\big4.txt : 1}{input\big5.txt : 3}{input\big3.txt : 2}>
+<inner , {input\big4.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<innocence , {input\big4.txt : 1}{input\big5.txt : 2}>
+<innocent , {input\big4.txt : 4}{input\big5.txt : 4}>
+<inquest , {input\big4.txt : 2}>
+<insanely , {input\big4.txt : 1}>
+<inside , {input\big4.txt : 3}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<insight , {input\big4.txt : 1}>
+<instant , {input\big4.txt : 2}{input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 5}>
+<instantly , {input\big4.txt : 2}{input\big5.txt : 1}>
+<instincts , {input\big4.txt : 1}>
+<intend , {input\big4.txt : 1}>
+<intention , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<interest , {input\big4.txt : 6}{input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 4}>
+<interesting , {input\big4.txt : 2}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<interests , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<interposed , {input\big4.txt : 1}>
+<interview , {input\big4.txt : 3}>
+<into , {input\big4.txt : 16}{input\big5.txt : 48}{input\big2.txt : 7}{input\big1.txt : 20}{input\big3.txt : 38}{input\big.txt : 9}>
+<intruding , {input\big4.txt : 1}>
+<intuition , {input\big4.txt : 1}>
+<invariably , {input\big4.txt : 1}>
+<invent , {input\big4.txt : 1}>
+<invention , {input\big4.txt : 1}>
+<investment , {input\big4.txt : 1}>
+<inward , {input\big4.txt : 1}>
+<is , {input\big4.txt : 101}{input\big5.txt : 147}{input\big2.txt : 25}{input\big1.txt : 62}{input\big3.txt : 137}{input\big.txt : 130}>
+<island , {input\big4.txt : 1}>
+<it , {input\big4.txt : 181}{input\big5.txt : 214}{input\big2.txt : 30}{input\big1.txt : 114}{input\big3.txt : 202}{input\big.txt : 45}>
+<its , {input\big4.txt : 9}{input\big5.txt : 26}{input\big2.txt : 7}{input\big1.txt : 6}{input\big3.txt : 13}{input\big.txt : 7}>
+<ice , {input\big5.txt : 1}>
+<id , {input\big5.txt : 1}{input\big2.txt : 1}>
+<identified , {input\big5.txt : 1}>
+<identity , {input\big5.txt : 1}>
+<illegally , {input\big5.txt : 1}>
+<im , {input\big5.txt : 1}>
+<immense , {input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<impending , {input\big5.txt : 1}{input\big.txt : 1}>
+<importance; , {input\big5.txt : 1}>
+<imprisonment , {input\big5.txt : 2}>
+<improbable , {input\big5.txt : 1}>
+<improved , {input\big5.txt : 1}>
+<impulse , {input\big5.txt : 1}{input\big3.txt : 1}>
+<impunity , {input\big5.txt : 1}>
+<incidents , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<income , {input\big5.txt : 1}>
+<indebted , {input\big5.txt : 2}{input\big3.txt : 1}>
+<individual , {input\big5.txt : 1}>
+<individuality , {input\big5.txt : 1}>
+<indoors , {input\big5.txt : 1}>
+<induce , {input\big5.txt : 1}{input\big.txt : 2}>
+<indulge , {input\big5.txt : 1}>
+<infer , {input\big5.txt : 1}>
+<inflicted , {input\big5.txt : 1}>
+<influence , {input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<ingenious , {input\big5.txt : 1}>
+<inhabited , {input\big5.txt : 1}>
+<inn , {input\big5.txt : 2}>
+<inquirer , {input\big5.txt : 1}>
+<inquiries , {input\big5.txt : 2}>
+<inquiry , {input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<insists , {input\big5.txt : 1}>
+<inspector , {input\big5.txt : 12}>
+<inspiring , {input\big5.txt : 1}>
+<inst , {input\big5.txt : 1}>
+<instead , {input\big5.txt : 3}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<instituted , {input\big5.txt : 1}>
+<instruction , {input\big5.txt : 1}>
+<intellectual , {input\big5.txt : 3}>
+<intelligent , {input\big5.txt : 1}>
+<intense , {input\big5.txt : 1}{input\big.txt : 1}>
+<intensified , {input\big5.txt : 1}>
+<interested , {input\big5.txt : 2}{input\big1.txt : 4}{input\big3.txt : 4}>
+<interrupt , {input\big5.txt : 1}>
+<intimate , {input\big5.txt : 1}>
+<introduce , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<introduction , {input\big5.txt : 1}{input\big.txt : 2}>
+<introspective , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<intuitions , {input\big5.txt : 1}>
+<investigation , {input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 1}>
+<investigations , {input\big5.txt : 1}>
+<irene , {input\big5.txt : 1}{input\big1.txt : 9}{input\big3.txt : 13}>
+<isnt , {input\big5.txt : 1}{input\big2.txt : 1}{input\big3.txt : 1}>
+<issue , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<itself , {input\big5.txt : 2}{input\big2.txt : 1}{input\big1.txt : 2}{input\big3.txt : 3}{input\big.txt : 1}>
+<ive , {input\big5.txt : 2}{input\big3.txt : 1}>
+<ideas , {input\big2.txt : 1}{input\big3.txt : 1}>
+<identical , {input\big2.txt : 2}>
+<illness , {input\big2.txt : 1}>
+<ilyin , {input\big2.txt : 13}>
+<ilyins , {input\big2.txt : 1}>
+<images , {input\big2.txt : 1}>
+<incline , {input\big2.txt : 1}>
+<incoherent , {input\big2.txt : 1}>
+<inconsolable , {input\big2.txt : 1}>
+<inform , {input\big2.txt : 1}>
+<inquired , {input\big2.txt : 1}>
+<intended , {input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<intently , {input\big2.txt : 1}>
+<involuntarily , {input\big2.txt : 1}>
+<ivanovich , {input\big2.txt : 3}>
+<idler , {input\big1.txt : 1}{input\big3.txt : 1}>
+<ii , {input\big1.txt : 1}{input\big3.txt : 2}>
+<imitate , {input\big1.txt : 1}{input\big3.txt : 1}>
+<imitated , {input\big1.txt : 1}{input\big3.txt : 1}>
+<immediate , {input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<impatiently , {input\big1.txt : 1}{input\big3.txt : 1}>
+<imperial , {input\big1.txt : 1}{input\big3.txt : 1}>
+<implicates , {input\big1.txt : 1}{input\big3.txt : 1}>
+<inches , {input\big1.txt : 1}{input\big3.txt : 2}>
+<incisive , {input\big1.txt : 2}{input\big3.txt : 2}>
+<incognito , {input\big1.txt : 1}{input\big3.txt : 1}>
+<incorrigible , {input\big1.txt : 1}{input\big3.txt : 1}>
+<increased , {input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 3}>
+<index , {input\big1.txt : 1}{input\big3.txt : 1}>
+<indirect , {input\big1.txt : 1}{input\big3.txt : 1}>
+<indiscretion , {input\big1.txt : 1}{input\big3.txt : 1}>
+<inextricable , {input\big1.txt : 1}{input\big3.txt : 1}>
+<inflamed , {input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<informality , {input\big1.txt : 1}{input\big3.txt : 1}>
+<insane , {input\big1.txt : 1}{input\big3.txt : 1}>
+<insensibly , {input\big1.txt : 1}{input\big3.txt : 1}>
+<insist , {input\big1.txt : 1}{input\big3.txt : 1}>
+<instance , {input\big1.txt : 1}{input\big3.txt : 3}>
+<instrument , {input\big1.txt : 1}{input\big3.txt : 1}>
+<interfere , {input\big1.txt : 1}{input\big3.txt : 3}{input\big.txt : 3}>
+<intrusions , {input\big1.txt : 1}{input\big3.txt : 1}>
+<invariable , {input\big1.txt : 1}{input\big3.txt : 1}>
+<iodoform , {input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 4}>
+<ignotum , {input\big3.txt : 1}>
+<iii , {input\big3.txt : 1}>
+<immensely , {input\big3.txt : 1}>
+<impatience , {input\big3.txt : 1}>
+<improving , {input\big3.txt : 1}>
+<imprudently , {input\big3.txt : 1}>
+<in; , {input\big3.txt : 1}>
+<indication , {input\big3.txt : 1}{input\big.txt : 1}>
+<injuring , {input\big3.txt : 2}>
+<injustice , {input\big3.txt : 1}>
+<inspection , {input\big3.txt : 1}>
+<instinct , {input\big3.txt : 1}>
+<instructions , {input\big3.txt : 1}>
+<insult , {input\big3.txt : 1}>
+<intelligence , {input\big3.txt : 1}>
+<intrusion , {input\big3.txt : 1}>
+<intrusted , {input\big3.txt : 1}>
+<inviolate , {input\big3.txt : 1}>
+<irenes , {input\big3.txt : 1}>
+<irish , {input\big3.txt : 1}>
+<ichthyol , {input\big.txt : 1}>
+<idleness , {input\big.txt : 1}>
+<illustration: , {input\big.txt : 4}>
+<immersion , {input\big.txt : 1}>
+<impaired , {input\big.txt : 2}>
+<imperceptible , {input\big.txt : 1}>
+<imperfect , {input\big.txt : 1}>
+<implicated , {input\big.txt : 3}>
+<impracticable , {input\big.txt : 1}>
+<incidence , {input\big.txt : 1}>
+<incision , {input\big.txt : 3}>
+<incisions , {input\big.txt : 7}>
+<incomplete , {input\big.txt : 1}>
+<increases , {input\big.txt : 1}>
+<increasing , {input\big.txt : 1}>
+<incubation , {input\big.txt : 1}>
+<indicates , {input\big.txt : 1}>
+<inducing , {input\big.txt : 3}>
+<infected , {input\big.txt : 8}>
+<infection , {input\big.txt : 20}>
+<infective , {input\big.txt : 3}>
+<infiltrates , {input\big.txt : 1}>
+<inflammation , {input\big.txt : 6}>
+<inflammatory , {input\big.txt : 1}>
+<inguinal , {input\big.txt : 1}>
+<initial , {input\big.txt : 1}>
+<injection , {input\big.txt : 1}>
+<inoculation , {input\big.txt : 1}>
+<insert , {input\big.txt : 1}>
+<inserted , {input\big.txt : 2}>
+<insignificant , {input\big.txt : 1}>
+<instances , {input\big.txt : 1}>
+<integument , {input\big.txt : 2}>
+<intercarpal , {input\big.txt : 1}>
+<interfering , {input\big.txt : 1}>
+<intermuscular , {input\big.txt : 1}>
+<interphalangeal , {input\big.txt : 1}>
+<intervals , {input\big.txt : 1}>
+<intestinal , {input\big.txt : 2}>
+<intestines , {input\big.txt : 1}>
+<intoxication , {input\big.txt : 1}>
+<introduced , {input\big.txt : 1}>
+<invade , {input\big.txt : 1}>
+<invaded , {input\big.txt : 2}>
+<invading , {input\big.txt : 1}>
+<involuntary , {input\big.txt : 1}>
+<involved , {input\big.txt : 3}>
+<involvement , {input\big.txt : 1}>
+<irregular , {input\big.txt : 1}>
+<irrigation , {input\big.txt : 1}>

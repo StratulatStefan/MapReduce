@@ -1,0 +1,89 @@
+<vacant , {input\big4.txt : 1}>
+<vague , {input\big4.txt : 2}{input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<vagueness , {input\big4.txt : 1}>
+<vain , {input\big4.txt : 1}{input\big5.txt : 1}>
+<valley , {input\big4.txt : 1}>
+<value , {input\big4.txt : 1}{input\big5.txt : 2}{input\big3.txt : 1}{input\big.txt : 1}>
+<vanishes , {input\big4.txt : 1}>
+<vanishing , {input\big4.txt : 1}>
+<varieties , {input\big4.txt : 1}{input\big.txt : 2}>
+<variety , {input\big4.txt : 1}{input\big.txt : 5}>
+<vault , {input\big4.txt : 1}>
+<veins , {input\big4.txt : 1}>
+<venomous , {input\big4.txt : 1}>
+<verbatim , {input\big4.txt : 1}>
+<verdict , {input\big4.txt : 2}>
+<verrons , {input\big4.txt : 1}>
+<very , {input\big4.txt : 40}{input\big5.txt : 37}{input\big2.txt : 5}{input\big1.txt : 16}{input\big3.txt : 47}{input\big.txt : 1}>
+<victoria , {input\big4.txt : 3}>
+<view , {input\big4.txt : 3}{input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 2}>
+<violence , {input\big4.txt : 3}{input\big5.txt : 2}>
+<violent , {input\big4.txt : 1}{input\big5.txt : 1}>
+<violet , {input\big4.txt : 1}>
+<visible , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<visit , {input\big4.txt : 2}{input\big5.txt : 1}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<visiting , {input\big4.txt : 1}>
+<visitor , {input\big4.txt : 1}{input\big5.txt : 6}{input\big1.txt : 5}{input\big3.txt : 6}>
+<visitors , {input\big4.txt : 1}>
+<volley , {input\big4.txt : 1}>
+<vagabonds , {input\big5.txt : 1}>
+<valuable , {input\big5.txt : 1}>
+<vanished , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<varied , {input\big5.txt : 2}>
+<vehicle , {input\big5.txt : 1}>
+<veil , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<veiled , {input\big5.txt : 1}>
+<verge , {input\big5.txt : 1}>
+<vestige , {input\big5.txt : 1}>
+<victory , {input\big5.txt : 1}>
+<vigorously , {input\big5.txt : 1}>
+<vii , {input\big5.txt : 1}>
+<viii , {input\big5.txt : 1}>
+<village , {input\big5.txt : 2}{input\big2.txt : 5}>
+<villagers , {input\big5.txt : 1}>
+<villain , {input\big5.txt : 1}>
+<visits , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<vitriol , {input\big5.txt : 1}>
+<voice , {input\big5.txt : 6}{input\big2.txt : 4}{input\big1.txt : 1}{input\big3.txt : 4}>
+<volume , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<volunteered , {input\big5.txt : 1}>
+<vaguely , {input\big2.txt : 1}>
+<valet , {input\big2.txt : 1}>
+<vanguard; , {input\big2.txt : 1}>
+<various , {input\big2.txt : 1}{input\big.txt : 2}>
+<victories , {input\big2.txt : 1}>
+<views , {input\big2.txt : 1}>
+<village: , {input\big2.txt : 1}>
+<villages , {input\big2.txt : 1}>
+<violate , {input\big2.txt : 1}>
+<violently , {input\big2.txt : 1}>
+<vividly , {input\big2.txt : 2}>
+<voices , {input\big2.txt : 5}{input\big3.txt : 1}>
+<vyazma , {input\big2.txt : 1}>
+<vary , {input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 2}>
+<verbs , {input\big1.txt : 1}{input\big3.txt : 1}>
+<vile , {input\big1.txt : 1}{input\big3.txt : 1}>
+<villa , {input\big1.txt : 1}{input\big3.txt : 1}>
+<vizard , {input\big1.txt : 1}{input\big3.txt : 1}>
+<von , {input\big1.txt : 4}{input\big3.txt : 4}>
+<vouching , {input\big1.txt : 1}{input\big3.txt : 1}>
+<vacancies , {input\big3.txt : 2}>
+<vacancy , {input\big3.txt : 7}>
+<values , {input\big3.txt : 1}>
+<velvet , {input\big3.txt : 1}>
+<vice , {input\big3.txt : 1}>
+<vincent , {input\big3.txt : 4}>
+<vivid , {input\big3.txt : 1}>
+<vagina , {input\big.txt : 1}>
+<vaginal , {input\big.txt : 1}>
+<venous , {input\big.txt : 1}>
+<vesical , {input\big.txt : 1}>
+<vesico , {input\big.txt : 1}>
+<vessels , {input\big.txt : 5}>
+<virulence , {input\big.txt : 3}>
+<virulent , {input\big.txt : 2}>
+<viscera , {input\big.txt : 2}>
+<vital , {input\big.txt : 1}>
+<vitality , {input\big.txt : 1}>
+<vomiting , {input\big.txt : 2}>
+<voracious , {input\big.txt : 1}>

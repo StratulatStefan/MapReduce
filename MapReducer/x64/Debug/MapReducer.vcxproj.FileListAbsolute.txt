@@ -1,0 +1,2 @@
+D:\Facultate\Anul IV\Semestrul I\AlPD\MapReducer\x64\Debug\MapReducer.exe
+D:\Facultate\Anul IV\Semestrul I\AlPD\MapReducer\x64\Debug\MapReducer.pdb

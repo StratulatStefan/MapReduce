@@ -1,0 +1,25 @@
+<qualities , {input\big4.txt : 1}>
+<quarrel , {input\big4.txt : 3}{input\big1.txt : 1}{input\big3.txt : 1}>
+<quarrelling , {input\big4.txt : 1}>
+<quarrels , {input\big4.txt : 1}{input\big5.txt : 1}>
+<quarters , {input\big4.txt : 1}{input\big2.txt : 2}{input\big1.txt : 2}{input\big3.txt : 2}>
+<question , {input\big4.txt : 8}{input\big5.txt : 4}{input\big2.txt : 1}{input\big1.txt : 3}{input\big3.txt : 3}>
+<questioning , {input\big4.txt : 1}{input\big5.txt : 1}{input\big2.txt : 1}{input\big3.txt : 3}>
+<quick , {input\big4.txt : 6}{input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 4}>
+<quiet , {input\big4.txt : 2}{input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 2}>
+<quietly , {input\big4.txt : 1}{input\big5.txt : 4}{input\big1.txt : 1}{input\big3.txt : 2}>
+<quite , {input\big4.txt : 9}{input\big5.txt : 6}{input\big2.txt : 2}{input\big1.txt : 9}{input\big3.txt : 14}>
+<quality , {input\big5.txt : 1}>
+<quarter , {input\big5.txt : 3}{input\big1.txt : 2}{input\big3.txt : 2}>
+<quavering , {input\big5.txt : 1}>
+<quest , {input\big5.txt : 1}{input\big3.txt : 2}>
+<questions , {input\big5.txt : 1}{input\big2.txt : 1}>
+<quivered , {input\big5.txt : 1}>
+<quivering , {input\big5.txt : 1}>
+<questioned , {input\big2.txt : 1}>
+<quickly , {input\big2.txt : 1}>
+<quench , {input\big1.txt : 1}{input\big3.txt : 1}>
+<questionable , {input\big1.txt : 1}{input\big3.txt : 1}>
+<queen , {input\big3.txt : 2}>
+<quill , {input\big3.txt : 1}>
+<quantity , {input\big.txt : 1}>

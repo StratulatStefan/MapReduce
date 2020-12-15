@@ -1,0 +1,514 @@
+<cab , {input\big4.txt : 2}{input\big5.txt : 2}{input\big1.txt : 4}{input\big3.txt : 5}>
+<cage , {input\big4.txt : 1}>
+<calamity , {input\big4.txt : 1}>
+<call , {input\big4.txt : 5}{input\big5.txt : 2}{input\big2.txt : 2}{input\big1.txt : 4}{input\big3.txt : 11}>
+<called , {input\big4.txt : 5}{input\big5.txt : 4}{input\big1.txt : 1}{input\big3.txt : 3}>
+<calls , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<calmly , {input\big4.txt : 1}>
+<camberwell , {input\big4.txt : 1}>
+<came , {input\big4.txt : 14}{input\big5.txt : 18}{input\big2.txt : 8}{input\big1.txt : 6}{input\big3.txt : 14}>
+<can , {input\big4.txt : 12}{input\big5.txt : 35}{input\big2.txt : 3}{input\big1.txt : 4}{input\big3.txt : 14}{input\big.txt : 5}>
+<cannot , {input\big4.txt : 5}{input\big5.txt : 3}{input\big2.txt : 1}{input\big3.txt : 1}{input\big.txt : 2}>
+<cant , {input\big4.txt : 3}{input\big5.txt : 1}{input\big2.txt : 2}{input\big1.txt : 2}{input\big3.txt : 3}>
+<caps , {input\big4.txt : 1}{input\big2.txt : 1}>
+<cards , {input\big4.txt : 1}>
+<careful , {input\big4.txt : 1}{input\big2.txt : 1}{input\big3.txt : 1}>
+<carefully , {input\big4.txt : 4}{input\big1.txt : 1}{input\big3.txt : 1}>
+<carpet , {input\big4.txt : 1}>
+<carriage , {input\big4.txt : 6}{input\big1.txt : 3}{input\big3.txt : 3}>
+<carries , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<carry , {input\big4.txt : 1}{input\big5.txt : 2}{input\big1.txt : 2}{input\big3.txt : 2}{input\big.txt : 1}>
+<carrying , {input\big4.txt : 1}{input\big5.txt : 2}>
+<case , {input\big4.txt : 14}{input\big5.txt : 21}{input\big2.txt : 2}{input\big1.txt : 7}{input\big3.txt : 10}{input\big.txt : 6}>
+<caseful , {input\big4.txt : 1}>
+<cases , {input\big4.txt : 2}{input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 4}{input\big.txt : 20}>
+<cashbox , {input\big4.txt : 1}>
+<catch , {input\big4.txt : 1}{input\big2.txt : 3}{input\big1.txt : 1}{input\big3.txt : 1}>
+<caught , {input\big4.txt : 2}{input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 4}>
+<cause , {input\big4.txt : 1}{input\big5.txt : 2}{input\big1.txt : 2}{input\big3.txt : 2}>
+<caused , {input\big4.txt : 1}{input\big5.txt : 2}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<causes , {input\big4.txt : 1}{input\big.txt : 1}>
+<certain , {input\big4.txt : 1}{input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 4}>
+<certainly , {input\big4.txt : 3}{input\big5.txt : 11}{input\big2.txt : 1}{input\big1.txt : 2}{input\big3.txt : 6}>
+<certainty , {input\big4.txt : 1}>
+<chain , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 3}>
+<chair , {input\big4.txt : 4}{input\big5.txt : 9}{input\big1.txt : 3}{input\big3.txt : 8}>
+<chalk , {input\big4.txt : 3}>
+<chamber , {input\big4.txt : 2}{input\big1.txt : 2}{input\big3.txt : 2}>
+<chance , {input\big4.txt : 2}{input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 3}>
+<chanced , {input\big4.txt : 1}>
+<change , {input\big4.txt : 1}{input\big5.txt : 1}{input\big3.txt : 2}>
+<chap , {input\big4.txt : 1}>
+<character , {input\big4.txt : 1}{input\big5.txt : 3}{input\big1.txt : 4}{input\big3.txt : 4}{input\big.txt : 1}>
+<charge , {input\big4.txt : 1}{input\big5.txt : 2}>
+<charming , {input\big4.txt : 1}>
+<chase , {input\big4.txt : 1}>
+<cheating , {input\big4.txt : 1}>
+<checkmate , {input\big4.txt : 1}>
+<cheeks , {input\big4.txt : 1}{input\big5.txt : 4}{input\big.txt : 1}>
+<child , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<children , {input\big4.txt : 1}{input\big5.txt : 2}>
+<chimney , {input\big4.txt : 1}>
+<chimneys , {input\big4.txt : 1}>
+<choose , {input\big4.txt : 1}>
+<chronic , {input\big4.txt : 1}{input\big.txt : 5}>
+<cigar , {input\big4.txt : 8}{input\big1.txt : 1}{input\big3.txt : 1}>
+<cigarette , {input\big4.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<cigarettes , {input\big4.txt : 1}>
+<cigars , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<circumstances , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<civilisation , {input\big4.txt : 1}>
+<civilised , {input\big4.txt : 1}>
+<clad , {input\big4.txt : 1}{input\big5.txt : 1}>
+<claim , {input\big4.txt : 1}{input\big5.txt : 1}>
+<clark , {input\big4.txt : 1}>
+<clay , {input\big4.txt : 1}{input\big5.txt : 1}>
+<clean , {input\big4.txt : 1}{input\big5.txt : 1}{input\big3.txt : 2}>
+<clear , {input\big4.txt : 4}{input\big5.txt : 5}{input\big1.txt : 4}{input\big3.txt : 7}>
+<cleared , {input\big4.txt : 3}{input\big5.txt : 2}>
+<clearing , {input\big4.txt : 2}{input\big1.txt : 2}{input\big3.txt : 2}>
+<clearly , {input\big4.txt : 1}{input\big5.txt : 1}{input\big2.txt : 1}{input\big.txt : 1}>
+<client , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 5}{input\big3.txt : 8}>
+<cloak , {input\big4.txt : 4}{input\big1.txt : 2}{input\big3.txt : 2}>
+<close , {input\big4.txt : 1}{input\big5.txt : 1}{input\big2.txt : 3}{input\big1.txt : 2}{input\big3.txt : 2}{input\big.txt : 2}>
+<cloth , {input\big4.txt : 3}>
+<cloud , {input\big4.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<cloudless , {input\big4.txt : 1}{input\big5.txt : 1}>
+<club , {input\big4.txt : 2}{input\big5.txt : 3}>
+<clutches , {input\big4.txt : 2}>
+<coat , {input\big4.txt : 3}{input\big5.txt : 5}{input\big1.txt : 2}{input\big3.txt : 3}>
+<cobb , {input\big4.txt : 1}>
+<cock , {input\big4.txt : 1}{input\big2.txt : 1}>
+<cocksure , {input\big4.txt : 1}{input\big5.txt : 1}>
+<cold , {input\big4.txt : 2}{input\big5.txt : 6}{input\big1.txt : 2}{input\big3.txt : 2}{input\big.txt : 4}>
+<colleague , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<collection , {input\big4.txt : 1}>
+<colonel , {input\big4.txt : 3}>
+<colonels , {input\big4.txt : 1}>
+<colony , {input\big4.txt : 2}>
+<colour , {input\big4.txt : 2}{input\big5.txt : 2}{input\big3.txt : 3}{input\big.txt : 1}>
+<column , {input\big4.txt : 1}{input\big3.txt : 2}>
+<combined , {input\big4.txt : 1}>
+<come , {input\big4.txt : 22}{input\big5.txt : 12}{input\big2.txt : 7}{input\big1.txt : 7}{input\big3.txt : 17}>
+<comely , {input\big4.txt : 1}>
+<comes , {input\big4.txt : 1}{input\big1.txt : 2}{input\big3.txt : 4}>
+<comfort , {input\big4.txt : 1}{input\big.txt : 1}>
+<comfortable , {input\big4.txt : 1}{input\big3.txt : 1}>
+<coming , {input\big4.txt : 2}{input\big5.txt : 2}{input\big2.txt : 2}{input\big1.txt : 2}{input\big3.txt : 4}>
+<command , {input\big4.txt : 1}>
+<commence , {input\big4.txt : 1}>
+<commencement , {input\big4.txt : 2}>
+<common , {input\big4.txt : 2}{input\big5.txt : 1}{input\big2.txt : 2}{input\big3.txt : 1}{input\big.txt : 4}>
+<commonly , {input\big4.txt : 1}{input\big.txt : 3}>
+<companion , {input\big4.txt : 4}{input\big5.txt : 5}{input\big1.txt : 1}{input\big3.txt : 4}>
+<companions , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<compared , {input\big4.txt : 2}>
+<competence , {input\big4.txt : 1}>
+<completely , {input\big4.txt : 1}{input\big2.txt : 1}{input\big3.txt : 1}{input\big.txt : 3}>
+<complimentary , {input\big4.txt : 1}>
+<compressed , {input\big4.txt : 1}>
+<compunction , {input\big4.txt : 1}{input\big3.txt : 1}>
+<concentrated , {input\big4.txt : 1}>
+<conception , {input\big4.txt : 1}>
+<concern , {input\big4.txt : 1}>
+<concerned , {input\big4.txt : 2}{input\big5.txt : 3}>
+<concluded , {input\big4.txt : 1}{input\big2.txt : 1}>
+<concluding , {input\big4.txt : 1}>
+<conclusion , {input\big4.txt : 1}{input\big5.txt : 1}{input\big3.txt : 1}>
+<conclusions , {input\big4.txt : 2}>
+<condemned , {input\big4.txt : 1}>
+<confession , {input\big4.txt : 2}>
+<confusion: , {input\big4.txt : 1}>
+<conjecture , {input\big4.txt : 2}>
+<connected , {input\big4.txt : 2}{input\big3.txt : 1}>
+<connection , {input\big4.txt : 1}{input\big5.txt : 2}{input\big.txt : 1}>
+<consciousness , {input\big4.txt : 2}{input\big5.txt : 1}>
+<considerable , {input\big4.txt : 3}{input\big5.txt : 3}{input\big3.txt : 1}{input\big.txt : 4}>
+<considerably , {input\big4.txt : 2}{input\big5.txt : 1}>
+<consideration , {input\big4.txt : 1}{input\big5.txt : 1}>
+<considering , {input\big4.txt : 1}>
+<consoled , {input\big4.txt : 1}>
+<constitution , {input\big4.txt : 1}>
+<contained , {input\big4.txt : 1}>
+<contemptuous , {input\big4.txt : 1}>
+<contents , {input\big4.txt : 1}>
+<continually , {input\big4.txt : 1}>
+<contrary , {input\big4.txt : 1}{input\big5.txt : 1}{input\big2.txt : 2}{input\big1.txt : 1}{input\big3.txt : 2}>
+<conversation , {input\big4.txt : 2}{input\big3.txt : 1}>
+<conveyed , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<conviction , {input\big4.txt : 2}{input\big5.txt : 1}>
+<convinced , {input\big4.txt : 2}{input\big2.txt : 1}>
+<convoy , {input\big4.txt : 1}>
+<cooee , {input\big4.txt : 7}>
+<cooped , {input\big4.txt : 1}>
+<copy , {input\big4.txt : 1}{input\big3.txt : 1}>
+<cord , {input\big4.txt : 1}>
+<corner , {input\big4.txt : 1}{input\big5.txt : 4}{input\big1.txt : 4}{input\big3.txt : 5}>
+<corners , {input\big4.txt : 1}>
+<coroner , {input\big4.txt : 3}>
+<coroner: , {input\big4.txt : 8}>
+<correct , {input\big4.txt : 1}{input\big5.txt : 1}{input\big2.txt : 1}>
+<corresponds , {input\big4.txt : 1}{input\big.txt : 1}>
+<could , {input\big4.txt : 34}{input\big5.txt : 27}{input\big2.txt : 18}{input\big1.txt : 18}{input\big3.txt : 34}>
+<counsel , {input\big4.txt : 1}>
+<country , {input\big4.txt : 6}{input\big5.txt : 4}{input\big1.txt : 2}{input\big3.txt : 3}>
+<county , {input\big4.txt : 1}{input\big5.txt : 1}>
+<couple , {input\big4.txt : 1}{input\big5.txt : 1}{input\big3.txt : 3}>
+<courage , {input\big4.txt : 1}{input\big2.txt : 1}>
+<course , {input\big4.txt : 4}{input\big5.txt : 6}{input\big1.txt : 3}{input\big3.txt : 9}{input\big.txt : 1}>
+<court , {input\big4.txt : 4}{input\big5.txt : 9}{input\big3.txt : 3}>
+<coventry , {input\big4.txt : 1}>
+<cover , {input\big4.txt : 2}{input\big5.txt : 1}>
+<covered , {input\big4.txt : 1}{input\big5.txt : 2}{input\big.txt : 2}>
+<craggy , {input\big4.txt : 1}>
+<credit , {input\big4.txt : 2}{input\big5.txt : 1}>
+<cried , {input\big4.txt : 7}{input\big5.txt : 5}{input\big2.txt : 1}{input\big1.txt : 3}{input\big3.txt : 9}>
+<crime , {input\big4.txt : 2}{input\big5.txt : 8}{input\big1.txt : 2}{input\big3.txt : 4}>
+<criminal , {input\big4.txt : 2}{input\big5.txt : 1}>
+<crony , {input\big4.txt : 1}>
+<cross , {input\big4.txt : 1}{input\big5.txt : 1}{input\big3.txt : 1}>
+<crowder , {input\big4.txt : 1}>
+<crucial , {input\big4.txt : 1}>
+<cruel , {input\big4.txt : 1}>
+<cry , {input\big4.txt : 9}{input\big5.txt : 2}{input\big1.txt : 4}{input\big3.txt : 5}>
+<cudgelled , {input\big4.txt : 1}>
+<culprit , {input\big4.txt : 1}>
+<cunning , {input\big4.txt : 1}>
+<cup , {input\big4.txt : 1}{input\big5.txt : 1}>
+<curiosity , {input\big4.txt : 1}{input\big2.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<curse , {input\big4.txt : 1}>
+<cursed , {input\big4.txt : 1}>
+<cushioned , {input\big4.txt : 1}>
+<cut , {input\big4.txt : 3}{input\big5.txt : 7}{input\big.txt : 1}>
+<cake , {input\big5.txt : 1}>
+<calcutta , {input\big5.txt : 1}>
+<calling , {input\big5.txt : 2}>
+<candle , {input\big5.txt : 1}>
+<cap , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<capacity , {input\big5.txt : 1}>
+<capital , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<carbuncle , {input\big5.txt : 5}>
+<card , {input\big5.txt : 2}>
+<care , {input\big5.txt : 4}{input\big2.txt : 1}{input\big3.txt : 2}{input\big.txt : 1}>
+<carelessly , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<cares , {input\big5.txt : 1}{input\big2.txt : 2}>
+<carried , {input\big5.txt : 5}{input\big1.txt : 1}{input\big3.txt : 2}{input\big.txt : 6}>
+<cart , {input\big5.txt : 2}{input\big2.txt : 1}>
+<case; , {input\big5.txt : 1}>
+<casket , {input\big5.txt : 1}>
+<catastrophe , {input\big5.txt : 1}>
+<category , {input\big5.txt : 1}>
+<catherine , {input\big5.txt : 2}>
+<ceased , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<cell , {input\big5.txt : 1}>
+<cells , {input\big5.txt : 2}>
+<central , {input\big5.txt : 1}>
+<centre , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 2}>
+<century , {input\big5.txt : 1}>
+<chagrined , {input\big5.txt : 1}>
+<chance; , {input\big5.txt : 1}>
+<changing , {input\big5.txt : 1}>
+<characteristic , {input\big5.txt : 2}>
+<characteristics , {input\big5.txt : 1}>
+<charcoal , {input\big5.txt : 1}>
+<charged , {input\big5.txt : 3}>
+<chatting , {input\big5.txt : 1}>
+<cheerily , {input\big5.txt : 2}>
+<cheetah , {input\big5.txt : 2}>
+<chesterfield , {input\big5.txt : 1}>
+<chief , {input\big5.txt : 1}{input\big2.txt : 1}>
+<chin , {input\big5.txt : 2}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<china , {input\big5.txt : 1}{input\big3.txt : 4}>
+<choked , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 2}>
+<choosing , {input\big5.txt : 1}>
+<chose , {input\big5.txt : 1}>
+<chosen , {input\big5.txt : 1}>
+<christmas , {input\big5.txt : 10}>
+<christs , {input\big5.txt : 1}{input\big2.txt : 1}>
+<chuckled , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 2}>
+<circle , {input\big5.txt : 1}>
+<circulation , {input\big5.txt : 1}{input\big.txt : 3}>
+<city , {input\big5.txt : 5}{input\big3.txt : 2}>
+<clair , {input\big5.txt : 4}>
+<clanging , {input\big5.txt : 1}>
+<clapped , {input\big5.txt : 1}{input\big3.txt : 1}>
+<claspings , {input\big5.txt : 1}>
+<clatter , {input\big5.txt : 1}>
+<clock , {input\big5.txt : 1}>
+<closed , {input\big5.txt : 3}{input\big3.txt : 2}>
+<closely , {input\big5.txt : 1}{input\big2.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<clothes , {input\big5.txt : 4}{input\big1.txt : 2}{input\big3.txt : 3}>
+<clue , {input\big5.txt : 3}>
+<clutched , {input\big5.txt : 2}>
+<coarse , {input\big5.txt : 1}{input\big2.txt : 1}>
+<coarsely , {input\big5.txt : 1}>
+<cocked , {input\big5.txt : 1}{input\big3.txt : 1}>
+<coffee , {input\big5.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<coldly , {input\big5.txt : 1}{input\big3.txt : 1}>
+<collapse , {input\big5.txt : 1}>
+<collar , {input\big5.txt : 1}{input\big3.txt : 1}>
+<coloured , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 2}>
+<combination , {input\big5.txt : 1}{input\big.txt : 1}>
+<comic , {input\big5.txt : 1}>
+<comical , {input\big5.txt : 1}>
+<commission , {input\big5.txt : 1}>
+<commissionaire , {input\big5.txt : 4}>
+<committed , {input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 2}>
+<commonplace; , {input\big5.txt : 1}>
+<communicate , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<communication , {input\big5.txt : 1}>
+<commuting , {input\big5.txt : 1}>
+<company , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<compelled , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<complete , {input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 2}{input\big.txt : 2}>
+<completed , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<compliments , {input\big5.txt : 1}>
+<comprehensive , {input\big5.txt : 1}>
+<conceal , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<concise , {input\big5.txt : 1}>
+<conditions , {input\big5.txt : 1}{input\big3.txt : 1}{input\big.txt : 4}>
+<confederate , {input\big5.txt : 1}>
+<confess , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<confidant , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<confided , {input\big5.txt : 1}>
+<confidence , {input\big5.txt : 1}>
+<confine , {input\big5.txt : 1}>
+<confirm , {input\big5.txt : 1}>
+<conjectured , {input\big5.txt : 1}>
+<consequence , {input\big5.txt : 1}>
+<considerations , {input\big5.txt : 1}>
+<constable , {input\big5.txt : 1}>
+<constables , {input\big5.txt : 1}>
+<consulted , {input\big5.txt : 1}>
+<consuming , {input\big5.txt : 1}>
+<contact , {input\big5.txt : 1}>
+<continue , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 2}>
+<continued , {input\big5.txt : 3}{input\big2.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<continues , {input\big5.txt : 1}{input\big.txt : 1}>
+<contraction , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 2}>
+<control , {input\big5.txt : 1}>
+<convince , {input\big5.txt : 1}>
+<convulsed , {input\big5.txt : 1}>
+<convulsion , {input\big5.txt : 1}>
+<convulsive , {input\big5.txt : 1}>
+<coppers , {input\big5.txt : 2}>
+<correspondent , {input\big5.txt : 1}>
+<corridor , {input\big5.txt : 4}>
+<cosmopolitan , {input\big5.txt : 3}>
+<cosy , {input\big5.txt : 1}>
+<couch , {input\big5.txt : 2}{input\big3.txt : 3}>
+<countess , {input\big5.txt : 8}>
+<covent , {input\big5.txt : 3}>
+<cracked , {input\big5.txt : 2}>
+<crackling , {input\big5.txt : 2}>
+<cravats , {input\big5.txt : 1}>
+<crawl , {input\big5.txt : 1}>
+<cream , {input\big5.txt : 3}>
+<creature , {input\big5.txt : 1}{input\big3.txt : 1}>
+<creditor , {input\big5.txt : 1}>
+<crewe , {input\big5.txt : 1}>
+<cringe , {input\big5.txt : 1}>
+<cringing , {input\big5.txt : 1}>
+<crisp , {input\big5.txt : 1}>
+<crisply , {input\big5.txt : 1}>
+<crop , {input\big5.txt : 5}>
+<crumpled , {input\big5.txt : 1}>
+<crushed , {input\big5.txt : 1}{input\big.txt : 1}>
+<crystallised , {input\big5.txt : 1}>
+<crystals , {input\big5.txt : 1}>
+<cubic , {input\big5.txt : 1}>
+<cuff , {input\big5.txt : 1}{input\big3.txt : 1}>
+<curled , {input\big5.txt : 1}{input\big3.txt : 1}>
+<cusack , {input\big5.txt : 3}>
+<cushion , {input\big5.txt : 1}>
+<custom , {input\big5.txt : 2}{input\big3.txt : 1}>
+<customer , {input\big5.txt : 1}>
+<cuts , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<calm , {input\big2.txt : 1}>
+<captivity , {input\big2.txt : 1}>
+<caressing , {input\big2.txt : 1}>
+<carting , {input\big2.txt : 1}>
+<catching , {input\big2.txt : 1}>
+<cavalrymen , {input\big2.txt : 1}>
+<chapter , {input\big2.txt : 3}>
+<chiefly , {input\big2.txt : 1}>
+<class , {input\big2.txt : 1}>
+<closer , {input\big2.txt : 1}>
+<co , {input\big2.txt : 2}{input\big1.txt : 2}{input\big3.txt : 2}>
+<coachman , {input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 3}>
+<coffin , {input\big2.txt : 1}>
+<collected , {input\big2.txt : 1}>
+<comforted , {input\big2.txt : 1}>
+<commander , {input\big2.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<commune , {input\big2.txt : 1}>
+<confirmed , {input\big2.txt : 1}>
+<conservatory , {input\big2.txt : 1}>
+<considered , {input\big2.txt : 1}{input\big.txt : 1}>
+<contemplate , {input\big2.txt : 1}>
+<contempt , {input\big2.txt : 1}>
+<convenient , {input\big2.txt : 1}{input\big.txt : 2}>
+<corn , {input\big2.txt : 3}>
+<count , {input\big2.txt : 1}{input\big1.txt : 3}{input\big3.txt : 3}>
+<crimea , {input\big2.txt : 1}>
+<crosses , {input\big2.txt : 1}>
+<crowd , {input\big2.txt : 14}{input\big1.txt : 1}{input\big3.txt : 4}>
+<crowded , {input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<crowed , {input\big2.txt : 1}>
+<cabby , {input\big1.txt : 1}{input\big3.txt : 1}>
+<cabinet , {input\big1.txt : 2}{input\big3.txt : 2}>
+<cabman , {input\big1.txt : 2}{input\big3.txt : 2}>
+<calves , {input\big1.txt : 1}{input\big3.txt : 1}>
+<campaign , {input\big1.txt : 1}{input\big3.txt : 1}>
+<capable , {input\big1.txt : 1}{input\big3.txt : 1}>
+<careless , {input\big1.txt : 1}{input\big3.txt : 1}>
+<carlsbad , {input\big1.txt : 1}{input\big3.txt : 1}>
+<carte , {input\big1.txt : 1}{input\big3.txt : 1}>
+<cassel , {input\big1.txt : 1}{input\big3.txt : 1}>
+<centred , {input\big1.txt : 1}{input\big3.txt : 1}>
+<centuries , {input\big1.txt : 1}{input\big3.txt : 1}>
+<certificates , {input\big1.txt : 1}{input\big3.txt : 1}>
+<chambers , {input\big1.txt : 1}{input\big3.txt : 2}>
+<chamois , {input\big1.txt : 1}{input\big3.txt : 1}>
+<chances , {input\big1.txt : 1}{input\big3.txt : 1}>
+<changed , {input\big1.txt : 2}{input\big3.txt : 2}{input\big.txt : 1}>
+<chat , {input\big1.txt : 1}{input\big3.txt : 1}>
+<cheekbones , {input\big1.txt : 1}{input\big3.txt : 1}>
+<chest , {input\big1.txt : 2}{input\big3.txt : 3}{input\big.txt : 5}>
+<chronicle , {input\big1.txt : 1}{input\big3.txt : 3}>
+<chubb , {input\big1.txt : 1}{input\big3.txt : 1}>
+<church , {input\big1.txt : 6}{input\big3.txt : 6}>
+<civil , {input\big1.txt : 1}{input\big3.txt : 1}>
+<clasped , {input\big1.txt : 1}{input\big3.txt : 1}>
+<clergyman , {input\big1.txt : 4}{input\big3.txt : 5}>
+<closing , {input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<clotilde , {input\big1.txt : 1}{input\big3.txt : 1}>
+<clues , {input\big1.txt : 1}{input\big3.txt : 1}>
+<clumsy , {input\big1.txt : 1}{input\big3.txt : 1}>
+<coach , {input\big1.txt : 1}{input\big3.txt : 1}>
+<cocaine , {input\big1.txt : 1}{input\big3.txt : 1}>
+<compromise , {input\big1.txt : 1}{input\big3.txt : 1}>
+<compromised , {input\big1.txt : 1}{input\big3.txt : 1}>
+<compromising , {input\big1.txt : 1}{input\big3.txt : 1}>
+<concealment , {input\big1.txt : 1}{input\big3.txt : 1}>
+<concerning , {input\big1.txt : 1}{input\big3.txt : 1}>
+<concerts , {input\big1.txt : 1}{input\big3.txt : 1}>
+<condescend , {input\big1.txt : 1}{input\big3.txt : 1}>
+<conduct , {input\big1.txt : 1}{input\big3.txt : 1}>
+<confide , {input\big1.txt : 1}{input\big3.txt : 1}>
+<confined , {input\big1.txt : 1}{input\big3.txt : 2}>
+<consisted , {input\big1.txt : 1}{input\big3.txt : 1}>
+<construction , {input\big1.txt : 1}{input\big3.txt : 1}>
+<consult , {input\big1.txt : 2}{input\big3.txt : 2}>
+<consulting , {input\big1.txt : 1}{input\big3.txt : 1}>
+<continental , {input\big1.txt : 1}{input\big3.txt : 1}>
+<contralto , {input\big1.txt : 1}{input\big3.txt : 1}>
+<copper , {input\big1.txt : 1}{input\big3.txt : 1}>
+<costume , {input\big1.txt : 1}{input\big3.txt : 2}>
+<crack , {input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<created , {input\big1.txt : 1}{input\big3.txt : 1}>
+<cried; , {input\big1.txt : 1}{input\big3.txt : 1}>
+<crimes , {input\big1.txt : 1}{input\big3.txt : 2}>
+<crown , {input\big1.txt : 2}{input\big3.txt : 2}>
+<crusted , {input\big1.txt : 1}{input\big3.txt : 1}>
+<curb , {input\big1.txt : 1}{input\big3.txt : 1}>
+<curve , {input\big1.txt : 1}{input\big3.txt : 1}>
+<customary , {input\big1.txt : 1}{input\big3.txt : 1}>
+<camera , {input\big3.txt : 1}>
+<candid , {input\big3.txt : 1}>
+<candidate , {input\big3.txt : 1}>
+<cardboard , {input\big3.txt : 1}>
+<cared , {input\big3.txt : 1}>
+<carpenter , {input\big3.txt : 1}>
+<castle , {input\big3.txt : 1}>
+<celebrated , {input\big3.txt : 1}>
+<cellar , {input\big3.txt : 1}>
+<chagrin , {input\big3.txt : 2}>
+<chairs , {input\big3.txt : 1}>
+<charing , {input\big3.txt : 1}>
+<check , {input\big3.txt : 1}>
+<cheer , {input\big3.txt : 1}>
+<chinese , {input\big3.txt : 1}>
+<clay; , {input\big3.txt : 1}>
+<clever , {input\big3.txt : 1}>
+<cleverness , {input\big3.txt : 1}>
+<clouds , {input\big3.txt : 1}>
+<cobblers , {input\big3.txt : 1}>
+<coburg , {input\big3.txt : 1}>
+<coin , {input\big3.txt : 1}>
+<combinations , {input\big3.txt : 1}>
+<commonplace , {input\big3.txt : 1}>
+<compass , {input\big3.txt : 1}>
+<competition , {input\big3.txt : 1}>
+<complimented , {input\big3.txt : 1}>
+<comply , {input\big3.txt : 1}>
+<congratulate , {input\big3.txt : 1}>
+<congratulated , {input\big3.txt : 1}>
+<conspiring , {input\big3.txt : 1}>
+<continent , {input\big3.txt : 1}>
+<contributed , {input\big3.txt : 1}>
+<conventions , {input\big3.txt : 1}>
+<cooking , {input\big3.txt : 1}>
+<copying , {input\big3.txt : 1}>
+<cordially , {input\big3.txt : 1}>
+<cost , {input\big3.txt : 1}>
+<costers , {input\big3.txt : 1}>
+<crib , {input\big3.txt : 1}>
+<cruelly , {input\big3.txt : 1}>
+<canal , {input\big.txt : 1}>
+<canals , {input\big.txt : 1}>
+<capillary , {input\big.txt : 1}>
+<carbolic , {input\big.txt : 1}>
+<carious , {input\big.txt : 1}>
+<carpal , {input\big.txt : 2}>
+<causing , {input\big.txt : 2}>
+<cavities , {input\big.txt : 1}>
+<cavity , {input\big.txt : 4}>
+<cellular , {input\big.txt : 4}>
+<cellulitis , {input\big.txt : 15}>
+<characteristically , {input\big.txt : 1}>
+<chart , {input\big.txt : 2}>
+<charts , {input\big.txt : 1}>
+<checked , {input\big.txt : 1}>
+<cheek , {input\big.txt : 1}>
+<chill , {input\big.txt : 2}>
+<chilliness , {input\big.txt : 1}>
+<cicatricial , {input\big.txt : 1}>
+<circulating , {input\big.txt : 2}>
+<clammy , {input\big.txt : 2}>
+<clavicle , {input\big.txt : 1}>
+<clefts , {input\big.txt : 1}>
+<clinical , {input\big.txt : 6}>
+<clinically , {input\big.txt : 2}>
+<clipping , {input\big.txt : 1}>
+<closure , {input\big.txt : 2}>
+<clot , {input\big.txt : 1}>
+<clubbing , {input\big.txt : 1}>
+<coated , {input\big.txt : 1}>
+<cocci , {input\big.txt : 2}>
+<collections , {input\big.txt : 2}>
+<commenced , {input\big.txt : 1}>
+<common; , {input\big.txt : 1}>
+<comparable , {input\big.txt : 1}>
+<completeness , {input\big.txt : 1}>
+<complicate , {input\big.txt : 1}>
+<compound , {input\big.txt : 1}>
+<compressible , {input\big.txt : 3}>
+<condition , {input\big.txt : 7}>
+<condition; , {input\big.txt : 1}>
+<congenital , {input\big.txt : 1}>
+<connective , {input\big.txt : 4}>
+<consider , {input\big.txt : 1}>
+<consists , {input\big.txt : 3}>
+<constitutional , {input\big.txt : 6}>
+<constricting , {input\big.txt : 3}>
+<constriction , {input\big.txt : 1}>
+<containing , {input\big.txt : 2}>
+<contains , {input\big.txt : 1}>
+<continuous , {input\big.txt : 2}>
+<contra , {input\big.txt : 1}>
+<contractions , {input\big.txt : 1}>
+<corneum , {input\big.txt : 2}>
+<counter , {input\big.txt : 1}>
+<crunching , {input\big.txt : 1}>
+<crust , {input\big.txt : 1}>
+<cutaneous , {input\big.txt : 2}>

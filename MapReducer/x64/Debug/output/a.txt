@@ -1,0 +1,384 @@
+<a , {input\big4.txt : 258}{input\big5.txt : 365}{input\big2.txt : 61}{input\big1.txt : 175}{input\big3.txt : 330}{input\big.txt : 98}>
+<abiding , {input\big4.txt : 1}>
+<able , {input\big4.txt : 5}{input\big5.txt : 2}{input\big1.txt : 2}{input\big3.txt : 8}{input\big.txt : 1}>
+<abomination , {input\big4.txt : 1}>
+<abound , {input\big4.txt : 1}>
+<about , {input\big4.txt : 22}{input\big5.txt : 25}{input\big2.txt : 6}{input\big1.txt : 8}{input\big3.txt : 16}>
+<above , {input\big4.txt : 3}{input\big5.txt : 1}{input\big3.txt : 3}{input\big.txt : 2}>
+<abroad , {input\big4.txt : 1}>
+<absence , {input\big4.txt : 1}>
+<absent , {input\big4.txt : 1}{input\big.txt : 1}>
+<absolute , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<absolutely , {input\big4.txt : 6}{input\big5.txt : 3}{input\big1.txt : 3}{input\big3.txt : 3}>
+<absurd , {input\big4.txt : 1}>
+<abuse , {input\big4.txt : 1}>
+<accidental , {input\big4.txt : 1}>
+<according , {input\big4.txt : 1}>
+<account , {input\big4.txt : 6}{input\big5.txt : 3}{input\big2.txt : 1}{input\big1.txt : 3}{input\big3.txt : 4}{input\big.txt : 4}>
+<accounts , {input\big4.txt : 1}{input\big5.txt : 1}>
+<accused , {input\big4.txt : 2}{input\big5.txt : 1}>
+<acquitted , {input\big4.txt : 1}>
+<across , {input\big4.txt : 4}{input\big5.txt : 7}{input\big1.txt : 3}{input\big3.txt : 4}>
+<acting , {input\big4.txt : 2}{input\big.txt : 1}>
+<action , {input\big4.txt : 2}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 5}>
+<actions , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<active , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<add , {input\big4.txt : 1}>
+<admire , {input\big4.txt : 1}>
+<ado , {input\big4.txt : 1}>
+<advantages , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<adventure , {input\big4.txt : 2}{input\big5.txt : 4}{input\big3.txt : 1}>
+<adventures , {input\big4.txt : 1}{input\big5.txt : 1}{input\big3.txt : 1}>
+<advice , {input\big4.txt : 3}{input\big5.txt : 1}>
+<affair , {input\big4.txt : 1}{input\big3.txt : 2}>
+<affairs , {input\big4.txt : 1}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<afraid , {input\big4.txt : 7}{input\big3.txt : 1}>
+<after , {input\big4.txt : 9}{input\big5.txt : 8}{input\big2.txt : 3}{input\big1.txt : 2}{input\big3.txt : 17}{input\big.txt : 6}>
+<afternoon , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}{input\big.txt : 1}>
+<afterwards , {input\big4.txt : 2}{input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<again , {input\big4.txt : 3}{input\big5.txt : 3}{input\big2.txt : 9}{input\big1.txt : 5}{input\big3.txt : 7}{input\big.txt : 1}>
+<against , {input\big4.txt : 5}{input\big5.txt : 9}{input\big2.txt : 1}{input\big1.txt : 3}{input\big3.txt : 6}{input\big.txt : 1}>
+<agent , {input\big4.txt : 1}{input\big1.txt : 3}{input\big3.txt : 4}>
+<ago , {input\big4.txt : 1}{input\big5.txt : 6}{input\big1.txt : 2}{input\big3.txt : 4}>
+<ah , {input\big4.txt : 3}{input\big5.txt : 8}{input\big2.txt : 2}{input\big3.txt : 2}>
+<aid , {input\big4.txt : 1}{input\big5.txt : 3}>
+<air , {input\big4.txt : 2}{input\big5.txt : 5}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 3}>
+<alice , {input\big4.txt : 4}>
+<alive , {input\big4.txt : 2}{input\big2.txt : 1}>
+<all , {input\big4.txt : 36}{input\big5.txt : 42}{input\big2.txt : 24}{input\big1.txt : 18}{input\big3.txt : 49}{input\big.txt : 3}>
+<allow , {input\big4.txt : 1}{input\big.txt : 1}>
+<allusion , {input\big4.txt : 1}>
+<almost , {input\big4.txt : 2}{input\big5.txt : 2}{input\big1.txt : 3}{input\big3.txt : 3}>
+<alone , {input\big4.txt : 2}{input\big2.txt : 2}{input\big1.txt : 2}{input\big3.txt : 2}>
+<along , {input\big4.txt : 1}{input\big5.txt : 2}{input\big2.txt : 3}{input\big.txt : 2}>
+<already , {input\big4.txt : 7}{input\big5.txt : 4}{input\big2.txt : 1}{input\big1.txt : 5}{input\big3.txt : 6}{input\big.txt : 1}>
+<also , {input\big4.txt : 4}{input\big5.txt : 11}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 5}{input\big.txt : 5}>
+<alternately , {input\big4.txt : 1}>
+<although , {input\big4.txt : 2}{input\big5.txt : 2}{input\big.txt : 4}>
+<always , {input\big4.txt : 6}{input\big5.txt : 9}{input\big2.txt : 4}{input\big1.txt : 3}{input\big3.txt : 8}{input\big.txt : 5}>
+<am , {input\big4.txt : 24}{input\big5.txt : 25}{input\big2.txt : 8}{input\big1.txt : 15}{input\big3.txt : 33}>
+<amateur , {input\big4.txt : 1}{input\big5.txt : 1}>
+<america , {input\big4.txt : 2}>
+<amid , {input\big4.txt : 1}{input\big5.txt : 5}>
+<among , {input\big4.txt : 6}{input\big5.txt : 2}{input\big1.txt : 2}{input\big3.txt : 4}{input\big.txt : 2}>
+<ample , {input\big4.txt : 1}>
+<an , {input\big4.txt : 24}{input\big5.txt : 34}{input\big2.txt : 8}{input\big1.txt : 19}{input\big3.txt : 46}{input\big.txt : 19}>
+<analytical , {input\big4.txt : 1}>
+<and , {input\big4.txt : 342}{input\big5.txt : 352}{input\big2.txt : 166}{input\big1.txt : 191}{input\big3.txt : 379}{input\big.txt : 150}>
+<anderson , {input\big4.txt : 1}>
+<angry , {input\big4.txt : 1}{input\big2.txt : 1}>
+<animal , {input\big4.txt : 1}{input\big5.txt : 1}>
+<another , {input\big4.txt : 2}{input\big5.txt : 5}{input\big2.txt : 4}{input\big1.txt : 2}{input\big3.txt : 7}{input\big.txt : 3}>
+<answer , {input\big4.txt : 4}{input\big5.txt : 5}{input\big2.txt : 3}{input\big3.txt : 1}>
+<answered , {input\big4.txt : 5}{input\big5.txt : 3}{input\big2.txt : 3}{input\big1.txt : 4}{input\big3.txt : 10}>
+<answering , {input\big4.txt : 1}>
+<anxiety , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<anxious , {input\big4.txt : 1}{input\big5.txt : 2}{input\big3.txt : 1}>
+<anxiously , {input\big4.txt : 1}>
+<any , {input\big4.txt : 9}{input\big5.txt : 13}{input\big2.txt : 3}{input\big1.txt : 3}{input\big3.txt : 11}{input\big.txt : 2}>
+<anyhow , {input\big4.txt : 1}{input\big5.txt : 1}{input\big3.txt : 1}>
+<anyone , {input\big4.txt : 2}{input\big5.txt : 5}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<anything , {input\big4.txt : 6}{input\big5.txt : 5}{input\big2.txt : 4}{input\big1.txt : 2}{input\big3.txt : 7}{input\big.txt : 1}>
+<anything; , {input\big4.txt : 1}>
+<apology , {input\big4.txt : 1}{input\big3.txt : 1}>
+<appeal , {input\big4.txt : 1}>
+<appearance , {input\big4.txt : 2}{input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 4}{input\big.txt : 2}>
+<appeared , {input\big4.txt : 1}{input\big2.txt : 2}{input\big1.txt : 3}{input\big3.txt : 4}>
+<appears , {input\big4.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<appointment , {input\big4.txt : 2}>
+<approach , {input\big4.txt : 1}{input\big5.txt : 2}>
+<approached , {input\big4.txt : 1}{input\big5.txt : 1}{input\big2.txt : 1}>
+<arat , {input\big4.txt : 1}>
+<are , {input\big4.txt : 28}{input\big5.txt : 61}{input\big2.txt : 8}{input\big1.txt : 22}{input\big3.txt : 36}{input\big.txt : 26}>
+<argue , {input\big4.txt : 1}>
+<arise , {input\big4.txt : 1}>
+<arm , {input\big4.txt : 1}{input\big5.txt : 3}{input\big3.txt : 1}{input\big.txt : 1}>
+<arm; , {input\big4.txt : 1}>
+<arms , {input\big4.txt : 3}{input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 1}>
+<army , {input\big4.txt : 1}{input\big2.txt : 1}>
+<aroused , {input\big4.txt : 1}>
+<arrested , {input\big4.txt : 1}{input\big5.txt : 4}{input\big.txt : 1}>
+<arrival , {input\big4.txt : 1}>
+<arrived , {input\big4.txt : 2}{input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 1}>
+<as , {input\big4.txt : 91}{input\big5.txt : 96}{input\big2.txt : 27}{input\big1.txt : 47}{input\big3.txt : 103}{input\big.txt : 32}>
+<ascended , {input\big4.txt : 1}>
+<ash , {input\big4.txt : 2}>
+<ashamed , {input\big4.txt : 1}{input\big5.txt : 1}{input\big3.txt : 1}>
+<ashen , {input\big4.txt : 1}>
+<ashes , {input\big4.txt : 3}>
+<ask , {input\big4.txt : 2}{input\big5.txt : 5}{input\big2.txt : 3}{input\big3.txt : 1}>
+<asked , {input\big4.txt : 8}{input\big5.txt : 4}{input\big2.txt : 10}{input\big1.txt : 5}{input\big3.txt : 14}>
+<assistance , {input\big4.txt : 2}{input\big5.txt : 1}>
+<assizes , {input\big4.txt : 4}{input\big5.txt : 2}>
+<assure , {input\big4.txt : 1}>
+<at , {input\big4.txt : 83}{input\big5.txt : 93}{input\big2.txt : 38}{input\big1.txt : 46}{input\big3.txt : 85}{input\big.txt : 15}>
+<atone , {input\big4.txt : 1}>
+<attacked , {input\big4.txt : 1}>
+<attempt , {input\big4.txt : 1}{input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 2}>
+<attention , {input\big4.txt : 6}{input\big5.txt : 2}{input\big1.txt : 3}{input\big3.txt : 3}{input\big.txt : 1}>
+<attic , {input\big4.txt : 3}>
+<attics , {input\big4.txt : 1}>
+<attract , {input\big4.txt : 1}>
+<australia , {input\big4.txt : 1}>
+<australian , {input\big4.txt : 2}>
+<australians , {input\big4.txt : 1}>
+<averse , {input\big4.txt : 3}{input\big1.txt : 1}{input\big3.txt : 1}>
+<aversion , {input\big4.txt : 1}>
+<avoid , {input\big4.txt : 1}{input\big5.txt : 1}{input\big2.txt : 1}{input\big.txt : 3}>
+<aware , {input\big4.txt : 2}{input\big1.txt : 3}{input\big3.txt : 3}>
+<away , {input\big4.txt : 12}{input\big5.txt : 8}{input\big2.txt : 13}{input\big1.txt : 4}{input\big3.txt : 10}{input\big.txt : 2}>
+<awful , {input\big4.txt : 1}>
+<abandoned , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<abandons , {input\big5.txt : 1}>
+<abstracted , {input\big5.txt : 2}>
+<accept , {input\big5.txt : 1}>
+<accident , {input\big5.txt : 1}>
+<accompany , {input\big5.txt : 1}>
+<accumulation , {input\big5.txt : 1}>
+<accuser , {input\big5.txt : 1}>
+<accustomed , {input\big5.txt : 1}{input\big2.txt : 1}{input\big1.txt : 3}{input\big3.txt : 3}>
+<acquaintance , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<acquired , {input\big5.txt : 1}>
+<acquirement , {input\big5.txt : 1}>
+<acres , {input\big5.txt : 2}>
+<act , {input\big5.txt : 1}{input\big.txt : 1}>
+<actor , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<adapt , {input\big5.txt : 1}>
+<adapted , {input\big5.txt : 1}>
+<added , {input\big5.txt : 1}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<address , {input\big5.txt : 2}{input\big1.txt : 5}{input\big3.txt : 8}>
+<adhesive , {input\big5.txt : 1}>
+<adler , {input\big5.txt : 1}{input\big1.txt : 9}{input\big3.txt : 13}>
+<admiring , {input\big5.txt : 1}>
+<advance , {input\big5.txt : 1}>
+<advantage , {input\big5.txt : 1}{input\big3.txt : 2}>
+<advertise , {input\big5.txt : 2}>
+<advertisement , {input\big5.txt : 4}{input\big3.txt : 9}>
+<advertising , {input\big5.txt : 1}>
+<advise , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<affection , {input\big5.txt : 1}{input\big.txt : 1}>
+<afford , {input\big5.txt : 1}>
+<again; , {input\big5.txt : 1}{input\big3.txt : 1}>
+<age , {input\big5.txt : 1}{input\big3.txt : 3}>
+<aged , {input\big5.txt : 2}>
+<agency , {input\big5.txt : 1}>
+<agitation , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<agonies , {input\big5.txt : 1}>
+<agree , {input\big5.txt : 1}{input\big2.txt : 5}>
+<akimbo , {input\big5.txt : 1}>
+<alarm , {input\big5.txt : 2}{input\big3.txt : 4}>
+<alas , {input\big5.txt : 1}>
+<alias , {input\big5.txt : 1}>
+<allied , {input\big5.txt : 1}>
+<allowed , {input\big5.txt : 2}{input\big.txt : 2}>
+<allows , {input\big5.txt : 1}>
+<allude , {input\big5.txt : 1}>
+<alpha , {input\big5.txt : 7}>
+<ambitious , {input\big5.txt : 1}>
+<amount , {input\big5.txt : 1}{input\big3.txt : 2}{input\big.txt : 2}>
+<amoy , {input\big5.txt : 1}>
+<ancestral , {input\big5.txt : 1}>
+<anger , {input\big5.txt : 3}{input\big2.txt : 1}>
+<angle , {input\big5.txt : 1}{input\big.txt : 1}>
+<animals , {input\big5.txt : 1}>
+<annual , {input\big5.txt : 1}>
+<anoints , {input\big5.txt : 1}>
+<answers , {input\big5.txt : 1}{input\big2.txt : 1}>
+<apart , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<apartment , {input\big5.txt : 1}>
+<appear , {input\big5.txt : 3}{input\big.txt : 2}>
+<applying , {input\big5.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<approaching , {input\big5.txt : 2}>
+<appropriate , {input\big5.txt : 1}>
+<approvingly; , {input\big5.txt : 1}>
+<april , {input\big5.txt : 1}{input\big3.txt : 1}>
+<aproned , {input\big5.txt : 1}>
+<arduous , {input\big5.txt : 1}>
+<aright , {input\big5.txt : 1}>
+<aristocratic , {input\big5.txt : 1}>
+<armchair , {input\big5.txt : 2}{input\big1.txt : 4}{input\big3.txt : 5}>
+<arrest , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<art , {input\big5.txt : 1}>
+<article , {input\big5.txt : 2}>
+<articles , {input\big5.txt : 3}>
+<artillery , {input\big5.txt : 1}>
+<ascend , {input\big5.txt : 1}>
+<ascertaining , {input\big5.txt : 1}>
+<aside , {input\big5.txt : 2}>
+<asleep , {input\big5.txt : 1}>
+<aspect , {input\big5.txt : 1}>
+<assailants; , {input\big5.txt : 1}>
+<assaulted , {input\big5.txt : 1}>
+<assisting , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<associate , {input\big5.txt : 2}>
+<associated , {input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}{input\big.txt : 3}>
+<association , {input\big5.txt : 1}>
+<assume , {input\big5.txt : 1}>
+<assumed , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<assuredly , {input\big5.txt : 1}>
+<astonishment , {input\big5.txt : 3}>
+<ate , {input\big5.txt : 1}>
+<attained , {input\big5.txt : 1}>
+<attainments , {input\big5.txt : 1}>
+<attempted , {input\big5.txt : 1}>
+<attempts , {input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}{input\big.txt : 1}>
+<attendant , {input\big5.txt : 2}>
+<attentions , {input\big5.txt : 1}>
+<aunt , {input\big5.txt : 1}>
+<authorities , {input\big5.txt : 2}>
+<average , {input\big5.txt : 1}{input\big3.txt : 1}>
+<avert , {input\big5.txt : 1}>
+<averted , {input\big5.txt : 1}>
+<awakened , {input\big5.txt : 1}>
+<awkward , {input\big5.txt : 1}{input\big2.txt : 1}{input\big3.txt : 1}>
+<ay , {input\big5.txt : 1}>
+<accepted , {input\big2.txt : 1}>
+<accompanied , {input\big2.txt : 1}>
+<actual , {input\big2.txt : 1}{input\big.txt : 1}>
+<actually , {input\big2.txt : 1}>
+<admonish , {input\big2.txt : 1}>
+<advanced , {input\big2.txt : 1}{input\big.txt : 1}>
+<agitated , {input\big2.txt : 1}>
+<agreement , {input\big2.txt : 1}>
+<alluding , {input\big2.txt : 1}>
+<aloud , {input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<alpatych , {input\big2.txt : 14}>
+<amuse , {input\big2.txt : 2}>
+<amused , {input\big2.txt : 1}>
+<andrew , {input\big2.txt : 3}>
+<andrews , {input\big2.txt : 2}>
+<angered , {input\big2.txt : 1}>
+<annihilated , {input\big2.txt : 1}>
+<anteroom , {input\big2.txt : 1}>
+<apprehension , {input\big2.txt : 1}>
+<architect , {input\big2.txt : 1}>
+<armies , {input\big2.txt : 1}>
+<armpits , {input\big2.txt : 1}>
+<arrivals , {input\big2.txt : 1}>
+<artful , {input\big2.txt : 1}>
+<askance , {input\big2.txt : 1}>
+<asking , {input\big2.txt : 2}>
+<asks , {input\big2.txt : 1}{input\big3.txt : 1}>
+<assembled , {input\big2.txt : 1}>
+<attentively , {input\big2.txt : 1}>
+<august , {input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<abhorrent , {input\big1.txt : 1}{input\big3.txt : 1}>
+<absorb , {input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<accent , {input\big1.txt : 1}{input\big3.txt : 1}>
+<accomplished , {input\big1.txt : 1}{input\big3.txt : 1}>
+<activity , {input\big1.txt : 1}{input\big3.txt : 1}>
+<acute , {input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 8}>
+<addressing , {input\big1.txt : 1}{input\big3.txt : 1}>
+<adjusted , {input\big1.txt : 2}{input\big3.txt : 2}>
+<admirable , {input\big1.txt : 1}{input\big3.txt : 2}>
+<admirably , {input\big1.txt : 1}{input\big3.txt : 3}>
+<admit , {input\big1.txt : 1}{input\big3.txt : 2}{input\big.txt : 1}>
+<adopted , {input\big1.txt : 1}{input\big3.txt : 1}>
+<adventuress , {input\big1.txt : 1}{input\big3.txt : 1}>
+<aisle , {input\big1.txt : 1}{input\big3.txt : 1}>
+<akin , {input\big1.txt : 2}{input\big3.txt : 2}>
+<altar , {input\big1.txt : 3}{input\big3.txt : 3}>
+<alternating , {input\big1.txt : 1}{input\big3.txt : 1}>
+<amazing , {input\big1.txt : 1}{input\big3.txt : 1}>
+<ambition , {input\big1.txt : 1}{input\big3.txt : 1}>
+<amiable , {input\big1.txt : 1}{input\big3.txt : 1}>
+<amiss , {input\big1.txt : 1}{input\big3.txt : 1}>
+<animated , {input\big1.txt : 1}{input\big3.txt : 1}>
+<apiece , {input\big1.txt : 1}{input\big3.txt : 1}>
+<apparent , {input\big1.txt : 1}{input\big3.txt : 1}>
+<apparently , {input\big1.txt : 1}{input\big3.txt : 1}>
+<aquiline , {input\big1.txt : 1}{input\big3.txt : 1}>
+<around , {input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 3}>
+<arranged , {input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<arrangements , {input\big1.txt : 1}{input\big3.txt : 1}>
+<astrakhan , {input\big1.txt : 1}{input\big3.txt : 1}>
+<atkinson , {input\big1.txt : 1}{input\big3.txt : 1}>
+<attend , {input\big1.txt : 1}{input\big3.txt : 1}>
+<attitude , {input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<attracted , {input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<authenticity , {input\big1.txt : 1}{input\big3.txt : 1}>
+<authoritative , {input\big1.txt : 1}{input\big3.txt : 1}>
+<avenue , {input\big1.txt : 3}{input\big3.txt : 4}>
+<awaiting , {input\big1.txt : 1}{input\big3.txt : 1}>
+<abbots , {input\big3.txt : 1}>
+<abruptly , {input\big3.txt : 1}>
+<accomplice , {input\big3.txt : 1}>
+<acknowledges , {input\big3.txt : 1}>
+<actress , {input\big3.txt : 1}>
+<addition , {input\big3.txt : 1}>
+<affect , {input\big3.txt : 1}>
+<albert , {input\big3.txt : 1}>
+<all; , {input\big3.txt : 1}>
+<altogether , {input\big3.txt : 2}>
+<amazement , {input\big3.txt : 1}>
+<american , {input\big3.txt : 2}>
+<announcement , {input\big3.txt : 1}>
+<annoyance , {input\big3.txt : 1}>
+<antagonist; , {input\big3.txt : 1}>
+<apply , {input\big3.txt : 5}>
+<arc , {input\big3.txt : 1}>
+<archery , {input\big3.txt : 1}>
+<architecture , {input\big3.txt : 1}>
+<armour , {input\big3.txt : 1}>
+<arnsworth , {input\big3.txt : 1}>
+<assistant , {input\big3.txt : 5}>
+<assistants , {input\big3.txt : 1}>
+<assuring , {input\big3.txt : 1}>
+<attica , {input\big3.txt : 1}>
+<autumn , {input\big3.txt : 1}>
+<avail , {input\big3.txt : 1}>
+<abate , {input\big.txt : 1}>
+<abdomen , {input\big.txt : 1}>
+<abdominal , {input\big.txt : 1}>
+<abnormal , {input\big.txt : 1}>
+<abortion , {input\big.txt : 1}>
+<abscess , {input\big.txt : 8}>
+<abscesses , {input\big.txt : 1}>
+<absorbed , {input\big.txt : 1}>
+<absorption , {input\big.txt : 3}>
+<accumulate , {input\big.txt : 1}>
+<acid , {input\big.txt : 1}>
+<adds , {input\big.txt : 1}>
+<adhesions , {input\big.txt : 3}>
+<adjuvant , {input\big.txt : 1}>
+<admits , {input\big.txt : 1}>
+<advisable , {input\big.txt : 1}>
+<affected , {input\big.txt : 3}>
+<aggravated , {input\big.txt : 2}>
+<albuminuria , {input\big.txt : 1}>
+<alkaloid , {input\big.txt : 1}>
+<alkaloids , {input\big.txt : 1}>
+<amounting , {input\big.txt : 1}>
+<amputation , {input\big.txt : 2}>
+<anaesthesia , {input\big.txt : 2}>
+<anatomical , {input\big.txt : 1}>
+<angle; , {input\big.txt : 1}>
+<ankle , {input\big.txt : 1}>
+<ankylosis , {input\big.txt : 1}>
+<annular , {input\big.txt : 1}>
+<ano , {input\big.txt : 1}>
+<anterior , {input\big.txt : 1}>
+<anti , {input\big.txt : 1}>
+<anus , {input\big.txt : 1}>
+<apathy , {input\big.txt : 1}>
+<appearing , {input\big.txt : 1}>
+<appendicitis , {input\big.txt : 1}>
+<appetite , {input\big.txt : 2}>
+<application , {input\big.txt : 1}>
+<applied , {input\big.txt : 4}>
+<approaches , {input\big.txt : 1}>
+<approximated , {input\big.txt : 1}>
+<apt , {input\big.txt : 2}>
+<area , {input\big.txt : 6}>
+<areas , {input\big.txt : 1}>
+<armpit , {input\big.txt : 1}>
+<arrangement , {input\big.txt : 1}>
+<arterial , {input\big.txt : 2}>
+<ascites , {input\big.txt : 1}>
+<ashy , {input\big.txt : 1}>
+<assumes , {input\big.txt : 3}>
+<attachments , {input\big.txt : 1}>
+<attended , {input\big.txt : 1}>
+<avoided , {input\big.txt : 3}>
+<axilla , {input\big.txt : 3}>
+<axillary , {input\big.txt : 3}>

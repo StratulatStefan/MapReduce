@@ -1,0 +1,30 @@
+<yard , {input\big4.txt : 5}{input\big5.txt : 3}>
+<yards , {input\big4.txt : 5}{input\big5.txt : 1}>
+<year , {input\big4.txt : 3}{input\big5.txt : 5}{input\big2.txt : 2}{input\big1.txt : 1}{input\big3.txt : 3}>
+<years , {input\big4.txt : 10}{input\big5.txt : 12}{input\big2.txt : 2}{input\big1.txt : 2}{input\big3.txt : 5}>
+<yellow , {input\big4.txt : 2}{input\big5.txt : 1}>
+<yes , {input\big4.txt : 12}{input\big5.txt : 12}{input\big2.txt : 3}{input\big1.txt : 4}{input\big3.txt : 7}>
+<yesterday , {input\big4.txt : 1}{input\big5.txt : 1}{input\big3.txt : 1}>
+<yet , {input\big4.txt : 10}{input\big5.txt : 6}{input\big1.txt : 8}{input\big3.txt : 12}>
+<you , {input\big4.txt : 127}{input\big5.txt : 205}{input\big2.txt : 41}{input\big1.txt : 95}{input\big3.txt : 191}>
+<you; , {input\big4.txt : 1}{input\big5.txt : 1}>
+<young , {input\big4.txt : 24}{input\big5.txt : 3}{input\big2.txt : 1}{input\big1.txt : 4}{input\big3.txt : 5}>
+<youngster , {input\big4.txt : 1}>
+<your , {input\big4.txt : 38}{input\big5.txt : 41}{input\big2.txt : 12}{input\big1.txt : 25}{input\big3.txt : 64}>
+<yours , {input\big4.txt : 2}{input\big5.txt : 2}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 4}>
+<yourself , {input\big4.txt : 6}{input\big5.txt : 2}{input\big2.txt : 1}{input\big1.txt : 3}{input\big3.txt : 9}>
+<youth , {input\big4.txt : 1}{input\big5.txt : 2}{input\big3.txt : 3}>
+<yes; , {input\big5.txt : 1}>
+<yonder , {input\big5.txt : 1}>
+<youd , {input\big5.txt : 2}>
+<youll , {input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 1}>
+<yourselves , {input\big5.txt : 2}{input\big3.txt : 1}>
+<youve , {input\big5.txt : 1}>
+<yakov , {input\big2.txt : 3}>
+<yankovo , {input\big2.txt : 1}>
+<youre , {input\big2.txt : 2}>
+<youthfulness , {input\big2.txt : 1}>
+<yawn , {input\big1.txt : 1}{input\big3.txt : 1}>
+<years; , {input\big1.txt : 1}{input\big3.txt : 1}>
+<yelled , {input\big3.txt : 1}>
+<yields , {input\big.txt : 1}>

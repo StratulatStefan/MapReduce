@@ -1,0 +1,697 @@
+<sad , {input\big4.txt : 1}{input\big5.txt : 1}{input\big2.txt : 2}>
+<saddles , {input\big4.txt : 1}>
+<safe , {input\big4.txt : 1}{input\big5.txt : 2}{input\big2.txt : 1}{input\big3.txt : 1}>
+<said , {input\big4.txt : 50}{input\big5.txt : 71}{input\big2.txt : 38}{input\big1.txt : 26}{input\big3.txt : 56}>
+<sallies , {input\big4.txt : 1}>
+<same , {input\big4.txt : 4}{input\big5.txt : 9}{input\big2.txt : 2}{input\big1.txt : 2}{input\big3.txt : 5}{input\big.txt : 4}>
+<sank , {input\big4.txt : 1}{input\big5.txt : 1}>
+<sat , {input\big4.txt : 5}{input\big5.txt : 6}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 3}>
+<satisfaction , {input\big4.txt : 1}{input\big3.txt : 1}>
+<save , {input\big4.txt : 3}{input\big5.txt : 8}{input\big1.txt : 3}{input\big3.txt : 4}>
+<saved , {input\big4.txt : 3}{input\big1.txt : 1}{input\big3.txt : 1}>
+<saw , {input\big4.txt : 9}{input\big5.txt : 7}{input\big2.txt : 3}{input\big1.txt : 3}{input\big3.txt : 8}>
+<say , {input\big4.txt : 6}{input\big5.txt : 8}{input\big2.txt : 5}{input\big1.txt : 5}{input\big3.txt : 10}>
+<says , {input\big4.txt : 5}{input\big5.txt : 3}{input\big2.txt : 1}{input\big3.txt : 1}>
+<scandal , {input\big4.txt : 2}{input\big1.txt : 1}{input\big3.txt : 3}>
+<scared , {input\big4.txt : 1}{input\big5.txt : 1}>
+<scattered , {input\big4.txt : 1}{input\big5.txt : 1}{input\big3.txt : 1}>
+<scene , {input\big4.txt : 2}{input\big1.txt : 2}{input\big3.txt : 3}>
+<scent , {input\big4.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<sceptic , {input\big4.txt : 1}>
+<school , {input\big4.txt : 1}>
+<scotland , {input\big4.txt : 2}>
+<scrawled , {input\big4.txt : 1}{input\big5.txt : 1}>
+<screamed , {input\big4.txt : 1}{input\big2.txt : 1}>
+<screaming , {input\big4.txt : 1}>
+<screams , {input\big4.txt : 1}>
+<screening , {input\big4.txt : 1}>
+<scummed , {input\big4.txt : 1}>
+<sea , {input\big4.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<sealed , {input\big4.txt : 1}>
+<search , {input\big4.txt : 2}{input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<seat , {input\big4.txt : 1}{input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 6}>
+<second , {input\big4.txt : 2}{input\big5.txt : 4}{input\big1.txt : 1}{input\big3.txt : 1}>
+<secret , {input\big4.txt : 1}{input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 1}>
+<see , {input\big4.txt : 28}{input\big5.txt : 35}{input\big2.txt : 3}{input\big1.txt : 11}{input\big3.txt : 25}{input\big.txt : 1}>
+<seeing , {input\big4.txt : 4}{input\big5.txt : 4}{input\big2.txt : 1}>
+<seem , {input\big4.txt : 2}{input\big5.txt : 1}{input\big3.txt : 2}>
+<seemed , {input\big4.txt : 9}{input\big5.txt : 7}{input\big2.txt : 3}{input\big1.txt : 2}{input\big3.txt : 6}>
+<seen , {input\big4.txt : 8}{input\big5.txt : 4}{input\big2.txt : 3}{input\big1.txt : 6}{input\big3.txt : 10}>
+<sell , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<send , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<senior , {input\big4.txt : 1}>
+<sensation , {input\big4.txt : 1}{input\big.txt : 2}>
+<senseless , {input\big4.txt : 1}>
+<sent , {input\big4.txt : 1}{input\big5.txt : 4}{input\big2.txt : 7}{input\big1.txt : 2}{input\big3.txt : 3}>
+<separate , {input\big4.txt : 1}>
+<september , {input\big4.txt : 1}>
+<series , {input\big4.txt : 1}{input\big5.txt : 2}>
+<serious , {input\big4.txt : 3}{input\big1.txt : 1}{input\big3.txt : 2}{input\big.txt : 1}>
+<servants , {input\big4.txt : 1}{input\big2.txt : 1}>
+<set , {input\big4.txt : 4}{input\big5.txt : 5}{input\big3.txt : 2}>
+<settle , {input\big4.txt : 1}{input\big5.txt : 2}{input\big2.txt : 1}{input\big.txt : 1}>
+<settled , {input\big4.txt : 1}{input\big5.txt : 3}>
+<seven , {input\big4.txt : 3}{input\big5.txt : 6}{input\big1.txt : 5}{input\big3.txt : 6}>
+<several , {input\big4.txt : 2}{input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 3}{input\big.txt : 6}>
+<severe , {input\big4.txt : 1}{input\big.txt : 6}>
+<severn , {input\big4.txt : 1}>
+<shade , {input\big4.txt : 1}{input\big5.txt : 1}{input\big2.txt : 1}{input\big3.txt : 2}>
+<shadow , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<shake , {input\big4.txt : 1}{input\big3.txt : 1}>
+<shaking , {input\big4.txt : 2}{input\big5.txt : 1}>
+<shall , {input\big4.txt : 22}{input\big5.txt : 15}{input\big2.txt : 3}{input\big1.txt : 6}{input\big3.txt : 11}>
+<shape , {input\big4.txt : 1}{input\big5.txt : 3}>
+<sharp , {input\big4.txt : 1}{input\big5.txt : 2}{input\big1.txt : 3}{input\big3.txt : 3}{input\big.txt : 1}>
+<shattered , {input\big4.txt : 4}>
+<she , {input\big4.txt : 12}{input\big5.txt : 42}{input\big2.txt : 80}{input\big1.txt : 41}{input\big3.txt : 71}>
+<sheep , {input\big4.txt : 1}>
+<sheer , {input\big4.txt : 1}>
+<sheet , {input\big4.txt : 2}{input\big1.txt : 2}{input\big3.txt : 2}>
+<sherlock , {input\big4.txt : 11}{input\big5.txt : 16}{input\big1.txt : 2}{input\big3.txt : 15}>
+<shining , {input\big4.txt : 2}{input\big5.txt : 1}>
+<shock , {input\big4.txt : 1}{input\big5.txt : 1}>
+<shone , {input\big4.txt : 1}{input\big5.txt : 1}>
+<shook , {input\big4.txt : 1}{input\big3.txt : 1}>
+<shooting , {input\big4.txt : 1}>
+<short , {input\big4.txt : 1}{input\big5.txt : 2}{input\big2.txt : 1}{input\big.txt : 1}>
+<shortly , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<shot , {input\big4.txt : 2}{input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 1}>
+<should , {input\big4.txt : 17}{input\big5.txt : 17}{input\big2.txt : 3}{input\big1.txt : 12}{input\big3.txt : 22}{input\big.txt : 15}>
+<shoulder , {input\big4.txt : 1}{input\big5.txt : 3}{input\big3.txt : 1}{input\big.txt : 1}>
+<shoulders , {input\big4.txt : 4}{input\big5.txt : 2}{input\big1.txt : 2}{input\big3.txt : 2}>
+<showed , {input\big4.txt : 4}{input\big5.txt : 2}{input\big3.txt : 1}>
+<shows , {input\big4.txt : 1}>
+<shriek , {input\big4.txt : 1}{input\big3.txt : 1}>
+<shrieked , {input\big4.txt : 1}{input\big5.txt : 2}>
+<shrugged , {input\big4.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<side , {input\big4.txt : 7}{input\big5.txt : 8}{input\big1.txt : 6}{input\big3.txt : 7}{input\big.txt : 1}>
+<sight , {input\big4.txt : 1}{input\big5.txt : 1}{input\big3.txt : 1}>
+<sign , {input\big4.txt : 5}{input\big5.txt : 4}{input\big1.txt : 1}{input\big3.txt : 1}>
+<signal , {input\big4.txt : 2}{input\big1.txt : 1}{input\big3.txt : 2}>
+<signalled , {input\big4.txt : 1}>
+<signed , {input\big4.txt : 2}>
+<signs , {input\big4.txt : 1}{input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<silence , {input\big4.txt : 3}{input\big5.txt : 1}{input\big2.txt : 4}{input\big3.txt : 2}>
+<silent , {input\big4.txt : 1}{input\big2.txt : 1}>
+<silently , {input\big4.txt : 1}>
+<simple , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 3}{input\big3.txt : 8}>
+<since , {input\big4.txt : 4}{input\big5.txt : 7}{input\big2.txt : 3}{input\big1.txt : 3}{input\big3.txt : 4}>
+<sinewy , {input\big4.txt : 1}>
+<single , {input\big4.txt : 2}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<singular , {input\big4.txt : 8}{input\big5.txt : 4}{input\big1.txt : 2}{input\big3.txt : 4}>
+<sinister , {input\big4.txt : 1}{input\big5.txt : 1}>
+<sinned , {input\big4.txt : 1}>
+<sins , {input\big4.txt : 1}>
+<sir , {input\big4.txt : 3}{input\big5.txt : 19}{input\big3.txt : 6}>
+<sister; , {input\big4.txt : 1}>
+<sit , {input\big4.txt : 3}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<site , {input\big4.txt : 1}>
+<sitting , {input\big4.txt : 2}{input\big5.txt : 8}{input\big2.txt : 2}{input\big1.txt : 4}{input\big3.txt : 7}>
+<situated , {input\big4.txt : 1}>
+<six , {input\big4.txt : 4}{input\big5.txt : 5}{input\big1.txt : 4}{input\big3.txt : 4}>
+<sixteen , {input\big4.txt : 1}>
+<sixty; , {input\big4.txt : 1}>
+<sketch , {input\big4.txt : 1}>
+<skill , {input\big4.txt : 1}{input\big5.txt : 2}>
+<skin , {input\big4.txt : 1}{input\big.txt : 12}>
+<skull , {input\big4.txt : 1}>
+<sky , {input\big4.txt : 1}{input\big5.txt : 1}>
+<slate , {input\big4.txt : 1}>
+<slighter , {input\big4.txt : 1}>
+<slow , {input\big4.txt : 2}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}{input\big.txt : 1}>
+<slowly , {input\big4.txt : 1}{input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 2}>
+<slut , {input\big4.txt : 1}>
+<sly , {input\big4.txt : 1}>
+<small , {input\big4.txt : 3}{input\big5.txt : 14}{input\big2.txt : 1}{input\big1.txt : 5}{input\big3.txt : 10}{input\big.txt : 10}>
+<smoked , {input\big4.txt : 3}{input\big5.txt : 1}>
+<smokeless , {input\big4.txt : 1}>
+<smokes , {input\big4.txt : 1}>
+<smoking , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<snap , {input\big4.txt : 1}>
+<snarl , {input\big4.txt : 1}{input\big5.txt : 1}>
+<snug , {input\big4.txt : 1}>
+<so , {input\big4.txt : 47}{input\big5.txt : 47}{input\big2.txt : 11}{input\big1.txt : 17}{input\big3.txt : 45}{input\big.txt : 5}>
+<so; , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<sobbed , {input\big4.txt : 1}>
+<sober , {input\big4.txt : 1}>
+<society , {input\big4.txt : 3}{input\big1.txt : 1}{input\big3.txt : 1}>
+<sodden , {input\big4.txt : 1}>
+<sofa , {input\big4.txt : 3}{input\big5.txt : 2}{input\big3.txt : 1}>
+<softly , {input\big4.txt : 1}>
+<soldier , {input\big4.txt : 1}>
+<soled , {input\big4.txt : 1}>
+<solemnly , {input\big4.txt : 1}{input\big5.txt : 1}{input\big3.txt : 1}>
+<soles , {input\big4.txt : 1}>
+<solve , {input\big4.txt : 1}{input\big5.txt : 1}>
+<solved , {input\big4.txt : 1}>
+<some , {input\big4.txt : 33}{input\big5.txt : 30}{input\big2.txt : 5}{input\big1.txt : 12}{input\big3.txt : 22}{input\big.txt : 12}>
+<someone , {input\big4.txt : 3}{input\big1.txt : 1}{input\big3.txt : 2}>
+<something , {input\big4.txt : 7}{input\big5.txt : 3}{input\big2.txt : 5}{input\big1.txt : 1}{input\big3.txt : 4}>
+<sometimes , {input\big4.txt : 5}{input\big5.txt : 2}{input\big2.txt : 1}{input\big.txt : 10}>
+<somewhat , {input\big4.txt : 1}{input\big5.txt : 1}{input\big3.txt : 1}>
+<son , {input\big4.txt : 17}{input\big5.txt : 1}{input\big2.txt : 1}>
+<son; , {input\big4.txt : 1}>
+<sons , {input\big4.txt : 4}>
+<soon , {input\big4.txt : 3}{input\big5.txt : 4}{input\big1.txt : 2}{input\big3.txt : 3}{input\big.txt : 1}>
+<sophy , {input\big4.txt : 1}>
+<sorry , {input\big4.txt : 1}{input\big5.txt : 1}{input\big2.txt : 1}{input\big3.txt : 2}>
+<sort , {input\big4.txt : 6}{input\big1.txt : 2}{input\big3.txt : 2}>
+<soul , {input\big4.txt : 2}{input\big5.txt : 1}{input\big2.txt : 3}{input\big1.txt : 5}{input\big3.txt : 5}>
+<sound , {input\big4.txt : 1}{input\big5.txt : 1}{input\big2.txt : 2}{input\big1.txt : 2}{input\big3.txt : 3}>
+<south , {input\big4.txt : 1}{input\big5.txt : 1}{input\big3.txt : 1}>
+<southern , {input\big4.txt : 1}{input\big5.txt : 1}>
+<spare , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<spared , {input\big4.txt : 1}>
+<speak , {input\big4.txt : 2}{input\big5.txt : 3}{input\big2.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<speaks , {input\big4.txt : 1}{input\big3.txt : 1}>
+<special , {input\big4.txt : 1}{input\big2.txt : 1}>
+<spend , {input\big4.txt : 1}{input\big5.txt : 1}>
+<spent , {input\big4.txt : 1}{input\big5.txt : 2}>
+<spite , {input\big4.txt : 2}{input\big5.txt : 2}{input\big2.txt : 1}>
+<splash , {input\big4.txt : 1}>
+<spoken , {input\big4.txt : 3}{input\big1.txt : 2}{input\big3.txt : 2}>
+<spot , {input\big4.txt : 2}>
+<sprang , {input\big4.txt : 1}{input\big5.txt : 3}{input\big1.txt : 2}{input\big3.txt : 2}>
+<square , {input\big4.txt : 1}{input\big5.txt : 1}{input\big3.txt : 3}>
+<stair , {input\big4.txt : 1}{input\big5.txt : 2}{input\big3.txt : 1}>
+<stammered , {input\big4.txt : 1}>
+<stamp , {input\big4.txt : 1}{input\big2.txt : 1}>
+<standing , {input\big4.txt : 1}{input\big5.txt : 3}{input\big2.txt : 3}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<start , {input\big4.txt : 2}{input\big5.txt : 1}{input\big2.txt : 1}>
+<startled , {input\big4.txt : 1}{input\big3.txt : 1}>
+<startling , {input\big4.txt : 1}>
+<stated , {input\big4.txt : 2}>
+<statement , {input\big4.txt : 5}{input\big5.txt : 1}{input\big2.txt : 1}{input\big3.txt : 1}>
+<states , {input\big4.txt : 2}>
+<station , {input\big4.txt : 2}{input\big5.txt : 2}{input\big1.txt : 2}{input\big3.txt : 3}>
+<staying , {input\big4.txt : 1}>
+<steely , {input\big4.txt : 1}>
+<step , {input\big4.txt : 4}{input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 3}>
+<sticking , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<sticks , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<still , {input\big4.txt : 13}{input\big5.txt : 5}{input\big2.txt : 2}{input\big1.txt : 7}{input\big3.txt : 11}>
+<stock , {input\big4.txt : 2}>
+<stone , {input\big4.txt : 2}{input\big5.txt : 21}>
+<stood , {input\big4.txt : 5}{input\big5.txt : 2}{input\big2.txt : 1}{input\big1.txt : 2}{input\big3.txt : 4}>
+<stop , {input\big4.txt : 1}{input\big5.txt : 1}>
+<stopping , {input\big4.txt : 1}>
+<storied , {input\big4.txt : 1}>
+<stories , {input\big4.txt : 1}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<storm , {input\big4.txt : 2}>
+<story , {input\big4.txt : 5}{input\big5.txt : 2}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<strange , {input\big4.txt : 4}{input\big5.txt : 1}{input\big2.txt : 3}{input\big1.txt : 3}{input\big3.txt : 4}>
+<strangers , {input\big4.txt : 2}>
+<streaming , {input\big4.txt : 1}>
+<street , {input\big4.txt : 4}{input\big5.txt : 16}{input\big2.txt : 1}{input\big1.txt : 12}{input\big3.txt : 20}>
+<streets , {input\big4.txt : 2}{input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 2}>
+<strength , {input\big4.txt : 2}{input\big5.txt : 1}>
+<strengthen , {input\big4.txt : 1}>
+<stretched , {input\big4.txt : 2}{input\big1.txt : 1}{input\big3.txt : 2}>
+<stricken , {input\big4.txt : 2}{input\big5.txt : 1}>
+<stride , {input\big4.txt : 1}>
+<strike , {input\big4.txt : 1}>
+<stroke , {input\big4.txt : 1}{input\big2.txt : 2}>
+<strolled , {input\big4.txt : 1}>
+<strong , {input\big4.txt : 4}{input\big5.txt : 5}{input\big1.txt : 3}{input\big3.txt : 3}>
+<strongest , {input\big4.txt : 1}{input\big5.txt : 1}>
+<stroud , {input\big4.txt : 1}>
+<struck , {input\big4.txt : 6}{input\big2.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<stumbled , {input\big4.txt : 1}>
+<stump , {input\big4.txt : 1}>
+<submitted , {input\big4.txt : 1}{input\big5.txt : 1}>
+<success , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<successes , {input\big4.txt : 1}>
+<successful , {input\big4.txt : 1}{input\big3.txt : 3}{input\big.txt : 1}>
+<such , {input\big4.txt : 24}{input\big5.txt : 9}{input\big2.txt : 7}{input\big1.txt : 8}{input\big3.txt : 18}{input\big.txt : 12}>
+<sudden , {input\big4.txt : 1}{input\big5.txt : 2}>
+<suffer , {input\big4.txt : 1}{input\big2.txt : 1}{input\big3.txt : 1}>
+<suffered , {input\big4.txt : 1}{input\big5.txt : 1}>
+<suggest , {input\big4.txt : 1}{input\big5.txt : 1}>
+<suggestive , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<suicide , {input\big4.txt : 2}{input\big5.txt : 2}>
+<sundial , {input\big4.txt : 3}>
+<sundials , {input\big4.txt : 1}>
+<superior , {input\big4.txt : 1}>
+<supporters , {input\big4.txt : 1}>
+<supporting , {input\big4.txt : 1}>
+<supposed , {input\big4.txt : 1}>
+<supposing , {input\big4.txt : 1}>
+<sure , {input\big4.txt : 2}{input\big5.txt : 6}{input\big2.txt : 2}{input\big1.txt : 4}{input\big3.txt : 7}>
+<surely , {input\big4.txt : 2}{input\big5.txt : 1}{input\big3.txt : 1}>
+<surgeon , {input\big4.txt : 1}>
+<surgeons , {input\big4.txt : 1}>
+<surmise , {input\big4.txt : 1}{input\big5.txt : 1}>
+<surprise , {input\big4.txt : 1}{input\big5.txt : 4}{input\big2.txt : 1}{input\big1.txt : 2}{input\big3.txt : 4}>
+<surprised , {input\big4.txt : 1}{input\big5.txt : 1}>
+<surroundings , {input\big4.txt : 1}>
+<suspected , {input\big4.txt : 1}{input\big3.txt : 1}>
+<suspicions , {input\big4.txt : 1}{input\big5.txt : 1}>
+<sussex , {input\big4.txt : 1}>
+<swag , {input\big4.txt : 1}>
+<swash , {input\big4.txt : 1}>
+<swiftly , {input\big4.txt : 2}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<swindon , {input\big4.txt : 1}>
+<syllables , {input\big4.txt : 1}>
+<sympathy , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<system , {input\big4.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<safety , {input\big5.txt : 2}>
+<sailor , {input\big5.txt : 1}>
+<sake , {input\big5.txt : 3}{input\big2.txt : 5}{input\big3.txt : 1}>
+<salesman , {input\big5.txt : 9}>
+<satisfied , {input\big5.txt : 1}{input\big3.txt : 1}>
+<saving , {input\big5.txt : 2}{input\big.txt : 1}>
+<saxon , {input\big5.txt : 1}>
+<scar , {input\big5.txt : 3}{input\big.txt : 1}>
+<schoolmaster , {input\big5.txt : 1}>
+<scintillating , {input\big5.txt : 1}>
+<scissors , {input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<scotch , {input\big5.txt : 2}>
+<scoundrel , {input\big5.txt : 1}>
+<scrawl , {input\big5.txt : 1}>
+<scream , {input\big5.txt : 2}>
+<scrupulous , {input\big5.txt : 1}>
+<seamed , {input\big5.txt : 1}>
+<searched , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<seared , {input\big5.txt : 1}>
+<season , {input\big5.txt : 2}>
+<seasonable , {input\big5.txt : 1}>
+<seated , {input\big5.txt : 1}>
+<secrecy , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<secrets , {input\big5.txt : 1}>
+<securer , {input\big5.txt : 2}>
+<security , {input\big5.txt : 1}>
+<sedentary , {input\big5.txt : 1}>
+<seedy , {input\big5.txt : 1}>
+<seems , {input\big5.txt : 4}{input\big1.txt : 1}{input\big3.txt : 2}>
+<seized , {input\big5.txt : 3}{input\big2.txt : 2}{input\big1.txt : 1}{input\big3.txt : 3}>
+<seldom , {input\big5.txt : 2}{input\big1.txt : 3}{input\big3.txt : 3}{input\big.txt : 1}>
+<self , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<seller , {input\big5.txt : 1}>
+<semicircle , {input\big5.txt : 1}>
+<sense , {input\big5.txt : 1}{input\big2.txt : 1}>
+<sentence , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<sentimental , {input\big5.txt : 1}>
+<sequence , {input\big5.txt : 1}>
+<seriously , {input\big5.txt : 1}{input\big1.txt : 3}{input\big3.txt : 3}{input\big.txt : 1}>
+<servant , {input\big5.txt : 1}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 3}>
+<served , {input\big5.txt : 1}{input\big2.txt : 1}>
+<services , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<serving , {input\big5.txt : 1}>
+<servitude , {input\big5.txt : 1}>
+<seventy , {input\big5.txt : 1}>
+<shag , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<shamefaced , {input\big5.txt : 1}>
+<shant , {input\big5.txt : 1}>
+<sharing , {input\big5.txt : 1}>
+<sharply , {input\big5.txt : 1}>
+<shawl , {input\big5.txt : 1}>
+<shed , {input\big5.txt : 1}>
+<shillings , {input\big5.txt : 1}>
+<shirt , {input\big5.txt : 2}>
+<shiver , {input\big5.txt : 1}>
+<shivering , {input\big5.txt : 1}>
+<shocked , {input\big5.txt : 1}>
+<shop , {input\big5.txt : 2}>
+<shots , {input\big5.txt : 1}>
+<shouted , {input\big5.txt : 2}{input\big2.txt : 1}{input\big1.txt : 2}{input\big3.txt : 4}>
+<show , {input\big5.txt : 1}{input\big2.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<showing , {input\big5.txt : 1}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<shown , {input\big5.txt : 3}{input\big2.txt : 1}{input\big1.txt : 2}{input\big3.txt : 4}>
+<shrimp , {input\big5.txt : 1}>
+<shrug , {input\big5.txt : 1}>
+<shut , {input\big5.txt : 1}{input\big3.txt : 2}>
+<shutters , {input\big5.txt : 1}{input\big3.txt : 1}>
+<sideboard , {input\big5.txt : 2}>
+<sidelong , {input\big5.txt : 1}>
+<sigh , {input\big5.txt : 1}{input\big2.txt : 1}>
+<silk , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<silly , {input\big5.txt : 1}>
+<silver , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<simplest , {input\big5.txt : 1}>
+<sister , {input\big5.txt : 14}{input\big2.txt : 1}>
+<sisters , {input\big5.txt : 6}>
+<situation , {input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}{input\big.txt : 1}>
+<size , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 2}>
+<sized , {input\big5.txt : 1}>
+<skinned , {input\big5.txt : 1}>
+<slab , {input\big5.txt : 1}>
+<slabs , {input\big5.txt : 1}>
+<sleep , {input\big5.txt : 4}{input\big.txt : 3}>
+<sleeper , {input\big5.txt : 2}>
+<sleepy , {input\big5.txt : 2}{input\big2.txt : 1}>
+<sleeves , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<slight , {input\big5.txt : 4}{input\big3.txt : 2}{input\big.txt : 1}>
+<slip , {input\big5.txt : 2}>
+<slipped , {input\big5.txt : 2}{input\big3.txt : 1}>
+<slippers , {input\big5.txt : 1}>
+<sloping , {input\big5.txt : 1}>
+<slumber , {input\big5.txt : 1}>
+<slums , {input\big5.txt : 1}>
+<slung , {input\big5.txt : 1}>
+<smaller , {input\big5.txt : 1}{input\big3.txt : 1}>
+<smallest , {input\big5.txt : 1}>
+<smashed , {input\big5.txt : 1}>
+<smearing , {input\big5.txt : 2}>
+<smell , {input\big5.txt : 1}>
+<smiled , {input\big5.txt : 1}{input\big2.txt : 1}>
+<smiling , {input\big5.txt : 1}{input\big2.txt : 2}>
+<smoke , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 4}>
+<smooth , {input\big5.txt : 1}{input\big3.txt : 1}>
+<smoothed , {input\big5.txt : 1}>
+<snapped , {input\big5.txt : 1}>
+<sneer , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<sobbing , {input\big5.txt : 1}{input\big2.txt : 2}>
+<sold , {input\big5.txt : 7}{input\big2.txt : 1}>
+<solder , {input\big5.txt : 1}>
+<solemn , {input\big5.txt : 1}>
+<solid , {input\big5.txt : 1}>
+<solution , {input\big5.txt : 3}{input\big.txt : 3}>
+<soothing , {input\big5.txt : 1}>
+<soothingly , {input\big5.txt : 1}>
+<sore , {input\big5.txt : 1}>
+<souls , {input\big5.txt : 1}>
+<sovereign , {input\big5.txt : 2}{input\big1.txt : 3}{input\big3.txt : 3}>
+<space , {input\big5.txt : 1}{input\big.txt : 1}>
+<sparkles , {input\big5.txt : 1}>
+<spattered , {input\big5.txt : 1}>
+<speaking , {input\big5.txt : 1}{input\big2.txt : 5}{input\big1.txt : 1}{input\big3.txt : 1}>
+<speckled , {input\big5.txt : 2}>
+<speedily , {input\big5.txt : 1}{input\big.txt : 1}>
+<splashing , {input\big5.txt : 1}>
+<spoils , {input\big5.txt : 1}>
+<spoke , {input\big5.txt : 4}{input\big1.txt : 3}{input\big3.txt : 3}>
+<sponge , {input\big5.txt : 3}>
+<spotted , {input\big5.txt : 1}>
+<squalid , {input\big5.txt : 1}>
+<squire , {input\big5.txt : 1}>
+<st , {input\big5.txt : 6}{input\big2.txt : 1}{input\big1.txt : 4}{input\big3.txt : 4}>
+<stabbed , {input\big5.txt : 1}>
+<staccato , {input\big5.txt : 1}>
+<stage , {input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}{input\big.txt : 3}>
+<stagger , {input\big5.txt : 1}>
+<staggered , {input\big5.txt : 2}{input\big3.txt : 1}>
+<stain , {input\big5.txt : 1}>
+<stains , {input\big5.txt : 2}>
+<stairs , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<stall , {input\big5.txt : 3}>
+<stalls , {input\big5.txt : 2}>
+<stand , {input\big5.txt : 2}>
+<standard , {input\big5.txt : 1}>
+<star , {input\big5.txt : 2}>
+<stared , {input\big5.txt : 3}{input\big2.txt : 1}{input\big3.txt : 1}>
+<staring , {input\big5.txt : 2}{input\big3.txt : 1}>
+<stars , {input\big5.txt : 1}{input\big2.txt : 1}>
+<started , {input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 8}{input\big.txt : 1}>
+<state , {input\big5.txt : 3}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<stay , {input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 4}>
+<stepfather , {input\big5.txt : 5}>
+<stepfathers , {input\big5.txt : 1}>
+<stepped , {input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 4}>
+<steps , {input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 5}>
+<sternly , {input\big5.txt : 1}>
+<stick , {input\big5.txt : 1}{input\big2.txt : 1}>
+<stoke , {input\big5.txt : 4}>
+<stole , {input\big5.txt : 1}>
+<stone; , {input\big5.txt : 1}>
+<stoner , {input\big5.txt : 3}>
+<stooped , {input\big5.txt : 1}{input\big2.txt : 1}>
+<stopped , {input\big5.txt : 1}{input\big2.txt : 2}{input\big3.txt : 1}>
+<stout , {input\big5.txt : 1}{input\big3.txt : 2}>
+<straight , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<strain , {input\big5.txt : 1}>
+<stranger , {input\big5.txt : 3}>
+<stream , {input\big5.txt : 2}{input\big3.txt : 1}{input\big.txt : 2}>
+<striding , {input\big5.txt : 1}>
+<striking , {input\big5.txt : 1}>
+<strode , {input\big5.txt : 1}>
+<struggled , {input\big5.txt : 2}>
+<studied , {input\big5.txt : 2}>
+<stupid , {input\big5.txt : 1}>
+<submit , {input\big5.txt : 1}>
+<subtle , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<successive , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<suddenly , {input\big5.txt : 7}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 3}>
+<suggested , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<suits , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<sum , {input\big5.txt : 2}{input\big3.txt : 1}>
+<summarily , {input\big5.txt : 1}>
+<summer , {input\big5.txt : 1}>
+<sums , {input\big5.txt : 1}>
+<sunk , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<supper , {input\big5.txt : 1}>
+<supplied , {input\big5.txt : 1}>
+<supplier , {input\big5.txt : 1}>
+<suppliers , {input\big5.txt : 1}>
+<supply , {input\big5.txt : 2}>
+<suppose , {input\big5.txt : 4}{input\big1.txt : 1}{input\big3.txt : 1}>
+<surly , {input\big5.txt : 1}>
+<surrey , {input\big5.txt : 2}>
+<surrounds , {input\big5.txt : 1}>
+<survivor , {input\big5.txt : 1}>
+<suspended , {input\big5.txt : 1}>
+<suspicion , {input\big5.txt : 2}{input\big3.txt : 1}>
+<sutherland , {input\big5.txt : 1}{input\big3.txt : 1}>
+<swandam , {input\big5.txt : 1}>
+<swarm , {input\big5.txt : 1}>
+<swaying , {input\big5.txt : 1}>
+<swear , {input\big5.txt : 2}>
+<sweat , {input\big5.txt : 1}>
+<sweetly , {input\big5.txt : 1}>
+<swept , {input\big5.txt : 1}>
+<swift , {input\big5.txt : 1}>
+<swinging , {input\big5.txt : 2}>
+<sworn , {input\big5.txt : 1}>
+<swung , {input\big5.txt : 1}>
+<said: , {input\big2.txt : 1}{input\big3.txt : 1}>
+<sang , {input\big2.txt : 1}>
+<saying , {input\big2.txt : 2}{input\big3.txt : 1}>
+<scanning , {input\big2.txt : 1}>
+<scanty , {input\big2.txt : 1}{input\big.txt : 1}>
+<scourge , {input\big2.txt : 1}>
+<scruple , {input\big2.txt : 1}>
+<sending , {input\big2.txt : 1}>
+<serfs , {input\big2.txt : 1}>
+<serve , {input\big2.txt : 1}>
+<seventeenth , {input\big2.txt : 1}>
+<shabby , {input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<shadows , {input\big2.txt : 1}>
+<share , {input\big2.txt : 1}{input\big3.txt : 1}>
+<shell , {input\big2.txt : 1}>
+<shouldnt , {input\big2.txt : 1}>
+<shudder , {input\big2.txt : 1}>
+<sides , {input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<sighed , {input\big2.txt : 2}>
+<sighs , {input\big2.txt : 1}>
+<singing , {input\big2.txt : 1}>
+<skirt , {input\big2.txt : 1}>
+<slavery , {input\big2.txt : 1}>
+<slept , {input\big2.txt : 2}{input\big3.txt : 1}>
+<smile , {input\big2.txt : 6}{input\big1.txt : 1}{input\big3.txt : 2}>
+<smilingly , {input\big2.txt : 1}>
+<soldiers , {input\big2.txt : 1}>
+<someones , {input\big2.txt : 2}>
+<somewhere , {input\big2.txt : 1}>
+<song , {input\big2.txt : 1}>
+<sorrow , {input\big2.txt : 3}>
+<speech , {input\big2.txt : 1}>
+<squadron , {input\big2.txt : 2}>
+<staggering , {input\big2.txt : 1}>
+<staid , {input\big2.txt : 1}>
+<stayed , {input\big2.txt : 1}>
+<steal , {input\big2.txt : 1}>
+<stillness , {input\big2.txt : 1}>
+<stirred , {input\big2.txt : 1}>
+<stolen , {input\big2.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<stroking , {input\big2.txt : 1}>
+<study , {input\big2.txt : 2}{input\big1.txt : 3}{input\big3.txt : 4}{input\big.txt : 1}>
+<subside , {input\big2.txt : 1}>
+<suffering , {input\big2.txt : 1}>
+<sunken , {input\big2.txt : 1}>
+<sunset , {input\big2.txt : 1}>
+<sympathize , {input\big2.txt : 1}>
+<safely , {input\big1.txt : 1}{input\big3.txt : 1}>
+<sally , {input\big1.txt : 1}{input\big3.txt : 1}>
+<sandwiched , {input\big1.txt : 1}{input\big3.txt : 1}>
+<savagely , {input\big1.txt : 1}{input\big3.txt : 1}>
+<saxe , {input\big1.txt : 1}{input\big3.txt : 1}>
+<scala , {input\big1.txt : 1}{input\big3.txt : 1}>
+<scandinavia , {input\big1.txt : 1}{input\big3.txt : 1}>
+<scarlet , {input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<science , {input\big1.txt : 1}{input\big3.txt : 1}>
+<scored , {input\big1.txt : 1}{input\big3.txt : 1}>
+<scraped , {input\big1.txt : 1}{input\big3.txt : 1}>
+<scribbled , {input\big1.txt : 1}{input\big3.txt : 1}>
+<scuffle , {input\big1.txt : 1}{input\big3.txt : 1}>
+<seal , {input\big1.txt : 1}{input\big3.txt : 1}>
+<secreted , {input\big1.txt : 1}{input\big3.txt : 1}>
+<secreting , {input\big1.txt : 1}{input\big3.txt : 1}>
+<secretive , {input\big1.txt : 1}{input\big3.txt : 1}>
+<secure , {input\big1.txt : 1}{input\big3.txt : 4}>
+<secured , {input\big1.txt : 1}{input\big3.txt : 1}>
+<sensitive , {input\big1.txt : 1}{input\big3.txt : 1}>
+<separated , {input\big1.txt : 1}{input\big3.txt : 1}>
+<sequel , {input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 2}>
+<serpentine , {input\big1.txt : 4}{input\big3.txt : 5}>
+<settling , {input\big1.txt : 1}{input\big3.txt : 1}>
+<seventeen , {input\big1.txt : 1}{input\big3.txt : 1}>
+<sex , {input\big1.txt : 1}{input\big3.txt : 1}>
+<shabbily , {input\big1.txt : 1}{input\big3.txt : 1}>
+<shaped , {input\big1.txt : 1}{input\big3.txt : 1}>
+<shared , {input\big1.txt : 1}{input\big3.txt : 1}>
+<shelves , {input\big1.txt : 1}{input\big3.txt : 2}>
+<shoe , {input\big1.txt : 1}{input\big3.txt : 1}>
+<shutting , {input\big1.txt : 1}{input\big3.txt : 1}>
+<sidelights , {input\big1.txt : 1}{input\big3.txt : 1}>
+<sigismond , {input\big1.txt : 1}{input\big3.txt : 1}>
+<signature , {input\big1.txt : 1}{input\big3.txt : 1}>
+<silhouette , {input\big1.txt : 1}{input\big3.txt : 1}>
+<simplicity , {input\big1.txt : 1}{input\big3.txt : 1}>
+<simplifies , {input\big1.txt : 1}{input\big3.txt : 1}>
+<sings , {input\big1.txt : 2}{input\big3.txt : 2}>
+<slashed , {input\big1.txt : 1}{input\big3.txt : 1}>
+<slavey , {input\big1.txt : 1}{input\big3.txt : 1}>
+<slitting , {input\big1.txt : 1}{input\big3.txt : 1}>
+<smart , {input\big1.txt : 1}{input\big3.txt : 1}>
+<smelling , {input\big1.txt : 1}{input\big3.txt : 1}>
+<softer , {input\big1.txt : 1}{input\big3.txt : 1}>
+<sole , {input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<sounded , {input\big1.txt : 1}{input\big3.txt : 1}>
+<sparkled , {input\big1.txt : 1}{input\big3.txt : 1}>
+<specialist , {input\big1.txt : 1}{input\big3.txt : 1}>
+<specimen , {input\big1.txt : 1}{input\big3.txt : 1}>
+<spinster , {input\big1.txt : 1}{input\big3.txt : 1}>
+<spirit , {input\big1.txt : 1}{input\big3.txt : 1}>
+<staff , {input\big1.txt : 1}{input\big3.txt : 1}>
+<stands , {input\big1.txt : 2}{input\big3.txt : 2}>
+<steaming , {input\big1.txt : 1}{input\big3.txt : 1}>
+<steel , {input\big1.txt : 1}{input\big3.txt : 2}>
+<steps; , {input\big1.txt : 1}{input\big3.txt : 1}>
+<stethoscope , {input\big1.txt : 1}{input\big3.txt : 1}>
+<stiff , {input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<strict , {input\big1.txt : 1}{input\big3.txt : 2}>
+<strikes , {input\big1.txt : 1}{input\big3.txt : 1}>
+<strongly , {input\big1.txt : 1}{input\big3.txt : 1}>
+<struggling , {input\big1.txt : 1}{input\big3.txt : 1}>
+<subject , {input\big1.txt : 1}{input\big3.txt : 2}>
+<successfully , {input\big1.txt : 1}{input\big3.txt : 1}>
+<succinct , {input\big1.txt : 1}{input\big3.txt : 1}>
+<sufficient , {input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<suit , {input\big1.txt : 2}{input\big3.txt : 4}>
+<suited , {input\big1.txt : 1}{input\big3.txt : 3}>
+<summons , {input\big1.txt : 1}{input\big3.txt : 1}>
+<superb , {input\big1.txt : 1}{input\big3.txt : 1}>
+<surpliced , {input\big1.txt : 1}{input\big3.txt : 1}>
+<surrounded , {input\big1.txt : 1}{input\big3.txt : 1}>
+<sympathetic , {input\big1.txt : 1}{input\big3.txt : 1}>
+<safeguard , {input\big3.txt : 1}>
+<safer , {input\big3.txt : 1}>
+<salary , {input\big3.txt : 1}>
+<sardonic , {input\big3.txt : 1}>
+<saturday , {input\big3.txt : 1}>
+<says: , {input\big3.txt : 1}>
+<scales , {input\big3.txt : 1}>
+<scratch , {input\big3.txt : 1}{input\big.txt : 2}>
+<searching , {input\big3.txt : 1}>
+<settee , {input\big3.txt : 1}>
+<setter , {input\big3.txt : 1}>
+<sheets , {input\big3.txt : 1}>
+<shelf , {input\big3.txt : 1}>
+<shepherds , {input\big3.txt : 1}>
+<shiny , {input\big3.txt : 1}>
+<ships , {input\big3.txt : 1}>
+<shipwreck , {input\big3.txt : 1}>
+<shouting , {input\big3.txt : 2}>
+<shutter , {input\big3.txt : 1}>
+<sickness , {input\big3.txt : 1}>
+<similar , {input\big3.txt : 1}>
+<simplify , {input\big3.txt : 1}>
+<sliding , {input\big3.txt : 2}>
+<slim , {input\big3.txt : 1}>
+<slipping , {input\big3.txt : 1}>
+<smarter , {input\big3.txt : 1}>
+<snake , {input\big3.txt : 1}>
+<snapping , {input\big3.txt : 1}>
+<snuff , {input\big3.txt : 3}>
+<sooner , {input\big3.txt : 1}>
+<sovereigns , {input\big3.txt : 1}>
+<spaulding , {input\big3.txt : 7}>
+<spectacle , {input\big3.txt : 1}>
+<spectators , {input\big3.txt : 1}>
+<spirits , {input\big3.txt : 2}>
+<splendid , {input\big3.txt : 1}>
+<spread , {input\big3.txt : 1}{input\big.txt : 7}>
+<staining , {input\big3.txt : 1}>
+<strangest , {input\big3.txt : 1}>
+<straw , {input\big3.txt : 1}>
+<stretch , {input\big3.txt : 1}>
+<substitution , {input\big3.txt : 1}>
+<superscribed , {input\big3.txt : 1}>
+<suspicious , {input\big3.txt : 1}>
+<salivary , {input\big.txt : 1}>
+<salt , {input\big.txt : 1}>
+<sapraemia , {input\big.txt : 8}>
+<scalp , {input\big.txt : 1}>
+<secondarily , {input\big.txt : 1}>
+<secondary , {input\big.txt : 1}>
+<sections , {input\big.txt : 1}>
+<separately , {input\big.txt : 2}>
+<septa , {input\big.txt : 1}>
+<septic , {input\big.txt : 6}>
+<septicaemia , {input\big.txt : 6}>
+<serous , {input\big.txt : 1}>
+<serum , {input\big.txt : 1}>
+<severity , {input\big.txt : 1}>
+<severity; , {input\big.txt : 1}>
+<shallow , {input\big.txt : 1}>
+<sheath , {input\big.txt : 5}>
+<sheaths , {input\big.txt : 6}>
+<simulating , {input\big.txt : 1}>
+<sinus , {input\big.txt : 11}>
+<sinuses , {input\big.txt : 2}>
+<situations , {input\big.txt : 2}>
+<slightly , {input\big.txt : 1}>
+<slough , {input\big.txt : 1}>
+<sloughing , {input\big.txt : 4}>
+<soft , {input\big.txt : 2}>
+<sorts , {input\big.txt : 1}>
+<sought , {input\big.txt : 1}>
+<source , {input\big.txt : 1}>
+<spell , {input\big.txt : 1}>
+<spleen , {input\big.txt : 1}>
+<splint , {input\big.txt : 2}>
+<splinter , {input\big.txt : 1}>
+<spoon , {input\big.txt : 1}>
+<spreading , {input\big.txt : 1}>
+<spreads , {input\big.txt : 5}>
+<squeezed , {input\big.txt : 1}>
+<stained , {input\big.txt : 1}>
+<steady , {input\big.txt : 1}>
+<sterilised , {input\big.txt : 1}>
+<stiffness , {input\big.txt : 3}>
+<stitches , {input\big.txt : 1}>
+<stools , {input\big.txt : 1}>
+<strangulated , {input\big.txt : 1}>
+<stratum , {input\big.txt : 2}>
+<streptococci , {input\big.txt : 2}>
+<streptococcic , {input\big.txt : 1}>
+<streptococcus , {input\big.txt : 1}>
+<stricture , {input\big.txt : 1}>
+<stronger , {input\big.txt : 1}>
+<structures , {input\big.txt : 2}>
+<strychnin , {input\big.txt : 1}>
+<subcutaneous , {input\big.txt : 4}>
+<subnormal , {input\big.txt : 1}>
+<subperiosteal , {input\big.txt : 1}>
+<suction , {input\big.txt : 1}>
+<suitably , {input\big.txt : 1}>
+<sulcus , {input\big.txt : 1}>
+<superficial , {input\big.txt : 4}>
+<suppuration , {input\big.txt : 16}>
+<suppurative , {input\big.txt : 3}>
+<surface , {input\big.txt : 7}>
+<surfaces , {input\big.txt : 1}>
+<surrounding , {input\big.txt : 1}>
+<swelling , {input\big.txt : 4}>
+<swollen , {input\big.txt : 3}>
+<swollen; , {input\big.txt : 1}>
+<symptoms , {input\big.txt : 4}>

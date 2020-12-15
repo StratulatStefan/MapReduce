@@ -1,0 +1,301 @@
+<rabbit , {input\big4.txt : 1}{input\big3.txt : 1}>
+<rain , {input\big4.txt : 5}{input\big5.txt : 1}>
+<raise , {input\big4.txt : 2}{input\big1.txt : 4}{input\big3.txt : 5}>
+<raised , {input\big4.txt : 2}{input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 3}>
+<raising , {input\big4.txt : 1}{input\big2.txt : 1}{input\big.txt : 1}>
+<rake , {input\big4.txt : 1}>
+<ran , {input\big4.txt : 7}{input\big5.txt : 5}{input\big2.txt : 2}{input\big3.txt : 2}>
+<rang , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<rapidly , {input\big4.txt : 1}{input\big5.txt : 1}{input\big2.txt : 1}{input\big.txt : 2}>
+<rat , {input\big4.txt : 5}{input\big5.txt : 1}>
+<rather , {input\big4.txt : 7}{input\big5.txt : 10}{input\big1.txt : 5}{input\big3.txt : 9}>
+<rattle , {input\big4.txt : 1}{input\big5.txt : 1}>
+<reach , {input\big4.txt : 1}{input\big5.txt : 3}{input\big1.txt : 2}{input\big3.txt : 2}{input\big.txt : 1}>
+<read , {input\big4.txt : 8}{input\big5.txt : 5}{input\big1.txt : 1}{input\big3.txt : 9}>
+<ready , {input\big4.txt : 2}{input\big5.txt : 2}{input\big2.txt : 2}{input\big3.txt : 3}>
+<really , {input\big4.txt : 6}{input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 5}>
+<reason , {input\big4.txt : 4}{input\big5.txt : 3}{input\big3.txt : 2}>
+<receipts , {input\big4.txt : 1}>
+<receive , {input\big4.txt : 1}{input\big5.txt : 1}>
+<received , {input\big4.txt : 1}{input\big5.txt : 2}{input\big1.txt : 3}{input\big3.txt : 3}>
+<reception , {input\big4.txt : 1}>
+<reckless , {input\big4.txt : 1}{input\big5.txt : 1}>
+<recognise , {input\big4.txt : 2}>
+<recognising , {input\big4.txt : 1}>
+<reconsider , {input\big4.txt : 1}>
+<reconstruction , {input\big4.txt : 1}>
+<record , {input\big4.txt : 1}{input\big5.txt : 1}>
+<recorded , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<records , {input\big4.txt : 3}>
+<recovered , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<red , {input\big4.txt : 2}{input\big5.txt : 7}{input\big3.txt : 20}{input\big.txt : 6}>
+<reed , {input\big4.txt : 1}>
+<reeds , {input\big4.txt : 2}>
+<reference , {input\big4.txt : 3}>
+<refinement , {input\big4.txt : 1}>
+<refusal , {input\big4.txt : 2}>
+<refuse , {input\big4.txt : 2}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<regained , {input\big4.txt : 1}>
+<regard , {input\big4.txt : 2}>
+<regent , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<register , {input\big4.txt : 1}>
+<registry , {input\big4.txt : 1}>
+<rely , {input\big4.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<remained , {input\big4.txt : 2}{input\big5.txt : 1}{input\big2.txt : 4}{input\big1.txt : 1}{input\big3.txt : 1}>
+<remark , {input\big4.txt : 1}{input\big3.txt : 1}>
+<remarkable , {input\big4.txt : 2}{input\big5.txt : 2}{input\big1.txt : 2}{input\big3.txt : 4}>
+<remarked , {input\big4.txt : 5}{input\big5.txt : 7}{input\big2.txt : 1}{input\big1.txt : 6}{input\big3.txt : 10}>
+<remarks , {input\big4.txt : 2}{input\big5.txt : 1}>
+<remember , {input\big4.txt : 1}{input\big5.txt : 3}{input\big2.txt : 3}{input\big1.txt : 1}{input\big3.txt : 2}>
+<remembered , {input\big4.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<removed , {input\big4.txt : 1}{input\big.txt : 4}>
+<rent , {input\big4.txt : 2}{input\big5.txt : 1}>
+<repeated , {input\big4.txt : 2}{input\big2.txt : 3}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 2}>
+<repeatedly , {input\big4.txt : 1}>
+<replied , {input\big4.txt : 1}{input\big5.txt : 1}{input\big2.txt : 6}>
+<reply , {input\big4.txt : 1}{input\big5.txt : 1}{input\big2.txt : 1}>
+<reported , {input\big4.txt : 1}>
+<representative , {input\big4.txt : 1}{input\big2.txt : 1}>
+<republican , {input\big4.txt : 1}>
+<repute , {input\big4.txt : 1}>
+<request , {input\big4.txt : 2}>
+<required , {input\big4.txt : 1}>
+<research , {input\big4.txt : 1}>
+<reserve , {input\big4.txt : 1}{input\big5.txt : 1}{input\big.txt : 1}>
+<resolution , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<respectable , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<rest , {input\big4.txt : 3}{input\big5.txt : 4}{input\big3.txt : 2}{input\big.txt : 1}>
+<rests , {input\big4.txt : 1}>
+<results , {input\big4.txt : 1}{input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<retain , {input\big4.txt : 1}{input\big5.txt : 1}>
+<retained , {input\big4.txt : 1}{input\big5.txt : 4}{input\big.txt : 1}>
+<retire , {input\big4.txt : 1}>
+<retired , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<retiring , {input\big4.txt : 1}>
+<return , {input\big4.txt : 4}{input\big5.txt : 3}{input\big2.txt : 1}{input\big3.txt : 1}>
+<returned , {input\big4.txt : 8}{input\big5.txt : 4}{input\big2.txt : 1}{input\big1.txt : 4}{input\big3.txt : 4}>
+<returning , {input\big4.txt : 3}{input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<reveal , {input\big4.txt : 1}{input\big3.txt : 1}>
+<revolver , {input\big4.txt : 1}>
+<rich , {input\big4.txt : 1}{input\big2.txt : 2}{input\big1.txt : 2}{input\big3.txt : 3}>
+<right , {input\big4.txt : 8}{input\big5.txt : 12}{input\big1.txt : 5}{input\big3.txt : 16}{input\big.txt : 1}>
+<rising , {input\big4.txt : 1}{input\big5.txt : 1}>
+<road , {input\big4.txt : 1}{input\big5.txt : 9}{input\big2.txt : 2}{input\big1.txt : 2}{input\big3.txt : 3}>
+<roads , {input\big4.txt : 1}{input\big5.txt : 1}>
+<robber , {input\big4.txt : 1}>
+<robbery , {input\big4.txt : 1}{input\big5.txt : 5}>
+<rolled , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<roof , {input\big4.txt : 1}{input\big3.txt : 1}>
+<roofed , {input\big4.txt : 1}>
+<room , {input\big4.txt : 14}{input\big5.txt : 20}{input\big2.txt : 8}{input\big1.txt : 8}{input\big3.txt : 23}>
+<rooms , {input\big4.txt : 1}{input\big5.txt : 5}{input\big1.txt : 2}{input\big3.txt : 2}>
+<roots , {input\big4.txt : 1}>
+<rose , {input\big4.txt : 3}{input\big5.txt : 4}{input\big2.txt : 3}{input\big1.txt : 1}{input\big3.txt : 3}>
+<ross , {input\big4.txt : 3}{input\big3.txt : 4}>
+<rotterdam , {input\big4.txt : 1}>
+<roughly , {input\big4.txt : 2}>
+<round , {input\big4.txt : 7}{input\big5.txt : 11}{input\big2.txt : 1}{input\big1.txt : 4}{input\big3.txt : 5}>
+<routine , {input\big4.txt : 2}{input\big3.txt : 1}>
+<run , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<rush , {input\big4.txt : 1}{input\big5.txt : 2}{input\big2.txt : 1}{input\big3.txt : 2}>
+<rushed , {input\big4.txt : 3}{input\big5.txt : 7}{input\big1.txt : 1}{input\big3.txt : 7}>
+<russells , {input\big4.txt : 1}>
+<rustic , {input\big4.txt : 1}>
+<rusty , {input\big4.txt : 1}{input\big5.txt : 1}>
+<rack , {input\big5.txt : 1}>
+<radiance , {input\big5.txt : 2}>
+<railway , {input\big5.txt : 1}>
+<rapid , {input\big5.txt : 1}>
+<rate , {input\big5.txt : 2}>
+<re , {input\big5.txt : 1}>
+<reached , {input\big5.txt : 6}{input\big2.txt : 1}{input\big1.txt : 2}{input\big3.txt : 3}>
+<reaching , {input\big5.txt : 1}{input\big2.txt : 1}{input\big.txt : 1}>
+<reaction , {input\big5.txt : 1}{input\big.txt : 5}>
+<readily , {input\big5.txt : 2}>
+<real , {input\big5.txt : 3}{input\big3.txt : 2}>
+<realising , {input\big5.txt : 1}>
+<reasoning , {input\big5.txt : 1}{input\big1.txt : 3}{input\big3.txt : 3}>
+<reasons , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<recall , {input\big5.txt : 2}{input\big3.txt : 1}>
+<recalled , {input\big5.txt : 1}{input\big2.txt : 2}>
+<recent , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<recently , {input\big5.txt : 1}{input\big.txt : 1}>
+<recognised , {input\big5.txt : 2}{input\big.txt : 3}>
+<recollect , {input\big5.txt : 1}>
+<recommended , {input\big5.txt : 1}>
+<recourse , {input\big5.txt : 1}>
+<recover , {input\big5.txt : 2}{input\big.txt : 1}>
+<recovering , {input\big5.txt : 1}>
+<referred , {input\big5.txt : 2}>
+<refined , {input\big5.txt : 1}>
+<refused , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<regency , {input\big5.txt : 1}>
+<regretted , {input\big5.txt : 1}>
+<regular , {input\big5.txt : 2}{input\big.txt : 1}>
+<relative , {input\big5.txt : 1}>
+<relics , {input\big5.txt : 1}>
+<relief , {input\big5.txt : 2}>
+<remains , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 2}>
+<remanded , {input\big5.txt : 1}>
+<remonstrance , {input\big5.txt : 1}>
+<reopening , {input\big5.txt : 1}>
+<repartee , {input\big5.txt : 1}>
+<replace , {input\big5.txt : 1}>
+<reporter , {input\big5.txt : 1}>
+<reporting , {input\big5.txt : 1}>
+<represent , {input\big5.txt : 2}>
+<repulsive , {input\big5.txt : 2}>
+<requested , {input\big5.txt : 1}>
+<resentment , {input\big5.txt : 1}>
+<resided , {input\big5.txt : 1}>
+<residence , {input\big5.txt : 1}>
+<respect , {input\big5.txt : 2}>
+<restless , {input\big5.txt : 1}>
+<restore , {input\big5.txt : 1}>
+<restored , {input\big5.txt : 1}>
+<retorted , {input\big5.txt : 1}>
+<retrogression , {input\big5.txt : 2}>
+<revolved , {input\big5.txt : 1}>
+<reward , {input\big5.txt : 5}{input\big3.txt : 1}>
+<reward; , {input\big5.txt : 1}>
+<ribbed , {input\big5.txt : 1}>
+<richer , {input\big5.txt : 1}>
+<richest , {input\big5.txt : 1}>
+<rid , {input\big5.txt : 1}{input\big.txt : 1}>
+<rifled , {input\big5.txt : 2}>
+<ring , {input\big5.txt : 1}{input\big3.txt : 2}>
+<risen , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<riser , {input\big5.txt : 1}>
+<river , {input\big5.txt : 1}>
+<roasting , {input\big5.txt : 1}>
+<robberies , {input\big5.txt : 2}>
+<robinson , {input\big5.txt : 1}>
+<roughs , {input\big5.txt : 3}>
+<rounded , {input\big5.txt : 1}>
+<row , {input\big5.txt : 1}{input\big3.txt : 1}>
+<roylott , {input\big5.txt : 6}>
+<roylotts , {input\big5.txt : 3}>
+<rubbed , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<rubbing , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<ruby , {input\big5.txt : 1}>
+<ruddy , {input\big5.txt : 1}>
+<ruefully , {input\big5.txt : 1}>
+<rug , {input\big5.txt : 1}>
+<ruin , {input\big5.txt : 1}{input\big2.txt : 2}{input\big1.txt : 1}{input\big3.txt : 2}>
+<rule , {input\big5.txt : 1}{input\big3.txt : 1}>
+<rummaged , {input\big5.txt : 1}>
+<rumours , {input\big5.txt : 1}>
+<running , {input\big5.txt : 1}{input\big2.txt : 2}{input\big1.txt : 3}{input\big3.txt : 3}>
+<runs , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<rushing , {input\big5.txt : 2}{input\big3.txt : 1}>
+<ryder , {input\big5.txt : 11}>
+<ryders , {input\big5.txt : 1}>
+<race , {input\big2.txt : 1}>
+<raced , {input\big2.txt : 1}>
+<radiant , {input\big2.txt : 1}>
+<rameau , {input\big2.txt : 2}>
+<rations , {input\big2.txt : 1}>
+<reading , {input\big2.txt : 1}>
+<rearguard , {input\big2.txt : 1}>
+<recognized , {input\big2.txt : 1}>
+<refrain , {input\big2.txt : 1}>
+<refrained , {input\big2.txt : 1}>
+<regarding , {input\big2.txt : 1}>
+<regiment , {input\big2.txt : 1}>
+<reigned , {input\big2.txt : 1}>
+<rein , {input\big2.txt : 1}>
+<relieved , {input\big2.txt : 1}>
+<remain , {input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}{input\big.txt : 2}>
+<reminded , {input\big2.txt : 1}>
+<repelling , {input\big2.txt : 1}>
+<replied: , {input\big2.txt : 1}>
+<report , {input\big2.txt : 1}>
+<represented , {input\big2.txt : 1}>
+<resolutely , {input\big2.txt : 1}>
+<resolve , {input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<respectfully , {input\big2.txt : 1}>
+<returns , {input\big2.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<ride , {input\big2.txt : 2}>
+<rioting , {input\big2.txt : 1}>
+<rise , {input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 4}>
+<roared , {input\big2.txt : 1}>
+<rode , {input\big2.txt : 2}>
+<romantic , {input\big2.txt : 1}>
+<rostov , {input\big2.txt : 20}>
+<rude , {input\big2.txt : 1}>
+<ruined , {input\big2.txt : 3}>
+<russian , {input\big2.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<russians , {input\big2.txt : 2}>
+<rabbi , {input\big1.txt : 1}{input\big3.txt : 1}>
+<ransacked , {input\big1.txt : 1}{input\big3.txt : 2}>
+<rattled , {input\big1.txt : 1}{input\big3.txt : 1}>
+<readers , {input\big1.txt : 1}{input\big3.txt : 1}>
+<reasoner , {input\big1.txt : 3}{input\big3.txt : 3}>
+<receipt , {input\big1.txt : 1}{input\big3.txt : 1}>
+<reigning , {input\big1.txt : 2}{input\big3.txt : 2}>
+<rejoin , {input\big1.txt : 1}{input\big3.txt : 1}>
+<relation , {input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 2}>
+<remarkably , {input\big1.txt : 2}{input\big3.txt : 2}>
+<remove , {input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 2}>
+<reopened , {input\big1.txt : 1}{input\big3.txt : 1}>
+<reproachfully , {input\big1.txt : 1}{input\big3.txt : 1}>
+<resolute , {input\big1.txt : 1}{input\big3.txt : 2}>
+<resolved , {input\big1.txt : 1}{input\big3.txt : 1}>
+<responses , {input\big1.txt : 1}{input\big3.txt : 1}>
+<result , {input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 3}>
+<richness , {input\big1.txt : 1}{input\big3.txt : 1}>
+<ridiculously , {input\big1.txt : 1}{input\big3.txt : 1}>
+<ringing , {input\big1.txt : 1}{input\big3.txt : 1}>
+<rocket , {input\big1.txt : 1}{input\big3.txt : 4}>
+<role , {input\big1.txt : 1}{input\big3.txt : 1}>
+<roll , {input\big1.txt : 1}{input\big3.txt : 1}>
+<royal , {input\big1.txt : 2}{input\big3.txt : 2}>
+<rumble , {input\big1.txt : 1}{input\big3.txt : 1}>
+<reaches , {input\big3.txt : 1}{input\big.txt : 1}>
+<reasoned , {input\big3.txt : 1}>
+<recess , {input\big3.txt : 1}>
+<recommence , {input\big3.txt : 1}>
+<redder , {input\big3.txt : 1}>
+<refers , {input\big3.txt : 1}>
+<refreshed , {input\big3.txt : 1}>
+<regain , {input\big3.txt : 1}>
+<rejoiced , {input\big3.txt : 1}>
+<relapsed , {input\big3.txt : 1}>
+<relapsing , {input\big3.txt : 1}>
+<released , {input\big3.txt : 1}>
+<relish , {input\big3.txt : 1}>
+<replaced , {input\big3.txt : 1}>
+<reputation , {input\big3.txt : 1}>
+<requirement , {input\big3.txt : 1}>
+<resource , {input\big3.txt : 1}>
+<responded , {input\big3.txt : 1}>
+<risk , {input\big3.txt : 1}{input\big.txt : 3}>
+<ross; , {input\big3.txt : 1}>
+<rough , {input\big3.txt : 1}>
+<rules , {input\big3.txt : 1}>
+<raw , {input\big.txt : 1}>
+<realise , {input\big.txt : 1}>
+<recovery , {input\big.txt : 1}>
+<recto , {input\big.txt : 1}>
+<rectum , {input\big.txt : 1}>
+<redness , {input\big.txt : 1}>
+<redundant , {input\big.txt : 1}>
+<region , {input\big.txt : 2}>
+<regions , {input\big.txt : 2}>
+<relieve , {input\big.txt : 1}>
+<remissions , {input\big.txt : 1}>
+<removal , {input\big.txt : 2}>
+<removing , {input\big.txt : 1}>
+<render , {input\big.txt : 1}>
+<represents , {input\big.txt : 1}>
+<resistance , {input\big.txt : 1}>
+<respects , {input\big.txt : 1}>
+<respiration , {input\big.txt : 1}>
+<resulting , {input\big.txt : 6}>
+<resumed , {input\big.txt : 1}>
+<rete , {input\big.txt : 1}>
+<rigidity , {input\big.txt : 1}>
+<rigor , {input\big.txt : 3}>
+<rises , {input\big.txt : 3}>
+<root , {input\big.txt : 1}>
+<rubber , {input\big.txt : 1}>

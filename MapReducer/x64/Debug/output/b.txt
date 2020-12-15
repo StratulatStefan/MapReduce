@@ -1,0 +1,344 @@
+<baby , {input\big4.txt : 1}>
+<back , {input\big4.txt : 16}{input\big5.txt : 17}{input\big2.txt : 2}{input\big1.txt : 6}{input\big3.txt : 10}{input\big.txt : 1}>
+<backed , {input\big4.txt : 1}{input\big5.txt : 2}>
+<backgammon , {input\big4.txt : 1}>
+<bad , {input\big4.txt : 2}{input\big5.txt : 3}{input\big2.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<baffled , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<bag , {input\big4.txt : 1}{input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 1}>
+<baker , {input\big4.txt : 2}{input\big5.txt : 18}{input\big1.txt : 4}{input\big3.txt : 6}>
+<ballarat , {input\big4.txt : 6}>
+<bank , {input\big4.txt : 1}>
+<bar , {input\big4.txt : 1}{input\big5.txt : 3}>
+<bark , {input\big4.txt : 1}{input\big5.txt : 1}>
+<barmaid , {input\big4.txt : 3}>
+<barometric , {input\big4.txt : 1}>
+<barque , {input\big4.txt : 1}>
+<bars , {input\big4.txt : 1}>
+<basin , {input\big4.txt : 1}>
+<baxters , {input\big4.txt : 1}>
+<be , {input\big4.txt : 61}{input\big5.txt : 60}{input\big2.txt : 12}{input\big1.txt : 45}{input\big3.txt : 82}{input\big.txt : 56}>
+<beard , {input\big4.txt : 1}{input\big5.txt : 1}>
+<bearing , {input\big4.txt : 2}>
+<bears , {input\big4.txt : 1}>
+<beast , {input\big4.txt : 1}>
+<beasts , {input\big4.txt : 1}>
+<beaten , {input\big4.txt : 3}{input\big3.txt : 2}>
+<beautiful , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<became , {input\big4.txt : 3}{input\big5.txt : 5}{input\big1.txt : 2}{input\big3.txt : 4}>
+<because , {input\big4.txt : 3}{input\big5.txt : 2}{input\big2.txt : 3}{input\big1.txt : 2}{input\big3.txt : 5}{input\big.txt : 1}>
+<become , {input\big4.txt : 2}{input\big.txt : 5}>
+<becomes , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}{input\big.txt : 10}>
+<becoming , {input\big4.txt : 1}{input\big.txt : 1}>
+<bed , {input\big4.txt : 2}{input\big5.txt : 3}{input\big2.txt : 1}{input\big.txt : 1}>
+<beech , {input\big4.txt : 1}>
+<been , {input\big4.txt : 45}{input\big5.txt : 42}{input\big2.txt : 7}{input\big1.txt : 18}{input\big3.txt : 41}{input\big.txt : 5}>
+<before , {input\big4.txt : 19}{input\big5.txt : 16}{input\big2.txt : 9}{input\big1.txt : 11}{input\big3.txt : 17}{input\big.txt : 2}>
+<beg , {input\big4.txt : 1}{input\big5.txt : 2}{input\big2.txt : 1}>
+<began , {input\big4.txt : 1}{input\big2.txt : 11}{input\big1.txt : 1}{input\big3.txt : 4}>
+<begged , {input\big4.txt : 1}{input\big5.txt : 1}>
+<begin , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 3}>
+<beginning , {input\big4.txt : 1}>
+<beginnings , {input\big4.txt : 1}>
+<begun , {input\big4.txt : 2}{input\big5.txt : 1}>
+<behind , {input\big4.txt : 8}{input\big5.txt : 3}{input\big2.txt : 3}{input\big1.txt : 3}{input\big3.txt : 6}>
+<being , {input\big4.txt : 4}{input\big5.txt : 4}{input\big2.txt : 2}{input\big1.txt : 4}{input\big3.txt : 5}{input\big.txt : 7}>
+<bell , {input\big4.txt : 2}{input\big5.txt : 1}{input\big1.txt : 3}{input\big3.txt : 5}>
+<belonged , {input\big4.txt : 1}{input\big2.txt : 1}>
+<belt , {input\big4.txt : 1}>
+<beneath , {input\big4.txt : 2}{input\big5.txt : 1}{input\big.txt : 1}>
+<benefactor , {input\big4.txt : 1}{input\big2.txt : 1}{input\big3.txt : 1}>
+<bent , {input\big4.txt : 1}{input\big5.txt : 1}{input\big2.txt : 1}>
+<bermuda , {input\big4.txt : 1}>
+<beside , {input\big4.txt : 2}{input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 2}{input\big.txt : 1}>
+<best , {input\big4.txt : 3}{input\big5.txt : 6}{input\big1.txt : 2}{input\big3.txt : 5}{input\big.txt : 3}>
+<better , {input\big4.txt : 1}{input\big5.txt : 4}{input\big1.txt : 3}{input\big3.txt : 7}>
+<between , {input\big4.txt : 11}{input\big5.txt : 3}{input\big2.txt : 1}{input\big1.txt : 3}{input\big3.txt : 4}{input\big.txt : 6}>
+<bicycling , {input\big4.txt : 1}>
+<bills , {input\big4.txt : 1}>
+<bit , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 4}>
+<bitten , {input\big4.txt : 1}>
+<bitter , {input\big4.txt : 1}{input\big5.txt : 2}>
+<black , {input\big4.txt : 5}{input\big5.txt : 7}{input\big1.txt : 3}{input\big3.txt : 4}{input\big.txt : 1}>
+<blasted , {input\big4.txt : 1}>
+<blaze , {input\big4.txt : 1}>
+<blend , {input\big4.txt : 1}>
+<bless , {input\big4.txt : 1}{input\big5.txt : 2}>
+<blinds , {input\big4.txt : 1}{input\big3.txt : 1}>
+<blood , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 9}>
+<blooded , {input\big4.txt : 1}>
+<blotches , {input\big4.txt : 1}>
+<blow , {input\big4.txt : 6}{input\big1.txt : 1}{input\big3.txt : 1}>
+<blows , {input\big4.txt : 1}>
+<blue , {input\big4.txt : 1}{input\big5.txt : 8}{input\big1.txt : 2}{input\big3.txt : 2}>
+<blunt , {input\big4.txt : 3}>
+<blush , {input\big4.txt : 1}{input\big2.txt : 1}>
+<boarding , {input\big4.txt : 1}>
+<body , {input\big4.txt : 4}{input\big3.txt : 1}{input\big.txt : 5}>
+<bond , {input\big4.txt : 1}>
+<bone , {input\big4.txt : 2}{input\big.txt : 5}>
+<books , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<boot , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<boots , {input\big4.txt : 5}{input\big1.txt : 1}{input\big3.txt : 1}>
+<borne , {input\big4.txt : 1}{input\big3.txt : 1}>
+<boscombe , {input\big4.txt : 6}>
+<both , {input\big4.txt : 5}{input\big5.txt : 4}{input\big2.txt : 1}{input\big1.txt : 4}{input\big3.txt : 6}{input\big.txt : 1}>
+<bought , {input\big4.txt : 1}{input\big2.txt : 1}{input\big1.txt : 3}{input\big3.txt : 4}>
+<bound , {input\big4.txt : 1}{input\big2.txt : 3}{input\big3.txt : 1}>
+<boundary , {input\big4.txt : 1}>
+<bounded , {input\big4.txt : 1}>
+<bowed , {input\big4.txt : 2}{input\big5.txt : 1}{input\big3.txt : 2}>
+<box , {input\big4.txt : 4}{input\big5.txt : 2}{input\big3.txt : 1}>
+<boy , {input\big4.txt : 1}{input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<boys , {input\big4.txt : 2}>
+<brains , {input\big4.txt : 1}>
+<brandy , {input\big4.txt : 1}{input\big5.txt : 3}>
+<brass , {input\big4.txt : 3}>
+<brave , {input\big4.txt : 1}{input\big3.txt : 1}>
+<braved , {input\big4.txt : 1}>
+<brazen , {input\big4.txt : 1}>
+<break , {input\big4.txt : 2}{input\big5.txt : 2}{input\big2.txt : 1}>
+<breakfast , {input\big4.txt : 2}{input\big5.txt : 1}>
+<bright , {input\big4.txt : 1}{input\big5.txt : 2}{input\big3.txt : 1}>
+<brighter , {input\big4.txt : 1}>
+<brightly , {input\big4.txt : 1}>
+<bring , {input\big4.txt : 1}{input\big5.txt : 3}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 4}>
+<bringing , {input\big4.txt : 1}{input\big5.txt : 2}>
+<bristol , {input\big4.txt : 6}>
+<british , {input\big4.txt : 2}{input\big3.txt : 1}>
+<broad , {input\big4.txt : 1}{input\big5.txt : 2}{input\big1.txt : 3}{input\big3.txt : 3}>
+<broke , {input\big4.txt : 1}{input\big5.txt : 4}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<broken , {input\big4.txt : 1}{input\big5.txt : 3}{input\big3.txt : 1}>
+<brother , {input\big4.txt : 3}{input\big2.txt : 5}>
+<brought , {input\big4.txt : 4}{input\big5.txt : 9}{input\big1.txt : 2}{input\big3.txt : 3}>
+<brown , {input\big4.txt : 1}{input\big5.txt : 3}{input\big1.txt : 2}{input\big3.txt : 3}{input\big.txt : 2}>
+<brows , {input\big4.txt : 1}>
+<buffalo , {input\big4.txt : 1}>
+<building , {input\big4.txt : 1}{input\big3.txt : 1}>
+<bull , {input\big4.txt : 1}>
+<bundle , {input\big4.txt : 2}>
+<bundles , {input\big4.txt : 1}>
+<buried , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<burned , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<burning , {input\big4.txt : 1}{input\big5.txt : 1}{input\big.txt : 1}>
+<burst , {input\big4.txt : 1}{input\big5.txt : 4}>
+<bush , {input\big4.txt : 1}>
+<business , {input\big4.txt : 3}{input\big5.txt : 5}{input\big2.txt : 1}{input\big1.txt : 2}{input\big3.txt : 13}>
+<busy , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<but , {input\big4.txt : 69}{input\big5.txt : 91}{input\big2.txt : 29}{input\big1.txt : 39}{input\big3.txt : 81}{input\big.txt : 10}>
+<butt , {input\big4.txt : 1}>
+<by , {input\big4.txt : 31}{input\big5.txt : 57}{input\big2.txt : 14}{input\big1.txt : 23}{input\big3.txt : 46}{input\big.txt : 40}>
+<bye , {input\big4.txt : 2}{input\big3.txt : 1}>
+<baboon , {input\big5.txt : 2}>
+<bachelor , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<bachelors , {input\big5.txt : 1}>
+<background , {input\big5.txt : 1}>
+<baits , {input\big5.txt : 1}>
+<bakers , {input\big5.txt : 2}>
+<balance , {input\big5.txt : 1}>
+<band , {input\big5.txt : 4}{input\big.txt : 5}>
+<bang , {input\big5.txt : 1}>
+<banks , {input\big5.txt : 1}>
+<barber , {input\big5.txt : 1}>
+<bare , {input\big5.txt : 1}{input\big.txt : 1}>
+<barred , {input\big5.txt : 5}>
+<base , {input\big5.txt : 1}>
+<basis , {input\big5.txt : 1}>
+<basket , {input\big5.txt : 1}>
+<bath , {input\big5.txt : 1}{input\big.txt : 1}>
+<bath; , {input\big5.txt : 1}>
+<battered , {input\big5.txt : 3}>
+<battle , {input\big5.txt : 1}>
+<bean , {input\big5.txt : 1}>
+<beat , {input\big5.txt : 2}>
+<beating , {input\big5.txt : 1}{input\big2.txt : 1}>
+<beauty , {input\big5.txt : 1}>
+<bedroom , {input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 3}>
+<bedrooms , {input\big5.txt : 2}>
+<beds , {input\big5.txt : 1}>
+<beer , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<beggar , {input\big5.txt : 4}>
+<beggarman , {input\big5.txt : 1}>
+<begging , {input\big5.txt : 4}>
+<beings , {input\big5.txt : 1}>
+<believe , {input\big5.txt : 6}{input\big1.txt : 1}{input\big3.txt : 2}>
+<belongs , {input\big5.txt : 1}>
+<beloved , {input\big5.txt : 1}>
+<bending , {input\big5.txt : 1}>
+<bengal , {input\big5.txt : 1}>
+<bequeathed , {input\big5.txt : 1}>
+<berkshire , {input\big5.txt : 1}>
+<besides , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 3}>
+<bet , {input\big5.txt : 3}>
+<betray , {input\big5.txt : 1}>
+<bewilderment , {input\big5.txt : 2}>
+<beyond , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<bible , {input\big5.txt : 1}>
+<big , {input\big5.txt : 3}{input\big2.txt : 1}>
+<bill , {input\big5.txt : 3}>
+<billycock , {input\big5.txt : 1}>
+<bind , {input\big5.txt : 1}>
+<bird , {input\big5.txt : 19}>
+<birds , {input\big5.txt : 5}>
+<bitterly , {input\big5.txt : 1}>
+<bizarre , {input\big5.txt : 1}{input\big3.txt : 1}>
+<blacksmith , {input\big5.txt : 1}>
+<blanched , {input\big5.txt : 1}>
+<blandly , {input\big5.txt : 1}>
+<blew , {input\big5.txt : 1}>
+<blinked , {input\big5.txt : 1}>
+<block , {input\big5.txt : 1}>
+<bloody , {input\big5.txt : 1}>
+<bloomsbury , {input\big5.txt : 1}>
+<blot , {input\big5.txt : 1}>
+<bonnet , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<bonniest , {input\big5.txt : 1}>
+<bonny , {input\big5.txt : 1}>
+<book , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<boone , {input\big5.txt : 2}>
+<border , {input\big5.txt : 1}>
+<borders , {input\big5.txt : 1}>
+<bore , {input\big5.txt : 2}{input\big2.txt : 2}{input\big1.txt : 1}{input\big3.txt : 2}>
+<bored , {input\big5.txt : 1}>
+<bow , {input\big5.txt : 1}{input\big2.txt : 1}>
+<bradstreet , {input\big5.txt : 7}>
+<brain , {input\big5.txt : 1}{input\big.txt : 1}>
+<bramble , {input\big5.txt : 1}>
+<branded , {input\big5.txt : 1}>
+<brawls , {input\big5.txt : 1}>
+<breaking , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<breath , {input\big5.txt : 1}>
+<breathing , {input\big5.txt : 3}{input\big3.txt : 1}>
+<breckinridge , {input\big5.txt : 6}>
+<breckinridge; , {input\big5.txt : 1}>
+<bred , {input\big5.txt : 3}>
+<bridge , {input\big5.txt : 1}>
+<brightest , {input\big5.txt : 1}>
+<brilliant , {input\big5.txt : 1}>
+<brilliantly , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<brim , {input\big5.txt : 1}>
+<brims , {input\big5.txt : 1}>
+<brixton , {input\big5.txt : 6}>
+<brushed , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<brute , {input\big5.txt : 1}>
+<buildings , {input\big5.txt : 1}>
+<bureau , {input\big5.txt : 1}>
+<business; , {input\big5.txt : 1}>
+<butler , {input\big5.txt : 1}>
+<buttoned , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<buttoning , {input\big5.txt : 1}>
+<buy , {input\big5.txt : 4}>
+<bald , {input\big2.txt : 2}>
+<bared , {input\big2.txt : 2}>
+<barn , {input\big2.txt : 4}>
+<beards , {input\big2.txt : 1}>
+<beatific , {input\big2.txt : 1}>
+<belong , {input\big2.txt : 2}>
+<belonging , {input\big2.txt : 1}>
+<belongings , {input\big2.txt : 1}>
+<bewildered , {input\big2.txt : 1}>
+<blissful , {input\big2.txt : 1}>
+<bogucharovo , {input\big2.txt : 8}>
+<bold , {input\big2.txt : 2}>
+<boldly , {input\big2.txt : 1}>
+<bolkonski , {input\big2.txt : 3}>
+<bondage , {input\big2.txt : 1}>
+<boorishness , {input\big2.txt : 1}>
+<bosom , {input\big2.txt : 1}>
+<bounty , {input\big2.txt : 1}>
+<bourienne , {input\big2.txt : 1}>
+<bouriennes , {input\big2.txt : 1}>
+<bread , {input\big2.txt : 1}>
+<bribe , {input\big2.txt : 1}>
+<brooding , {input\big2.txt : 1}>
+<brothers , {input\big2.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<baggy , {input\big1.txt : 1}{input\big3.txt : 2}>
+<balanced , {input\big1.txt : 1}{input\big3.txt : 1}>
+<balancing , {input\big1.txt : 2}{input\big3.txt : 2}>
+<bands , {input\big1.txt : 1}{input\big3.txt : 1}>
+<banker , {input\big1.txt : 1}{input\big3.txt : 1}>
+<barbaric , {input\big1.txt : 1}{input\big3.txt : 1}>
+<beamed , {input\big1.txt : 1}{input\big3.txt : 1}>
+<bear , {input\big1.txt : 1}{input\big3.txt : 1}>
+<beauties , {input\big1.txt : 1}{input\big3.txt : 1}>
+<beef , {input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<begins , {input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 2}>
+<benevolent , {input\big1.txt : 1}{input\big3.txt : 1}>
+<beryl , {input\big1.txt : 1}{input\big3.txt : 1}>
+<betrothal , {input\big1.txt : 1}{input\big3.txt : 1}>
+<bijou , {input\big1.txt : 1}{input\big3.txt : 1}>
+<binding , {input\big1.txt : 1}{input\big3.txt : 1}>
+<biographies , {input\big1.txt : 1}{input\big3.txt : 1}>
+<biography , {input\big1.txt : 1}{input\big3.txt : 1}>
+<blackmailing , {input\big1.txt : 1}{input\big3.txt : 1}>
+<blanche , {input\big1.txt : 1}{input\big3.txt : 1}>
+<blind , {input\big1.txt : 1}{input\big3.txt : 1}>
+<bohemia , {input\big1.txt : 4}{input\big3.txt : 7}>
+<bohemian , {input\big1.txt : 3}{input\big3.txt : 3}>
+<born , {input\big1.txt : 1}{input\big3.txt : 1}>
+<boswell , {input\big1.txt : 1}{input\big3.txt : 1}>
+<breasted , {input\big1.txt : 1}{input\big3.txt : 1}>
+<bride , {input\big1.txt : 1}{input\big3.txt : 1}>
+<bridegroom , {input\big1.txt : 1}{input\big3.txt : 1}>
+<briefly , {input\big1.txt : 1}{input\big3.txt : 1}>
+<brimmed , {input\big1.txt : 1}{input\big3.txt : 1}>
+<briony , {input\big1.txt : 8}{input\big3.txt : 11}>
+<brooch , {input\big1.txt : 1}{input\big3.txt : 1}>
+<brougham , {input\big1.txt : 2}{input\big3.txt : 4}>
+<buckles , {input\big1.txt : 1}{input\big3.txt : 1}>
+<built , {input\big1.txt : 1}{input\big3.txt : 1}>
+<bulge , {input\big1.txt : 1}{input\big3.txt : 1}>
+<burglars , {input\big1.txt : 1}{input\big3.txt : 1}>
+<burgled , {input\big1.txt : 1}{input\big3.txt : 1}>
+<busier , {input\big1.txt : 1}{input\big3.txt : 1}>
+<baby; , {input\big3.txt : 1}>
+<backward , {input\big3.txt : 1}>
+<bade , {input\big3.txt : 1}>
+<barrow , {input\big3.txt : 1}>
+<bashful , {input\big3.txt : 1}>
+<beautifully , {input\big3.txt : 1}>
+<bedtime , {input\big3.txt : 1}>
+<belief , {input\big3.txt : 2}>
+<below , {input\big3.txt : 1}{input\big.txt : 3}>
+<bequest , {input\big3.txt : 1}>
+<berths , {input\big3.txt : 1}>
+<betrayed , {input\big3.txt : 1}>
+<billet , {input\big3.txt : 2}>
+<blackest , {input\big3.txt : 1}>
+<blazing , {input\big3.txt : 2}>
+<blotting , {input\big3.txt : 1}>
+<bob , {input\big3.txt : 1}>
+<bottle , {input\big3.txt : 1}>
+<brassy , {input\big3.txt : 1}>
+<breaks , {input\big3.txt : 1}{input\big.txt : 2}>
+<breastpin , {input\big3.txt : 1}>
+<brick , {input\big3.txt : 1}>
+<britannica , {input\big3.txt : 2}>
+<bs , {input\big3.txt : 1}>
+<budge , {input\big3.txt : 1}>
+<butted , {input\big3.txt : 1}>
+<bacillus , {input\big.txt : 1}>
+<bacteria , {input\big.txt : 4}>
+<becks , {input\big.txt : 1}>
+<bells , {input\big.txt : 1}>
+<biers , {input\big.txt : 2}>
+<bismuth , {input\big.txt : 2}>
+<bladder , {input\big.txt : 2}>
+<blebs , {input\big.txt : 1}>
+<blister , {input\big.txt : 4}>
+<blocked , {input\big.txt : 1}>
+<bluish , {input\big.txt : 1}>
+<bodily , {input\big.txt : 1}>
+<boggy , {input\big.txt : 1}>
+<bones , {input\big.txt : 2}>
+<bony , {input\big.txt : 1}>
+<boracic , {input\big.txt : 2}>
+<bottom , {input\big.txt : 1}>
+<branchial , {input\big.txt : 1}>
+<brawny , {input\big.txt : 1}>
+<breach , {input\big.txt : 1}>
+<breast , {input\big.txt : 1}>
+<brownish , {input\big.txt : 1}>
+<bullet , {input\big.txt : 1}>
+<burrow , {input\big.txt : 1}>
+<burrows , {input\big.txt : 1}>
+<bursa , {input\big.txt : 3}>

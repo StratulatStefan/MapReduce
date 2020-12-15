@@ -1,0 +1,178 @@
+<gain , {input\big4.txt : 1}{input\big3.txt : 2}>
+<gained , {input\big4.txt : 3}{input\big5.txt : 1}>
+<gale , {input\big4.txt : 1}{input\big5.txt : 1}>
+<gales , {input\big4.txt : 1}>
+<game , {input\big4.txt : 2}>
+<gang , {input\big4.txt : 1}{input\big5.txt : 1}{input\big3.txt : 1}>
+<gaol , {input\big4.txt : 1}{input\big5.txt : 2}>
+<garden , {input\big4.txt : 4}{input\big5.txt : 3}{input\big2.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<garment , {input\big4.txt : 1}>
+<gathering , {input\big4.txt : 1}>
+<gave , {input\big4.txt : 7}{input\big5.txt : 8}{input\big2.txt : 4}{input\big1.txt : 3}{input\big3.txt : 4}>
+<generally , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<generation , {input\big4.txt : 1}>
+<gentleman , {input\big4.txt : 2}{input\big5.txt : 4}{input\big1.txt : 6}{input\big3.txt : 10}>
+<gentlemen , {input\big4.txt : 1}{input\big3.txt : 2}>
+<gently , {input\big4.txt : 1}>
+<george , {input\big4.txt : 1}>
+<get , {input\big4.txt : 3}{input\big5.txt : 12}{input\big2.txt : 4}{input\big1.txt : 2}{input\big3.txt : 5}{input\big.txt : 1}>
+<giant , {input\big4.txt : 1}>
+<girl , {input\big4.txt : 4}{input\big2.txt : 2}{input\big1.txt : 2}{input\big3.txt : 3}>
+<girt , {input\big4.txt : 1}>
+<give , {input\big4.txt : 13}{input\big5.txt : 9}{input\big2.txt : 8}{input\big1.txt : 4}{input\big3.txt : 6}{input\big.txt : 1}>
+<given , {input\big4.txt : 3}{input\big5.txt : 4}{input\big2.txt : 6}{input\big1.txt : 1}{input\big3.txt : 4}{input\big.txt : 1}>
+<gives , {input\big4.txt : 1}{input\big5.txt : 1}{input\big3.txt : 1}>
+<glad , {input\big4.txt : 3}{input\big5.txt : 3}{input\big2.txt : 2}{input\big1.txt : 1}{input\big3.txt : 3}>
+<glade , {input\big4.txt : 1}>
+<glance , {input\big4.txt : 2}{input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 2}>
+<glanced , {input\big4.txt : 2}{input\big5.txt : 3}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 3}>
+<glances , {input\big4.txt : 1}{input\big5.txt : 1}{input\big3.txt : 1}>
+<glancing , {input\big4.txt : 3}{input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 1}>
+<glare , {input\big4.txt : 1}>
+<glared , {input\big4.txt : 1}>
+<glass , {input\big4.txt : 2}{input\big5.txt : 1}{input\big1.txt : 3}{input\big3.txt : 3}>
+<gleaming , {input\big4.txt : 1}>
+<glisten , {input\big4.txt : 1}>
+<glitter , {input\big4.txt : 1}>
+<go , {input\big4.txt : 12}{input\big5.txt : 8}{input\big2.txt : 17}{input\big1.txt : 4}{input\big3.txt : 7}{input\big.txt : 1}>
+<goading , {input\big4.txt : 1}>
+<god , {input\big4.txt : 7}{input\big5.txt : 7}{input\big2.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<goes , {input\big4.txt : 2}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<going , {input\big4.txt : 4}{input\big5.txt : 2}{input\big2.txt : 2}{input\big3.txt : 2}>
+<gold , {input\big4.txt : 3}{input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<golden , {input\big4.txt : 1}{input\big3.txt : 1}>
+<gone , {input\big4.txt : 6}{input\big5.txt : 8}{input\big2.txt : 3}{input\big3.txt : 2}>
+<good , {input\big4.txt : 6}{input\big5.txt : 19}{input\big2.txt : 1}{input\big1.txt : 10}{input\big3.txt : 26}{input\big.txt : 2}>
+<got , {input\big4.txt : 6}{input\big5.txt : 6}{input\big2.txt : 1}{input\big3.txt : 5}>
+<grace , {input\big4.txt : 1}{input\big5.txt : 1}{input\big3.txt : 1}>
+<grandfather , {input\big4.txt : 1}>
+<granting , {input\big4.txt : 1}>
+<grasped , {input\big4.txt : 1}>
+<grass , {input\big4.txt : 4}>
+<grate , {input\big4.txt : 1}{input\big5.txt : 1}>
+<gravely , {input\big4.txt : 1}{input\big3.txt : 1}>
+<great , {input\big4.txt : 8}{input\big5.txt : 7}{input\big1.txt : 4}{input\big3.txt : 8}{input\big.txt : 2}>
+<greater , {input\big4.txt : 1}>
+<greatest , {input\big4.txt : 1}{input\big3.txt : 1}>
+<green , {input\big4.txt : 1}{input\big5.txt : 1}>
+<grew , {input\big4.txt : 5}{input\big5.txt : 3}>
+<grey , {input\big4.txt : 7}{input\big5.txt : 3}{input\big3.txt : 1}{input\big.txt : 1}>
+<grice , {input\big4.txt : 1}>
+<grinning , {input\big4.txt : 1}>
+<grip , {input\big4.txt : 3}>
+<gripping , {input\big4.txt : 1}>
+<grizzled , {input\big4.txt : 1}{input\big5.txt : 3}>
+<groom , {input\big4.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<groomed , {input\big4.txt : 1}>
+<groping , {input\big4.txt : 1}{input\big5.txt : 1}>
+<ground , {input\big4.txt : 8}{input\big5.txt : 4}{input\big1.txt : 2}{input\big3.txt : 2}{input\big.txt : 1}>
+<growing , {input\big4.txt : 1}>
+<grown , {input\big4.txt : 1}{input\big5.txt : 1}{input\big3.txt : 1}>
+<gum , {input\big4.txt : 1}>
+<gun , {input\big4.txt : 3}>
+<gallows , {input\big5.txt : 1}>
+<gambler , {input\big5.txt : 1}>
+<games , {input\big5.txt : 1}>
+<gas , {input\big5.txt : 5}>
+<gaslight , {input\big5.txt : 1}>
+<gasped , {input\big5.txt : 1}>
+<gather , {input\big5.txt : 3}>
+<gathered , {input\big5.txt : 1}>
+<gazed , {input\big5.txt : 1}{input\big2.txt : 1}{input\big3.txt : 1}>
+<geese , {input\big5.txt : 17}>
+<gem , {input\big5.txt : 2}>
+<general , {input\big5.txt : 1}{input\big2.txt : 3}{input\big1.txt : 1}{input\big3.txt : 2}{input\big.txt : 4}>
+<geniality , {input\big5.txt : 1}>
+<ghastly , {input\big5.txt : 1}>
+<gipsies , {input\big5.txt : 2}>
+<giving , {input\big5.txt : 1}{input\big2.txt : 2}{input\big.txt : 3}>
+<gladstone , {input\big5.txt : 1}>
+<glaring , {input\big5.txt : 1}>
+<glasses , {input\big5.txt : 1}>
+<glints , {input\big5.txt : 1}>
+<globe , {input\big5.txt : 1}>
+<glove , {input\big5.txt : 1}>
+<gods , {input\big5.txt : 1}{input\big2.txt : 6}>
+<goodge , {input\big5.txt : 2}>
+<goodness , {input\big5.txt : 2}>
+<goose , {input\big5.txt : 26}>
+<gown , {input\big5.txt : 2}>
+<grain , {input\big5.txt : 1}{input\big2.txt : 12}>
+<grating , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 2}>
+<gravity , {input\big5.txt : 1}{input\big.txt : 1}>
+<greasy , {input\big5.txt : 1}>
+<greeting , {input\big5.txt : 1}{input\big3.txt : 2}>
+<grime , {input\big5.txt : 1}>
+<grimesby , {input\big5.txt : 1}>
+<grimly , {input\big5.txt : 1}>
+<grin , {input\big5.txt : 1}>
+<gritty , {input\big5.txt : 1}>
+<groaned , {input\big5.txt : 1}>
+<grounds , {input\big5.txt : 1}>
+<guide , {input\big5.txt : 1}{input\big3.txt : 1}>
+<guilt; , {input\big5.txt : 1}>
+<gullet , {input\big5.txt : 1}>
+<gulp , {input\big5.txt : 1}>
+<guttering , {input\big5.txt : 1}>
+<gallop , {input\big2.txt : 1}>
+<galloping , {input\big2.txt : 1}>
+<gazing , {input\big2.txt : 1}>
+<gentleness , {input\big2.txt : 1}>
+<gingerbread , {input\big2.txt : 1}>
+<girls , {input\big2.txt : 1}>
+<grand , {input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<grasp , {input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<grassland , {input\big2.txt : 1}>
+<gratitude , {input\big2.txt : 2}>
+<grave , {input\big2.txt : 1}{input\big.txt : 2}>
+<gray , {input\big2.txt : 1}>
+<greatly , {input\big2.txt : 1}>
+<grief , {input\big2.txt : 3}>
+<groaning , {input\big2.txt : 1}>
+<grudge , {input\big2.txt : 2}>
+<gasogene , {input\big1.txt : 1}{input\big3.txt : 1}>
+<gazetteer , {input\big1.txt : 1}{input\big3.txt : 1}>
+<gentlemans , {input\big1.txt : 1}{input\big3.txt : 1}>
+<german , {input\big1.txt : 6}{input\big3.txt : 6}>
+<gesellschaft , {input\big1.txt : 1}{input\big3.txt : 1}>
+<gesture , {input\big1.txt : 1}{input\big3.txt : 1}>
+<getting , {input\big1.txt : 2}{input\big3.txt : 3}>
+<gibe , {input\big1.txt : 1}{input\big3.txt : 1}>
+<gigantic , {input\big1.txt : 1}{input\big3.txt : 1}>
+<gleam , {input\big1.txt : 1}{input\big3.txt : 1}>
+<glimpse , {input\big1.txt : 1}{input\big3.txt : 3}>
+<glimpses , {input\big1.txt : 1}{input\big3.txt : 1}>
+<godfrey , {input\big1.txt : 5}{input\big3.txt : 5}>
+<gottsreich , {input\big1.txt : 1}{input\big3.txt : 1}>
+<grim , {input\big1.txt : 1}{input\big3.txt : 1}>
+<grinder , {input\big1.txt : 2}{input\big3.txt : 2}>
+<grit , {input\big1.txt : 1}{input\big3.txt : 1}>
+<gross , {input\big1.txt : 1}{input\big3.txt : 1}>
+<group , {input\big1.txt : 1}{input\big3.txt : 1}>
+<grow , {input\big1.txt : 1}{input\big3.txt : 1}>
+<guardianship , {input\big1.txt : 1}{input\big3.txt : 1}>
+<guardsmen , {input\big1.txt : 3}{input\big3.txt : 3}>
+<guess , {input\big1.txt : 1}{input\big3.txt : 1}>
+<guinea , {input\big1.txt : 1}{input\big3.txt : 1}>
+<guineas , {input\big1.txt : 1}{input\big3.txt : 1}>
+<gaze , {input\big3.txt : 1}>
+<gets , {input\big3.txt : 1}>
+<gospel , {input\big3.txt : 1}>
+<grabs , {input\big3.txt : 1}>
+<grasping , {input\big3.txt : 1}>
+<greatcoat , {input\big3.txt : 1}>
+<groan , {input\big3.txt : 1}>
+<guessed , {input\big3.txt : 1}>
+<gangrene , {input\big.txt : 2}>
+<gases , {input\big.txt : 1}>
+<gauze , {input\big.txt : 3}>
+<gentle , {input\big.txt : 1}>
+<glands , {input\big.txt : 4}>
+<glycerine , {input\big.txt : 1}>
+<gradual , {input\big.txt : 1}>
+<gradually , {input\big.txt : 1}>
+<granulation , {input\big.txt : 1}>
+<granulations , {input\big.txt : 3}>
+<groin , {input\big.txt : 1}>
+<grumous , {input\big.txt : 1}>
+<guides , {input\big.txt : 1}>

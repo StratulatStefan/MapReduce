@@ -1,0 +1,1 @@
+<zigzag , {input\big5.txt : 1}>

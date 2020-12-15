@@ -1,0 +1,257 @@
+<mad , {input\big4.txt : 1}{input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<maddening , {input\big4.txt : 1}>
+<made , {input\big4.txt : 12}{input\big5.txt : 9}{input\big2.txt : 2}{input\big1.txt : 6}{input\big3.txt : 13}{input\big.txt : 9}>
+<madly , {input\big4.txt : 1}>
+<maid , {input\big4.txt : 2}{input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 2}>
+<major , {input\big4.txt : 3}{input\big5.txt : 2}>
+<make , {input\big4.txt : 6}{input\big5.txt : 9}{input\big2.txt : 3}{input\big1.txt : 5}{input\big3.txt : 11}{input\big.txt : 1}>
+<man , {input\big4.txt : 40}{input\big5.txt : 46}{input\big2.txt : 4}{input\big1.txt : 19}{input\big3.txt : 34}>
+<man; , {input\big4.txt : 1}>
+<mankind , {input\big4.txt : 1}>
+<manner , {input\big4.txt : 2}{input\big5.txt : 2}{input\big1.txt : 3}{input\big3.txt : 3}>
+<manners , {input\big4.txt : 1}>
+<mans , {input\big4.txt : 4}{input\big5.txt : 3}>
+<many , {input\big4.txt : 7}{input\big5.txt : 5}{input\big2.txt : 3}{input\big1.txt : 3}{input\big3.txt : 9}{input\big.txt : 1}>
+<map , {input\big4.txt : 2}>
+<march , {input\big4.txt : 2}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<mark , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<marked , {input\big4.txt : 3}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 5}>
+<market , {input\big4.txt : 1}{input\big5.txt : 6}{input\big3.txt : 1}>
+<marks , {input\big4.txt : 2}{input\big5.txt : 2}{input\big3.txt : 1}>
+<marriage , {input\big4.txt : 2}{input\big5.txt : 2}{input\big1.txt : 3}{input\big3.txt : 4}>
+<married , {input\big4.txt : 1}{input\big5.txt : 4}{input\big1.txt : 1}{input\big3.txt : 5}>
+<marry , {input\big4.txt : 2}{input\big1.txt : 2}{input\big3.txt : 2}>
+<marrying , {input\big4.txt : 1}>
+<marshy , {input\big4.txt : 1}>
+<martyrdom , {input\big4.txt : 1}>
+<mary , {input\big4.txt : 1}{input\big5.txt : 1}{input\big2.txt : 24}{input\big1.txt : 1}{input\big3.txt : 2}>
+<mass , {input\big4.txt : 1}{input\big5.txt : 1}{input\big.txt : 1}>
+<master , {input\big4.txt : 2}{input\big5.txt : 1}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<material , {input\big4.txt : 1}{input\big.txt : 5}>
+<matter , {input\big4.txt : 7}{input\big5.txt : 19}{input\big2.txt : 1}{input\big1.txt : 9}{input\big3.txt : 15}{input\big.txt : 1}>
+<matter; , {input\big4.txt : 1}>
+<matters , {input\big4.txt : 2}{input\big5.txt : 2}{input\big1.txt : 3}{input\big3.txt : 4}>
+<may , {input\big4.txt : 20}{input\big5.txt : 12}{input\big2.txt : 3}{input\big1.txt : 15}{input\big3.txt : 22}{input\big.txt : 44}>
+<mccarthy , {input\big4.txt : 22}>
+<mccarthys , {input\big4.txt : 4}>
+<me , {input\big4.txt : 60}{input\big5.txt : 79}{input\big2.txt : 23}{input\big1.txt : 31}{input\big3.txt : 82}>
+<me; , {input\big4.txt : 1}{input\big3.txt : 1}>
+<meadow , {input\big4.txt : 1}>
+<meadows , {input\big4.txt : 1}>
+<mean , {input\big4.txt : 4}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 4}>
+<meaning , {input\big4.txt : 1}>
+<means , {input\big4.txt : 1}{input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 3}>
+<meant , {input\big4.txt : 2}>
+<measured , {input\big4.txt : 1}{input\big5.txt : 1}>
+<medical , {input\big4.txt : 1}{input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<meet , {input\big4.txt : 3}{input\big5.txt : 1}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<melbourne , {input\big4.txt : 1}>
+<memoranda , {input\big4.txt : 1}>
+<memory , {input\big4.txt : 1}{input\big5.txt : 1}{input\big2.txt : 1}{input\big1.txt : 2}{input\big3.txt : 4}>
+<men , {input\big4.txt : 5}{input\big5.txt : 2}{input\big2.txt : 5}{input\big1.txt : 7}{input\big3.txt : 14}{input\big.txt : 1}>
+<mendicant , {input\big4.txt : 1}>
+<mere , {input\big4.txt : 2}>
+<meredith , {input\big4.txt : 1}>
+<merely , {input\big4.txt : 1}{input\big5.txt : 2}{input\big1.txt : 2}{input\big3.txt : 4}{input\big.txt : 1}>
+<merest , {input\big4.txt : 1}>
+<meshes , {input\big4.txt : 1}{input\big.txt : 1}>
+<met , {input\big4.txt : 6}{input\big5.txt : 4}{input\big2.txt : 2}{input\big3.txt : 1}{input\big.txt : 6}>
+<method , {input\big4.txt : 2}{input\big.txt : 5}>
+<midway , {input\big4.txt : 1}>
+<might , {input\big4.txt : 7}{input\big5.txt : 16}{input\big2.txt : 3}{input\big1.txt : 7}{input\big3.txt : 18}>
+<mind , {input\big4.txt : 5}{input\big5.txt : 2}{input\big2.txt : 1}{input\big1.txt : 6}{input\big3.txt : 9}>
+<minds , {input\big4.txt : 1}>
+<mine , {input\big4.txt : 2}{input\big5.txt : 3}{input\big2.txt : 2}{input\big3.txt : 2}>
+<mine; , {input\big4.txt : 1}>
+<mines , {input\big4.txt : 2}>
+<minor , {input\big4.txt : 1}>
+<minutes , {input\big4.txt : 4}{input\big5.txt : 2}{input\big1.txt : 11}{input\big3.txt : 14}>
+<miss , {input\big4.txt : 5}{input\big5.txt : 3}{input\big1.txt : 4}{input\big3.txt : 5}>
+<misses , {input\big4.txt : 1}>
+<mistaken , {input\big4.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<mixed , {input\big4.txt : 1}>
+<mixture , {input\big4.txt : 1}>
+<moist , {input\big4.txt : 1}{input\big3.txt : 1}{input\big.txt : 3}>
+<moisture , {input\big4.txt : 1}{input\big5.txt : 1}>
+<mole , {input\big4.txt : 1}>
+<moment , {input\big4.txt : 2}{input\big5.txt : 8}{input\big2.txt : 6}{input\big1.txt : 3}{input\big3.txt : 5}>
+<monday , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}>
+<money , {input\big4.txt : 4}{input\big5.txt : 11}{input\big1.txt : 2}{input\big3.txt : 3}>
+<monograph , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<month , {input\big4.txt : 1}{input\big5.txt : 2}{input\big2.txt : 1}>
+<months , {input\big4.txt : 3}{input\big3.txt : 2}>
+<moodily , {input\big4.txt : 1}>
+<moonshine , {input\big4.txt : 2}>
+<moran , {input\big4.txt : 1}{input\big5.txt : 4}>
+<more , {input\big4.txt : 13}{input\big5.txt : 22}{input\big2.txt : 3}{input\big1.txt : 8}{input\big3.txt : 24}{input\big.txt : 6}>
+<morning , {input\big4.txt : 5}{input\big5.txt : 15}{input\big2.txt : 4}{input\big1.txt : 3}{input\big3.txt : 13}{input\big.txt : 2}>
+<morrow , {input\big4.txt : 3}{input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 4}>
+<mortal , {input\big4.txt : 1}>
+<moss , {input\big4.txt : 2}>
+<most , {input\big4.txt : 7}{input\big5.txt : 5}{input\big1.txt : 10}{input\big3.txt : 17}{input\big.txt : 7}>
+<mostly , {input\big4.txt : 1}{input\big3.txt : 1}>
+<mothers , {input\big4.txt : 1}{input\big5.txt : 2}>
+<mouth , {input\big4.txt : 1}{input\big5.txt : 1}{input\big2.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<mouthed , {input\big4.txt : 1}>
+<mr , {input\big4.txt : 15}{input\big5.txt : 28}{input\big1.txt : 3}{input\big3.txt : 37}>
+<much , {input\big4.txt : 12}{input\big5.txt : 15}{input\big2.txt : 2}{input\big1.txt : 5}{input\big3.txt : 13}>
+<mumbled , {input\big4.txt : 2}>
+<murder , {input\big4.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<murdered , {input\big4.txt : 2}>
+<murderer , {input\big4.txt : 3}{input\big5.txt : 1}>
+<must , {input\big4.txt : 16}{input\big5.txt : 16}{input\big2.txt : 2}{input\big1.txt : 14}{input\big3.txt : 23}{input\big.txt : 5}>
+<my , {input\big4.txt : 108}{input\big5.txt : 164}{input\big2.txt : 15}{input\big1.txt : 55}{input\big3.txt : 119}>
+<myself , {input\big4.txt : 6}{input\big5.txt : 10}{input\big2.txt : 2}{input\big1.txt : 6}{input\big3.txt : 15}>
+<mysteries , {input\big4.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<mysterious , {input\big4.txt : 1}{input\big2.txt : 1}>
+<mystery , {input\big4.txt : 2}{input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 2}>
+<madam , {input\big5.txt : 4}>
+<maggie , {input\big5.txt : 2}>
+<magistrate , {input\big5.txt : 1}>
+<maiden , {input\big5.txt : 1}>
+<makers , {input\big5.txt : 1}>
+<makes , {input\big5.txt : 2}{input\big3.txt : 1}>
+<making , {input\big5.txt : 7}{input\big2.txt : 1}{input\big3.txt : 1}{input\big.txt : 3}>
+<mall , {input\big5.txt : 1}>
+<managed , {input\big5.txt : 1}{input\big3.txt : 1}>
+<mania , {input\big5.txt : 1}>
+<manifold , {input\big5.txt : 1}>
+<manor , {input\big5.txt : 1}>
+<mantelpiece , {input\big5.txt : 2}>
+<marble , {input\big5.txt : 1}>
+<marines , {input\big5.txt : 1}>
+<marriage; , {input\big5.txt : 1}>
+<massive , {input\big5.txt : 1}>
+<match , {input\big5.txt : 1}>
+<maudsley , {input\big5.txt : 1}>
+<maybe , {input\big5.txt : 1}>
+<member , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 2}>
+<membra , {input\big5.txt : 1}>
+<mentioned , {input\big5.txt : 2}>
+<mercy , {input\big5.txt : 2}{input\big2.txt : 2}>
+<metal , {input\big5.txt : 1}{input\big3.txt : 1}>
+<methods , {input\big5.txt : 3}{input\big1.txt : 1}{input\big3.txt : 1}>
+<metropolis , {input\big5.txt : 2}>
+<middle , {input\big5.txt : 4}{input\big3.txt : 1}{input\big.txt : 1}>
+<miles , {input\big5.txt : 1}{input\big2.txt : 1}>
+<million , {input\big5.txt : 1}>
+<mischance , {input\big5.txt : 1}>
+<miserable , {input\big5.txt : 1}>
+<misfortune , {input\big5.txt : 1}{input\big2.txt : 3}>
+<missed , {input\big5.txt : 1}>
+<missing , {input\big5.txt : 2}>
+<mistake , {input\big5.txt : 1}{input\big2.txt : 2}{input\big1.txt : 1}{input\big3.txt : 2}>
+<mister , {input\big5.txt : 1}{input\big3.txt : 1}>
+<moistened , {input\big5.txt : 1}>
+<moments , {input\big5.txt : 2}{input\big2.txt : 1}>
+<moral , {input\big5.txt : 2}>
+<morcar , {input\big5.txt : 2}>
+<morcars , {input\big5.txt : 2}>
+<morocco , {input\big5.txt : 1}>
+<morose , {input\big5.txt : 1}>
+<mortgage , {input\big5.txt : 1}>
+<mother , {input\big5.txt : 4}{input\big2.txt : 1}>
+<mrs , {input\big5.txt : 12}{input\big1.txt : 1}{input\big3.txt : 1}>
+<mud , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<murders , {input\big5.txt : 1}>
+<museum , {input\big5.txt : 3}>
+<mademoiselle , {input\big2.txt : 2}>
+<maids , {input\big2.txt : 2}{input\big3.txt : 1}>
+<maidservants , {input\big2.txt : 1}>
+<marys , {input\big2.txt : 1}>
+<meeting , {input\big2.txt : 2}>
+<melancholy , {input\big2.txt : 1}>
+<merriest , {input\big2.txt : 1}>
+<message , {input\big2.txt : 1}>
+<michael , {input\big2.txt : 3}>
+<midnight , {input\big2.txt : 1}{input\big3.txt : 1}>
+<mist , {input\big2.txt : 1}>
+<mistress , {input\big2.txt : 3}{input\big1.txt : 1}{input\big3.txt : 2}>
+<mo , {input\big2.txt : 1}>
+<monthly , {input\big2.txt : 1}>
+<moods , {input\big2.txt : 1}{input\big3.txt : 1}>
+<moon , {input\big2.txt : 1}>
+<moonlight , {input\big2.txt : 1}>
+<mortify , {input\big2.txt : 1}>
+<moscow , {input\big2.txt : 2}>
+<mournful , {input\big2.txt : 1}>
+<move , {input\big2.txt : 1}>
+<moved , {input\big2.txt : 1}>
+<moving , {input\big2.txt : 1}{input\big.txt : 1}>
+<muttered: , {input\big2.txt : 1}>
+<muttering , {input\big2.txt : 1}{input\big.txt : 1}>
+<mystic , {input\big2.txt : 1}>
+<machine , {input\big1.txt : 1}{input\big3.txt : 1}>
+<madame , {input\big1.txt : 1}{input\big3.txt : 1}>
+<mademoiselles , {input\big1.txt : 1}{input\big3.txt : 1}>
+<majesty , {input\big1.txt : 8}{input\big3.txt : 16}>
+<maker , {input\big1.txt : 1}{input\big3.txt : 1}>
+<male , {input\big1.txt : 1}{input\big3.txt : 2}>
+<malignant , {input\big1.txt : 1}{input\big3.txt : 1}>
+<mask , {input\big1.txt : 5}{input\big3.txt : 5}>
+<masterly , {input\big1.txt : 1}{input\big3.txt : 1}>
+<measures , {input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 2}>
+<menaced , {input\big1.txt : 1}{input\big3.txt : 1}>
+<meningen , {input\big1.txt : 1}{input\big3.txt : 1}>
+<mens , {input\big1.txt : 2}{input\big3.txt : 2}>
+<mental , {input\big1.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<mention , {input\big1.txt : 1}{input\big3.txt : 1}>
+<mess , {input\big1.txt : 1}{input\big3.txt : 1}>
+<mews , {input\big1.txt : 3}{input\big3.txt : 3}>
+<mills , {input\big1.txt : 1}{input\big3.txt : 1}>
+<minded , {input\big1.txt : 1}{input\big3.txt : 1}>
+<mission , {input\big1.txt : 1}{input\big3.txt : 1}>
+<monica , {input\big1.txt : 3}{input\big3.txt : 3}>
+<monogram , {input\big1.txt : 1}{input\big3.txt : 1}>
+<mood , {input\big1.txt : 1}{input\big3.txt : 1}>
+<motives , {input\big1.txt : 1}{input\big3.txt : 1}>
+<moustached , {input\big1.txt : 1}{input\big3.txt : 1}>
+<mouths , {input\big1.txt : 1}{input\big3.txt : 1}>
+<mumbling , {input\big1.txt : 1}{input\big3.txt : 1}>
+<murmured , {input\big1.txt : 3}{input\big3.txt : 3}>
+<magnifico , {input\big3.txt : 1}>
+<main , {input\big3.txt : 1}{input\big.txt : 2}>
+<maintenance , {input\big3.txt : 1}>
+<majestys , {input\big3.txt : 2}>
+<manager , {input\big3.txt : 2}>
+<manual , {input\big3.txt : 2}>
+<marm , {input\big3.txt : 1}>
+<mat , {input\big3.txt : 1}>
+<men; , {input\big3.txt : 1}>
+<merry , {input\big3.txt : 1}>
+<millionaire , {input\big3.txt : 1}>
+<millions , {input\big3.txt : 1}>
+<moody , {input\big3.txt : 1}>
+<mopping , {input\big3.txt : 1}>
+<mornings , {input\big3.txt : 1}>
+<motion , {input\big3.txt : 1}>
+<motioned , {input\big3.txt : 1}>
+<muscles , {input\big3.txt : 1}{input\big.txt : 1}>
+<majority , {input\big.txt : 1}>
+<malpighii , {input\big.txt : 1}>
+<manifest , {input\big.txt : 2}>
+<manifestation , {input\big.txt : 1}>
+<manifestations , {input\big.txt : 3}>
+<manifests , {input\big.txt : 1}>
+<markedly , {input\big.txt : 2}>
+<marrow , {input\big.txt : 1}>
+<massage , {input\big.txt : 2}>
+<masses , {input\big.txt : 1}>
+<mastoid , {input\big.txt : 1}>
+<measles , {input\big.txt : 1}>
+<mechanical , {input\big.txt : 1}>
+<mechanically , {input\big.txt : 1}>
+<meckels , {input\big.txt : 1}>
+<membranes , {input\big.txt : 1}>
+<membranes; , {input\big.txt : 1}>
+<merge , {input\big.txt : 2}>
+<metacarpal , {input\big.txt : 1}>
+<mild , {input\big.txt : 1}>
+<mobility , {input\big.txt : 1}>
+<moderate , {input\big.txt : 1}>
+<moderately , {input\big.txt : 1}>
+<morphin , {input\big.txt : 1}>
+<movement , {input\big.txt : 2}>
+<movements , {input\big.txt : 2}>
+<mucous , {input\big.txt : 6}>
+<muscle , {input\big.txt : 2}>

@@ -1,0 +1,240 @@
+<each , {input\big4.txt : 2}{input\big5.txt : 4}{input\big1.txt : 3}{input\big3.txt : 4}>
+<eager , {input\big4.txt : 1}>
+<ear , {input\big4.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}{input\big.txt : 1}>
+<early , {input\big4.txt : 1}{input\big5.txt : 4}{input\big2.txt : 1}{input\big.txt : 3}>
+<earned , {input\big4.txt : 1}>
+<ears , {input\big4.txt : 1}{input\big3.txt : 1}>
+<earshot , {input\big4.txt : 1}>
+<earth , {input\big4.txt : 2}{input\big5.txt : 1}{input\big3.txt : 1}>
+<ease , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<easier , {input\big4.txt : 1}>
+<easily , {input\big4.txt : 1}{input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 2}>
+<easy , {input\big4.txt : 2}{input\big5.txt : 4}{input\big2.txt : 1}{input\big1.txt : 1}{input\big3.txt : 3}>
+<eccentricity , {input\big4.txt : 1}>
+<edge , {input\big4.txt : 3}{input\big5.txt : 2}>
+<edged , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<effect , {input\big4.txt : 1}{input\big5.txt : 1}{input\big2.txt : 1}{input\big3.txt : 1}>
+<eight , {input\big4.txt : 4}{input\big5.txt : 2}{input\big1.txt : 3}{input\big3.txt : 6}>
+<either , {input\big4.txt : 2}{input\big5.txt : 1}{input\big1.txt : 2}{input\big3.txt : 4}{input\big.txt : 1}>
+<elapsed , {input\big4.txt : 1}>
+<elbow , {input\big4.txt : 1}{input\big3.txt : 1}{input\big.txt : 3}>
+<elderly , {input\big4.txt : 1}{input\big3.txt : 2}>
+<elemental , {input\big4.txt : 1}>
+<elias , {input\big4.txt : 2}>
+<else , {input\big4.txt : 6}{input\big5.txt : 2}{input\big2.txt : 1}{input\big1.txt : 3}{input\big3.txt : 7}>
+<emerge , {input\big4.txt : 1}{input\big5.txt : 1}>
+<emigrated , {input\big4.txt : 1}>
+<emptied , {input\big4.txt : 1}>
+<empty , {input\big4.txt : 1}{input\big5.txt : 1}{input\big3.txt : 1}>
+<enables , {input\big4.txt : 1}>
+<encourage , {input\big4.txt : 1}{input\big.txt : 1}>
+<encouraging , {input\big4.txt : 1}>
+<end , {input\big4.txt : 6}{input\big5.txt : 8}{input\big1.txt : 5}{input\big3.txt : 9}>
+<ended , {input\big4.txt : 1}{input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<ending , {input\big4.txt : 1}>
+<enemies , {input\big4.txt : 1}>
+<enemy , {input\big4.txt : 1}{input\big2.txt : 3}>
+<energetic , {input\big4.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<engaged , {input\big4.txt : 1}{input\big5.txt : 2}{input\big2.txt : 1}{input\big3.txt : 3}>
+<england , {input\big4.txt : 3}{input\big5.txt : 4}{input\big1.txt : 1}{input\big3.txt : 2}>
+<enjoy , {input\big4.txt : 1}>
+<enlarged , {input\big4.txt : 1}>
+<enormous , {input\big4.txt : 1}{input\big3.txt : 1}>
+<enough , {input\big4.txt : 3}{input\big5.txt : 8}{input\big2.txt : 1}{input\big1.txt : 4}{input\big3.txt : 7}>
+<ensued , {input\big4.txt : 1}>
+<entangled , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<enter , {input\big4.txt : 1}{input\big2.txt : 2}{input\big1.txt : 1}{input\big3.txt : 2}{input\big.txt : 1}>
+<entered , {input\big4.txt : 4}{input\big5.txt : 2}{input\big2.txt : 1}{input\big1.txt : 2}{input\big3.txt : 3}{input\big.txt : 1}>
+<entirely , {input\big4.txt : 3}{input\big5.txt : 6}{input\big1.txt : 2}{input\big3.txt : 2}{input\big.txt : 1}>
+<envelope , {input\big4.txt : 6}>
+<equinoctial , {input\big4.txt : 1}>
+<error , {input\big4.txt : 1}{input\big5.txt : 1}>
+<escape , {input\big4.txt : 1}{input\big.txt : 3}>
+<essential , {input\big4.txt : 1}>
+<estate , {input\big4.txt : 6}{input\big5.txt : 1}{input\big2.txt : 4}>
+<europe , {input\big4.txt : 1}{input\big1.txt : 3}{input\big3.txt : 3}>
+<even , {input\big4.txt : 7}{input\big5.txt : 10}{input\big2.txt : 4}{input\big1.txt : 3}{input\big3.txt : 8}{input\big.txt : 9}>
+<evening , {input\big4.txt : 2}{input\big5.txt : 8}{input\big1.txt : 1}{input\big3.txt : 6}{input\big.txt : 1}>
+<events , {input\big4.txt : 2}{input\big5.txt : 3}{input\big3.txt : 2}>
+<ever , {input\big4.txt : 8}{input\big5.txt : 6}{input\big2.txt : 1}{input\big1.txt : 3}{input\big3.txt : 5}>
+<every , {input\big4.txt : 6}{input\big5.txt : 11}{input\big2.txt : 3}{input\big1.txt : 6}{input\big3.txt : 14}>
+<everybody , {input\big4.txt : 1}>
+<everyone , {input\big4.txt : 1}{input\big5.txt : 1}{input\big3.txt : 1}>
+<evidence , {input\big4.txt : 3}{input\big5.txt : 4}>
+<evidence; , {input\big4.txt : 1}>
+<evidently , {input\big4.txt : 1}{input\big5.txt : 1}{input\big2.txt : 2}{input\big1.txt : 2}{input\big3.txt : 2}>
+<evil , {input\big4.txt : 1}{input\big5.txt : 2}{input\big3.txt : 1}>
+<evolved , {input\big4.txt : 1}{input\big.txt : 1}>
+<exact , {input\big4.txt : 1}>
+<examination , {input\big4.txt : 3}{input\big5.txt : 2}>
+<examined , {input\big4.txt : 2}{input\big1.txt : 2}{input\big3.txt : 2}>
+<examining , {input\big4.txt : 1}>
+<except , {input\big4.txt : 2}{input\big1.txt : 1}{input\big3.txt : 2}>
+<exception , {input\big4.txt : 1}>
+<exceptional , {input\big4.txt : 1}{input\big5.txt : 1}{input\big.txt : 1}>
+<excited , {input\big4.txt : 1}{input\big5.txt : 1}>
+<excitement , {input\big4.txt : 1}{input\big5.txt : 2}>
+<exclaimed , {input\big4.txt : 1}{input\big2.txt : 3}>
+<exercise , {input\big4.txt : 1}>
+<expected , {input\big4.txt : 2}{input\big5.txt : 2}{input\big1.txt : 2}{input\big3.txt : 2}>
+<expedition , {input\big4.txt : 1}>
+<experience , {input\big4.txt : 1}{input\big5.txt : 1}{input\big3.txt : 2}>
+<expired , {input\big4.txt : 1}>
+<expiring , {input\big4.txt : 1}>
+<explain , {input\big4.txt : 1}{input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<explanation , {input\big4.txt : 1}>
+<explanations , {input\big4.txt : 1}>
+<exposed , {input\big4.txt : 1}{input\big5.txt : 1}>
+<expound , {input\big4.txt : 1}>
+<expression , {input\big4.txt : 1}{input\big5.txt : 1}{input\big2.txt : 6}{input\big1.txt : 1}{input\big3.txt : 2}>
+<extending , {input\big4.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<extent , {input\big4.txt : 1}{input\big.txt : 3}>
+<extraordinary , {input\big4.txt : 1}{input\big1.txt : 2}{input\big3.txt : 4}>
+<extremity , {input\big4.txt : 1}>
+<eye; , {input\big4.txt : 1}>
+<eyebrows , {input\big4.txt : 1}{input\big2.txt : 1}>
+<eyes , {input\big4.txt : 9}{input\big5.txt : 10}{input\big2.txt : 6}{input\big1.txt : 9}{input\big3.txt : 13}>
+<earn , {input\big5.txt : 2}{input\big3.txt : 2}>
+<eat , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<eaten , {input\big5.txt : 1}>
+<echo , {input\big5.txt : 1}>
+<editor , {input\big5.txt : 1}>
+<education , {input\big5.txt : 1}>
+<efforts , {input\big5.txt : 1}>
+<egg , {input\big5.txt : 3}>
+<eh , {input\big5.txt : 1}{input\big2.txt : 1}>
+<ejaculated , {input\big5.txt : 1}{input\big3.txt : 1}>
+<elastic , {input\big5.txt : 2}>
+<electric , {input\big5.txt : 1}>
+<eleven , {input\big5.txt : 1}{input\big3.txt : 1}>
+<emotion , {input\big5.txt : 2}{input\big2.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<employers , {input\big5.txt : 1}{input\big3.txt : 1}>
+<enabled , {input\big5.txt : 1}>
+<encamp , {input\big5.txt : 1}>
+<encompass , {input\big5.txt : 1}>
+<endeavoured , {input\big5.txt : 1}{input\big3.txt : 1}>
+<endeavouring , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<endell , {input\big5.txt : 1}>
+<ends , {input\big5.txt : 1}>
+<endured , {input\big5.txt : 1}>
+<energy , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<engagement , {input\big5.txt : 1}>
+<entreated , {input\big5.txt : 1}>
+<entry , {input\big5.txt : 1}>
+<equally , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<escaped , {input\big5.txt : 1}{input\big3.txt : 1}>
+<establish , {input\big5.txt : 2}>
+<established , {input\big5.txt : 1}>
+<estates , {input\big5.txt : 1}>
+<evening; , {input\big5.txt : 1}>
+<evenings , {input\big5.txt : 1}>
+<event , {input\big5.txt : 3}{input\big2.txt : 1}{input\big.txt : 1}>
+<eventually , {input\big5.txt : 2}{input\big.txt : 1}>
+<everything , {input\big5.txt : 5}{input\big2.txt : 5}{input\big3.txt : 1}>
+<examine , {input\big5.txt : 1}>
+<example , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 2}{input\big.txt : 7}>
+<exceedingly , {input\big5.txt : 1}{input\big3.txt : 1}{input\big.txt : 1}>
+<excellent , {input\big5.txt : 4}{input\big1.txt : 3}{input\big3.txt : 3}{input\big.txt : 1}>
+<exchanging , {input\big5.txt : 1}>
+<excuse , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 4}>
+<execution , {input\big5.txt : 1}>
+<existence , {input\big5.txt : 1}>
+<expenses , {input\big5.txt : 1}{input\big1.txt : 1}{input\big3.txt : 1}>
+<expensive , {input\big5.txt : 1}>
+<exposure , {input\big5.txt : 3}>
+<expressly , {input\big5.txt : 1}>
+<extended , {input\big5.txt : 2}{input\big1.txt : 1}{input\big3.txt : 1}>
+<extremely , {input\big5.txt : 2}{input\big.txt : 1}>
+<eye , {input\big5.txt : 2}{input\big2.txt : 5}{input\big1.txt : 1}{input\big3.txt : 3}{input\big.txt : 1}>
+<eating , {input\big2.txt : 1}>
+<elder , {input\big2.txt : 1}>
+<emaciated , {input\big2.txt : 1}{input\big.txt : 1}>
+<emerged , {input\big2.txt : 1}{input\big1.txt : 2}{input\big3.txt : 2}>
+<empress , {input\big2.txt : 1}>
+<enabling , {input\big2.txt : 1}>
+<entering , {input\big2.txt : 1}>
+<especially , {input\big2.txt : 1}{input\big3.txt : 2}{input\big.txt : 3}>
+<espied , {input\big2.txt : 1}>
+<est , {input\big2.txt : 2}>
+<excellency , {input\big2.txt : 3}>
+<expecting , {input\big2.txt : 1}>
+<experienced , {input\big2.txt : 1}>
+<expressing , {input\big2.txt : 1}>
+<eagerly , {input\big1.txt : 1}{input\big3.txt : 2}>
+<earnestly , {input\big1.txt : 1}{input\big3.txt : 1}>
+<earning , {input\big1.txt : 1}{input\big3.txt : 1}>
+<eclipses , {input\big1.txt : 1}{input\big3.txt : 1}>
+<edges , {input\big1.txt : 1}{input\big3.txt : 1}>
+<edgeware , {input\big1.txt : 1}{input\big3.txt : 2}>
+<effusive , {input\big1.txt : 1}{input\big3.txt : 1}>
+<eg , {input\big1.txt : 1}{input\big3.txt : 1}>
+<eglonitz , {input\big1.txt : 1}{input\big3.txt : 1}>
+<eglow , {input\big1.txt : 1}{input\big3.txt : 1}>
+<egria , {input\big1.txt : 1}{input\big3.txt : 1}>
+<elbowed , {input\big1.txt : 1}{input\big3.txt : 1}>
+<emotions , {input\big1.txt : 1}{input\big3.txt : 1}>
+<employed , {input\big1.txt : 1}{input\big3.txt : 2}{input\big.txt : 3}>
+<employing , {input\big1.txt : 1}{input\big3.txt : 1}>
+<employs , {input\big1.txt : 1}{input\big3.txt : 1}>
+<english , {input\big1.txt : 2}{input\big3.txt : 3}>
+<equalled , {input\big1.txt : 1}{input\big3.txt : 1}>
+<establishment , {input\big1.txt : 1}{input\big3.txt : 1}>
+<european , {input\big1.txt : 1}{input\big3.txt : 1}>
+<exactly , {input\big1.txt : 1}{input\big3.txt : 1}>
+<exaggerated , {input\big1.txt : 1}{input\big3.txt : 1}>
+<exalted , {input\big1.txt : 1}{input\big3.txt : 1}>
+<exchange , {input\big1.txt : 1}{input\big3.txt : 1}>
+<excitedly , {input\big1.txt : 1}{input\big3.txt : 1}>
+<experiences , {input\big1.txt : 1}{input\big3.txt : 1}>
+<explained , {input\big1.txt : 1}{input\big3.txt : 1}>
+<expostulating , {input\big1.txt : 1}{input\big3.txt : 1}>
+<extreme , {input\big1.txt : 1}{input\big3.txt : 2}>
+<east , {input\big3.txt : 1}>
+<effects , {input\big3.txt : 1}{input\big.txt : 3}>
+<effort , {input\big3.txt : 1}>
+<eligible , {input\big3.txt : 2}>
+<embellish , {input\big3.txt : 1}>
+<emerald , {input\big3.txt : 1}>
+<employe , {input\big3.txt : 1}>
+<encircled , {input\big3.txt : 1}>
+<encyclopaedia , {input\big3.txt : 2}>
+<entertaining , {input\big3.txt : 1}>
+<enthusiasm , {input\big3.txt : 1}>
+<entitles , {input\big3.txt : 1}>
+<epistle , {input\big3.txt : 1}>
+<esq , {input\big3.txt : 1}>
+<everyday , {input\big3.txt : 1}>
+<excuses , {input\big3.txt : 1}>
+<explaining , {input\big3.txt : 1}>
+<extra , {input\big3.txt : 1}>
+<ezekiah , {input\big3.txt : 2}>
+<effected , {input\big.txt : 1}>
+<elicited , {input\big.txt : 1}>
+<eliminated , {input\big.txt : 1}>
+<eliminating , {input\big.txt : 1}>
+<emboli , {input\big.txt : 1}>
+<emigration , {input\big.txt : 1}>
+<emphysema , {input\big.txt : 1}>
+<empyema , {input\big.txt : 2}>
+<endanger , {input\big.txt : 2}>
+<enlargement , {input\big.txt : 1}>
+<entire , {input\big.txt : 1}>
+<entrance , {input\big.txt : 1}>
+<epidermis , {input\big.txt : 1}>
+<eradicated , {input\big.txt : 1}>
+<eradicating , {input\big.txt : 1}>
+<erosion , {input\big.txt : 1}>
+<errors , {input\big.txt : 1}>
+<eruptions , {input\big.txt : 1}>
+<escapes , {input\big.txt : 1}>
+<eusol , {input\big.txt : 3}>
+<exceed , {input\big.txt : 1}>
+<excessive , {input\big.txt : 1}>
+<excise , {input\big.txt : 1}>
+<excised , {input\big.txt : 1}>
+<exhausted , {input\big.txt : 1}>
+<exit , {input\big.txt : 2}>
+<extend , {input\big.txt : 1}>
+<extends , {input\big.txt : 1}>
+<extension , {input\big.txt : 1}>
+<externally , {input\big.txt : 1}>
